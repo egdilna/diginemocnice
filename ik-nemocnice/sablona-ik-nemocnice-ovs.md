@@ -327,6 +327,9 @@ Následuje tabulka s popisným vyhodnocením souladu se závaznými architektoni
 | Architektonický princip P18: Datová suverenita a nezávislost (Data sovereignty and independence) |                  |
 | Architektonický princip P19: Otevřená řešení (Open Source)                                       |                  |
 | Architektonický princip P20: Metriky digitálních služeb (Digital Service Performance)            |                  |
+| Architektonický princip P21: Udržitelnost digitálních služeb a zařízení (Digital service and equipment Sustainability) | |
+| Architektonický princip P22: Svoboda volby (Freedom of choice) | |
+
 
 **Zhodnocení souladu se zásadami IKČR**
 
