@@ -30,7 +30,7 @@ Verze pro nemocnici
 
 Tato informační koncepce se vydává na dobu xxx s platností od xxx. IK se vyhodnocuje pravidelně v dvouletých intervalech, výsledky vyhodnocení jsou součástí IK a zohledňují se v jejích následujících verzích.
 
-{{{OVS}}} je podle zákona o informačních systémech veřejné správy orgánem veřejné správy a to konkrétně tzv. státní právnickou osobou a tedy má povinnosti týkající se dlouhodobého řízení dle vyhlášky o dlouhodobém řízení. kraji.
+{{{OVS}}} je podle zákona o informačních systémech veřejné správy orgánem veřejné správy a to konkrétně tzv. státní právnickou osobou a tedy má povinnosti týkající se dlouhodobého řízení dle vyhlášky o dlouhodobém řízení. 
 
 * IK sleduje a vyhodnocuje v organizaci {{{odbor či osoba}}}, poradou vedení byla projednána a schválena {{{datum schválení}}}. Toto je první verze IK.
 * Řízením organizace se věnuje kolektivně vedení, jeho organizační struktura odpovídá i funkcím v rámci porady vedení. Za řízení IK zodpovídá {{{kdo}}}. Za řízení informatiky zodpovídá {{{kdo}}}. Pro plnění IK jsou zásadní také následující útvary: {{{útvary oddělené čárkou}}}. Organizační struktura organizacei s oblastmi činnosti je zveřejněna na webových stránkách na adrese {{{URL}}}.
@@ -44,6 +44,7 @@ Jako hlavní závěry shrnutí stávajícího stavu lze uvést:
 * xxx
 
 ## 1.3. Specifické postavení nemocnice a vazba na řízení IT
+
 
 
 # 2. Plán rozvoje informačních systémů orgánu veřejné správy
@@ -66,6 +67,18 @@ Jako hlavní závěry shrnutí stávajícího stavu lze uvést:
 
 ## 2.2. Popis důvodu pro změny architektury nemocnice
 
+### 2.2.1. Obecné důvody
+
+### 2.2.2. Elektronizace zdravotnictví
+
+
+### 2.2.3. Modernizace nemocnice
+
+### 2.2.4. Další oblasti elektronizace a digitalizace
+
+### 2.2.5. Vnitřní motivace a potřeby změn
+
+
 ## 2.3. Navržený cílový stav architektury 
 
 ## 2.4. Plán realizace změn informačních systémů nemocnice
@@ -78,6 +91,8 @@ Jako hlavní závěry shrnutí stávajícího stavu lze uvést:
 ### 3.1.1. Obecný popis řízení a rozvoje informatiky v nemocnici
 
 ### 3.1.2. Soulad s procesy požadovanými dlouhodobým řízením IS
+
+Nemocnice jako taková nemá informační systémy veřejné správy a proto uplatňuje procesy řízení stanovené vyhláškou 360/2023 v obecné rovině. 
 
 **V oblasti strategie, plánování a organizace řízení informatiky**
 
@@ -214,7 +229,76 @@ vytváří a průběžně aktualizuje strategii ukončování provozu informač
 * Současný stav: x
 * Potřebné změny: x
 
-### 3.1.3. Soulad s principy a zásadami IKČR
+
+
+
+
+
+## 3.2. 3.2 Popis důvodu pro změny řízení informatiky
+
+## 3.3. Navržený cílový stav řízení informatiky
+
+## 3.4. Plán realizace změn pro dosažení cílového stavu řízení informatiky
+
+# 4. Dokumentace o správě informační koncepce orgánu veřejné správy
+
+Aktuální verze informační koncepce je uvedena na webových stránkách XXX na adrese XXX.
+
+## 4.1. ☑️ 4.1. Platnost informační koncepce orgánu veřejné správy
+
+Tato informační koncepce je platná od
+xxx. Vyhodnocení a aktualizace bude realizována průběžně s tím, že hlavní aktualizace bude v roce 2026.
+
+## 4.2. Postupy při vyhodnocování dodržování informační koncepce orgánu veřejné správy
+
+## 4.3. Postupy při provádění změn informační koncepce orgánu veřejné správy
+
+## 4.4. ☑️ 4.4. Změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna
+
+Toto je první verze IK.
+
+# 5. Datové přílohy informační koncepce
+
+## 5.1. Přehled obecných rolí nemocnice
+
+## 5.2. Tabulky zhodnocení současného stavu a změn
+
+**Zhodnocení souladu s principy elektronizace zdravotnictví**
+**
+
+| Princip                                                        | Popis implementace a změn |
+| :------------------------------------------------------------- | :------------------------ |
+| Princip č. 1: Přínos pro pacienta                              |                           |
+| Princip č. 2: Neoslabování práv pacienta                       |                           |
+| Princip č. 3: Participace odborníků na návrzích a řešeních     |                           |
+| Princip č. 4: Řízení použitelnosti a kvality nástrojů a služeb |                           |
+| Princip č. 5: Postupné a účelné zavádění služeb                |                           |
+| Princip č. 6: Standardizace a modernizace                      |                           |
+
+**Vyhodnocení stavu dle klíčových oblastí architektury**
+
+
+
+
+
+Následuje tabulka s popisem aplikovatelnosti a implementace jednotlivých klíčových oblastí architektury EG, jak je stanovuje Národní architektura EG. Podrobnosti k oblastem uvádí [stránka Klíčové oblasti architektury eGovernmentu](https://archi.gov.cz/uvod_klicove_oblasti)
+
+Tabulka obsahuje jednotlivé oblasti a popis jejich implementace a zhodnocení připravenosti v rámci OVS:
+
+| Oblast                                                   | Popis zhodnocení                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Potřebnost a ekonomická výhodnost informačních systémů   | |
+| Koncepce a strategie úřadů                               | |
+| Obslužné kanály veřejné správy                           | |
+| Elektronický oběh dokumentů                              | |
+| Identifikace v informačních systémech                    | |
+| Strukturovaná data v ISVS, datové fondy a jejich sdílení | |
+| Referenční rozhraní veřejné správy                       | |
+| Sdílené agendové informační systémy                      | |
+| Komunikační infrastruktura veřejné správy                | |
+| Cloudové služby                                          | |
+
+**Zhodnocení souladu s principy IKČR**
 
 
 Následuje tabulka s popisným vyhodnocením souladu se závaznými architektonickými principy stanovenými v Informační koncepci České republiky. U těch principů, jež nejsou pro naši organizaci relevantní, je toto uvedeno. Podrobný popis všech principů obsahuje [stránka národní architektonické principy](https://architektovani.tiddlyhost.com/#n%C3%A1rodn%C3%AD%20architektonick%C3%A9%20principy)
@@ -244,6 +328,7 @@ Následuje tabulka s popisným vyhodnocením souladu se závaznými architektoni
 | Architektonický princip P19: Otevřená řešení (Open Source)                                       |                  |
 | Architektonický princip P20: Metriky digitálních služeb (Digital Service Performance)            |                  |
 
+**Zhodnocení souladu se zásadami IKČR**
 
 
 
@@ -273,63 +358,10 @@ Následuje tabulka s popisným vyhodnocením souladu se zásadami řízení ICT 
 
 
 
-### 3.1.4. Vyhodnocení souladu s principy elektronického zdravotnictví
-
-### 3.1.5. Vyhodnocení stavu dle klíčových oblastí architektury
 
 
+## 5.3. Přehled informačních systémů a aplikací klíčových pro nemocnici
 
+## 5.4. Přehled záměrů IK
 
-
-Následuje tabulka s popisem aplikovatelnosti a implementace jednotlivých klíčových oblastí architektury EG, jak je stanovuje Národní architektura EG. Podrobnosti k oblastem uvádí [stránka Klíčové oblasti architektury eGovernmentu](https://archi.gov.cz/uvod_klicove_oblasti)
-
-Tabulka obsahuje jednotlivé oblasti a popis jejich implementace a zhodnocení připravenosti v rámci OVS:
-
-| Oblast                                                   | Popis zhodnocení                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Potřebnost a ekonomická výhodnost informačních systémů   | |
-| Koncepce a strategie úřadů                               | |
-| Obslužné kanály veřejné správy                           | |
-| Elektronický oběh dokumentů                              | |
-| Identifikace v informačních systémech                    | |
-| Strukturovaná data v ISVS, datové fondy a jejich sdílení | |
-| Referenční rozhraní veřejné správy                       | |
-| Sdílené agendové informační systémy                      | |
-| Komunikační infrastruktura veřejné správy                | |
-| Cloudové služby                                          | |
-
-
-
-
-## 3.2. 3.2 Popis důvodu pro změny řízení informatiky
-
-## 3.3. Navržený cílový stav řízení informatiky
-
-## 3.4. Plán realizace změn pro dosažení cílového stavu řízení informatiky
-
-# 4. Dokumentace o správě informační koncepce orgánu veřejné správy
-
-Aktuální verze informační koncepce je uvedena na webových stránkách XXX na adrese XXX.
-
-## 4.1. ☑️ 4.1. Platnost informační koncepce orgánu veřejné správy
-
-Tato informační koncepce je platná od
-1.4.2024. Vyhodnocení a aktualizace bude realizována průběžně s tím, že hlavní aktualizace bude v roce 2026.
-
-## 4.2. Postupy při vyhodnocování dodržování informační koncepce orgánu veřejné správy
-
-## 4.3. Postupy při provádění změn informační koncepce orgánu veřejné správy
-
-## 4.4. ☑️ 4.4. Změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna
-
-Toto je první verze IK.
-
-# 5. Datové přílohy informační koncepce
-
-## 5.1. Přehled agend a oblastí a zodpovědných útvarů (věcných gestorů)
-
-## 5.2. Přehled informačních systémů orgánu veřejné moci
-
-## 5.3. Přehled záměrů IK
-
-## 5.4. Přehled nutných součinností
+## 5.5. Přehled nutných součinností
