@@ -6,7 +6,7 @@ Verze šablony: 1.0
 
 Verze pro nemocnici
 
-Šablona k dispozici na adrese <https://github.com/egdilna/sablony/blob/main/strategicka_dokumentace/sablona-ik-nemocnice-ovs.md>
+Šablona k dispozici na adrese <[https://github.com/egdilna/sablony/blob/main/strategicka_dokumentace/sablona-ik-nemocnice-ovs.md](https://github.com/egdilna/diginemocnice/blob/main/ik-nemocnice/sablona-ik-nemocnice-ovs.md)>
 
 ----------
 
