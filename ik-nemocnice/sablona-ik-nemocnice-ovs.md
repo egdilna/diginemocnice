@@ -90,7 +90,40 @@ Jako hlavní závěry shrnutí stávajícího stavu lze uvést:
 
 ### 3.1.1. Obecný popis řízení a rozvoje informatiky v nemocnici
 
-### 3.1.2. Soulad s procesy požadovanými dlouhodobým řízením IS
+
+
+
+
+## 3.2. 3.2 Popis důvodu pro změny řízení informatiky
+
+## 3.3. Navržený cílový stav řízení informatiky
+
+## 3.4. Plán realizace změn pro dosažení cílového stavu řízení informatiky
+
+# 4. Dokumentace o správě informační koncepce orgánu veřejné správy
+
+Aktuální verze informační koncepce je uvedena na webových stránkách XXX na adrese XXX.
+
+## 4.1. Platnost informační koncepce orgánu veřejné správy
+
+Tato informační koncepce je platná od
+xxx. Vyhodnocení a aktualizace bude realizována průběžně s tím, že hlavní aktualizace bude v roce 2026.
+
+## 4.2. Postupy při vyhodnocování dodržování informační koncepce orgánu veřejné správy
+
+## 4.3. Postupy při provádění změn informační koncepce orgánu veřejné správy
+
+## 4.4. Změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna
+
+Toto je první verze IK.
+
+# 5. Datové přílohy informační koncepce
+
+## 5.1. Přehled obecných rolí nemocnice
+
+## 5.2. Tabulky zhodnocení současného stavu a změn
+
+**Soulad s procesy požadovanými dlouhodobým řízením IS**
 
 Nemocnice jako taková nemá informační systémy veřejné správy a proto uplatňuje procesy řízení stanovené vyhláškou 360/2023 v obecné rovině. 
 
@@ -233,35 +266,6 @@ vytváří a průběžně aktualizuje strategii ukončování provozu informač
 
 
 
-
-## 3.2. 3.2 Popis důvodu pro změny řízení informatiky
-
-## 3.3. Navržený cílový stav řízení informatiky
-
-## 3.4. Plán realizace změn pro dosažení cílového stavu řízení informatiky
-
-# 4. Dokumentace o správě informační koncepce orgánu veřejné správy
-
-Aktuální verze informační koncepce je uvedena na webových stránkách XXX na adrese XXX.
-
-## 4.1. ☑️ 4.1. Platnost informační koncepce orgánu veřejné správy
-
-Tato informační koncepce je platná od
-xxx. Vyhodnocení a aktualizace bude realizována průběžně s tím, že hlavní aktualizace bude v roce 2026.
-
-## 4.2. Postupy při vyhodnocování dodržování informační koncepce orgánu veřejné správy
-
-## 4.3. Postupy při provádění změn informační koncepce orgánu veřejné správy
-
-## 4.4. ☑️ 4.4. Změnové listy, kterými byla informační koncepce orgánu veřejné správy změněna
-
-Toto je první verze IK.
-
-# 5. Datové přílohy informační koncepce
-
-## 5.1. Přehled obecných rolí nemocnice
-
-## 5.2. Tabulky zhodnocení současného stavu a změn
 
 **Zhodnocení souladu s principy elektronizace zdravotnictví**
 **
