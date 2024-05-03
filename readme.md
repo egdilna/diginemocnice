@@ -1,6 +1,6 @@
 # Repository projektu Diginemocnice
 
-Oficiáůní pracovní repository projektu diginemocnice EGdílny
+Oficiální pracovní repository projektu diginemocnice EGdílny
 
 ----------
 # Stav prací na výstupech
