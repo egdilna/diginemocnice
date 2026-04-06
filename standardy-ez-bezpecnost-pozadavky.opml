@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>Požadavky na bezpečnost pro standardy EZ</title>
+		<dateCreated>2025-08-29 08:00:37</dateCreated>
+		<dateModified>2025-10-22 02:09:29</dateModified>
+		<ownerName>Michal Rada</ownerName>
+	</head>
+	<body>
+	<outline text="Požadavky na bezpečnost pro standardy EZ">
+		<outline text="Požadavky">
+			<outline text="Standard EZ bezpečnosti u poskytovatele" type="image" url="https://www.mindomo.com/doc/c340c646057e4048b7b3075c043862e8-cc8f23d9299e48f1af4fe0f010fbc085">
+				<outline text="Oblast 1. Bezpečnost dokumentace a informací">
+					<outline text="Skupina 1.1. Základní bezpečnostní principy">
+						<outline text="Požadavek 1.1.1. Bezpečnost pacientských dat na prvním místě" />
+						<outline text="Požadavek 1.1.2. Nikdo neoprávněný nesmí mít přístup k informacím" />
+						<outline text="Požadavek 1.1.3. Pacient nesmí ani náhodou vidět data jiného pacienta" />
+						<outline text="Požadavek 1.1.4. Udržuje se aktualizovaný seznam oprávněných osob a jejich rolí a rozsahu oprávnění práce s informacemi a daty" />
+						<outline text="Požadavek 1.1.5. Poskytovatel udělá všechno pro to, aby nikdo bez řádného oprávnění, neměl přístup k jakýmkoliv informacím a datům a to zejména u zdravotnické dokumentace a věškerých dat o pacientech." />
+						<outline text="Požadavek 1.1.6. I poskytovatel, který není malým poskytovatelem adoptuje zásady a postupy uvedené v příloze 1 standardu bezpečnosti u poskytovatele" />
+						<outline text="Požadavek 1.1.7. Poskytovatel pravidelně proškoluje zaměstnance v oblasti bezpečnosti a to vysoce prokazatelným způsobem, je zodpovědný za to, že může prokázat splnění povinnosti seznámit zaměstnance s podmínkami jeho práce, včetně bezpečnosti." />
+					</outline>
+					<outline text="Skupina 1.2. Bezpečnostní dokumentace">
+						<outline text="Požadavek 1.2.1. Zpracování bezpečnostní dokumentace dle ZKB podle úrovně míry rozsahu povinností poskytovatele, jde-li o poskytovatele v roli povinného subjektu KB." />
+						<outline text="Požadavek 1.2.2. Vyhodnocování plnění bezpečnostní dokumentace" />
+						<outline text="Požadavek 1.2.3. Zpracování Pravidel pro bezpečnost zdravotnické dokumentace a ISPZS podle § 55d zákona 372/2011" />
+						<outline text="Požadavek 1.2.4. Poskytovatel zpracuje základní pravidla využívání techniky a to včetně základních zásad bezpečnosti a s nimi prokazatelně seznamuje zaměstnance" />
+						<outline text="Požadavek 1.2.5. Poskytovatel dále zpracuje i další základní zásady bezpečnosti a s nimi seznamuje zaměstnance a školí je podle nich." />
+						<outline text="Požadavek 1.2.6. Součástí bezpečnostní dokumentace u poskytovatele je i bezpečnostní dokumentace všech relevantních informačních systémů a bezpečnostní dokumentace všech přístrojů a zdravotnické techniky." />
+						<outline text="Požadavek 1.2.7. Dojde-li k jakémukoliv narušení či ohrožení bezpečnosti a to nehledě na to, zda jde o incident či událost, jež musí poskytovatel nahlašovat na NÚKIB v rámci povinnosti podle zákona o kybernetické bezpečnosti., je o takové události veden záznam, včetně podrobné informace o průběhu, potenciálních rizicích a především o opatřeních, jež byla přijata pro zabránění opakování." />
+					</outline>
+					<outline text="Skupina 1.3. Fyzická bezpečnost">
+						<outline text="Požadavek 1.3.1. Pracoviště poskytovatele jsou fyzicky zabezpečena proti neoprávněnému přístupu nepovolaných osob." />
+						<outline text="Požadavek 1.3.2. Pacienti ani jiné osoby bez oprávnění nejsou ponechávány v místnostech a místech, kde je počítačové vybavení a nebo zdravotnická dokumentace osamotě bez dozoru." />
+						<outline text="Požadavek 1.3.3. Pokud na pracoviště vstupuje externí spolupracovník a nebo zástupce dodavatele, je o tom veden záznam udávající alespoň od kdy a do kdy a kdo a proč a kde se pohyboval. To poslouží k následnému dokazování přítomnosti konkrétních fyzických osob." />
+						<outline text="Požadavek 1.3.4. Zdravotnická dokumentace ani jiné pracovní listinné dokumenty nejsou volně ponechávány v ordinaci či na jiném místě bez přítomnosti odborného zdravotnického pracovníka." />
+						<outline text="Požadavek 1.3.5. Veškeré listinné dokumenty jsou ukládány v zabezpečených a zamykatelných prostorech, přičemž existuje seznam držitelů klíčů či přístupových karet a klíče nejsou ponechány v zámcích a prostory nejsou trvale odemčeny." />
+						<outline text="Požadavek 1.3.6. Fyzické klíče, přístupové karty a jiné bezpečnostní a přístupové prostředky jsou vydány oproti podpisu konkrétnímu zaměstnanci či jiné fyzické osobě a vede se jejich evidence." />
+						<outline text="Požadavek 1.3.7. Fyzické klíče, přístupové karty a jiné prostředky nesmí být zapůjčovány, předávány v případě nepřítomnosti jinému zaměstnanci ani jinak zneužity využitím jinou fyzickou osobou, než které byly vydány." />
+					</outline>
+					<outline text="Skupina 1.4. Bezpečnost počítačů, mobilů a dalších zařízení">
+						<outline text="Požadavek 1.4.1. Veškeré počítače, tablety a mobilní telefony jsou ve správě poskytovatele a využívá se k tomu příslušný správcovský MDM a CDM software" />
+						<outline text="Požadavek 1.4.2. Tablety, notebooky, mobilní telefony a další koncová zařízení nesmí být volně ponechány bez dozoru a to ani uzamčené" />
+						<outline text="Požadavek 1.4.3. Je zakázáno využívat pracovní techniku pro jiné, než pracovní účely" />
+						<outline text="Požadavek 1.4.4. Počítače a další technická zařízení jsou zabezpečena proti přístupu nepovolaných osob" />
+						<outline text="Požadavek 1.4.5. Počítače a další technická zařízení jsou zabezpečena proti zneužití (viry, malware, ransomware, apod.)" />
+						<outline text="Požadavek 1.4.6. Počítače a další technická zařízení jsou zabezpečena proti ztrátě dat (zálohy, záložní zdroje, apod.)" />
+						<outline text="Požadavek 1.4.7. V zařízeních, která to umožňují nativně a nebo s využitím aplikace, je zapnuté trackování polohy a je možné je takto vyhledat a v případě nutnosti vzdáleně znepřístupnit. Využití zjištění poklohy nesmí být zneužito k neoprávněnému sledování zaměstnance a lze jej použít jen jako reakci na incident a musí být o něm učiněn záznam." />
+					</outline>
+				</outline>
+				<outline text="Oblast 2. Ochrana osobních údajů a soukromí">
+					<outline text="Skupina 2.1. Základní ochrana">
+						<outline text="Požadavek 2.1.1. Poskytovatel dělá vše pro to, aby neumožnil neoprávněný přístup k listinné ani elektronické dokumentaci" />
+						<outline text="Požadavek 2.1.2. Poskytovatel zajistí, že součástí pravidelného proškolování zaměstnancl je i oblast ochrany osobních údajů jako integrální součást bezpečnosti a to s důrazem na účel OOÚ ve zdravotnictví" />
+						<outline text="Požadavek 2.1.3. Poskytovatel plní požadavky stran bezpečnosti i za účelem ochrany údajů a soukromí pacientů" />
+						<outline text="Požadavek 2.1.4. Poskytovatel vede seznam osob oprávněných pracovat se zdravotnickou dokumentací také v listinné podobě a s uvedením rozsahu jejich přístupu k listinné dokumentaci" />
+					</outline>
+					<outline text="Skupina 2.2. Zpracování osobních údajů">
+						<outline text="Požadavek 2.2.1. Jmenovaný pověřenec pro ochranu osobních údajů (DPO) je řádně proškolován a uvědomuje si rozsah a důležitost svých povinností" />
+						<outline text="Požadavek 2.2.2. Poskytovatel má řádně zpracovanou dokumentaci ke zpracování osobních údajů" />
+						<outline text="Požadavek 2.2.3. Pověřenec pravidelně provádí vnitřní kontrolu povinností a procesů v souladu se zákonnými povinnostmi a povinnostmi vnitřní dokumentace" />
+						<outline text="Požadavek 2.2.4. Poskytovatel přijímá opatření zajišťující, aby osobní údaje byly přesné ve vztahu k povaze a účelu zpracování, tedy pro účely poskytování zdravotních služeb a pro potřeby hrazení zdravotních služeb a péče" />
+						<outline text="Požadavek 2.2.5. Poskytovatel má zpracovány Záznamy o činnostech zpracování" />
+						<outline text="Požadavek 2.2.6. Poskytovatel má zpracován a uplatňuje vnitřnípředpis (směrnice) na ochranu OÚ" />
+						<outline text="Požadavek 2.2.7. Poskytovatel v případě kritického zpracování osobních údajů (citlivé osobní údaje, realizuje pravidelné monitorování zpracování a souvisejících procesů" />
+						<outline text="Požadavek 2.2.8. Poskytovatel má procesy a mechanismy na Uplatňování práv subjektů údajů" />
+						<outline text="Požadavek 2.2.9. Poskytovatel má řádně zpracovány a platné všechny potřebné Zpracovatelské smlouvy" />
+						<outline text="Požadavek 2.2.10. V případě kamerového systému v areálu a prostorách poskytovatele, má poskytovatel související dokumentace – informační cedule, balanční test, layouty, screenshoty pohledů kamer, evidence kamer, apod." />
+					</outline>
+					<outline text="Skupina 2.3. Ochrana soukromí pacientů">
+						<outline text="Požadavek 2.3.1. Poskytovatel zajistí svoje činnosti tak, aby nebyla narušena ochrana soukromí a citlivých zdravotních údajů pacientů vůči ostatním pacientům" />
+						<outline text="Požadavek 2.3.2. Poskytovatel ve všech svých prostorách ukládá listinnou dokumentaci takovým způsobem, aby ani omylem nebyla viditelná pro ostatní pacienty a další neoprávněné osoby" />
+						<outline text="Požadavek 2.3.3. Poskytovatel při veškerých svých činnostech postupuje v souladu s povinnostmi respektovat zapsaná oprávnění, souhlasy a nesouhlasy v Registru oprávnění, který je součástí Kmenového registru pacientů a využívá údaje v tomto registru také pro ochranu soukromí pacientůl" />
+						<outline text="Požadavek 2.3.4. Poskytovatel, je-li mu pacientem sdělen souhlas či nesouhlas a je-li takový možný, provede záznam či opravu údajů v Registru oprávnění" />
+					</outline>
+				</outline>
+				<outline text="Oblast 3. Důvěryhodnost">
+					<outline text="Skupina 3.1. Základní požadavky na důvěryhodnost, prokazatelnost a nezpochybnitelnost jednání a dokumentace">
+						<outline text="Požadavek 3.1.1. Poskytovatel stanoví ve svých bezpečnostních a procesních pravidlech, jak vede zdravotnickou dokumentaci bezpečně a důvěryhodně a jaká organizační, procesní a technická opatření realziuje, aby zajistil, že vedená zdravotnická dokumentace je důvěryhodná, prokazatelná a nezpochybnitelná." />
+						<outline text="Požadavek 3.1.2. Poskytovatel ve svých pravidlech uvede, které části zdravotnické dokumentace se vedou v listinné a které v elektronické podobě." />
+						<outline text="Požadavek 3.1.3. Poskytovatel zajistí, aby zejména z vedené zdravotnické dokumentace bylo zřejmé a prokazatelné, že určitou činnost provedl a nebo událost zaznamenal konkrétní zdravotnický pracovník a to alespoň připojením jména a příjmení a dané role tohoto zdravotnického pracovníka." />
+						<outline text="Požadavek 3.1.4. Z listinné dokumentace vedené k pacientovi musí být zřejmé, že konkrétní zdravotnický pracovník provádějící záznam a podepisující jej vlastnoručním podpisem, k tomu byl u daného pacienta a v daném čase oprávněn. Třeba uvedením ošetřujícího lékaře, uvedením že jde o zástup apod." />
+						<outline text="Požadavek 3.1.5. Poskytovatel musí být schopen kdykoliv a to i zpětně prokázat, že určitý zdravotnický pracovník byl v určitém čase přítomen na daném pracovišti, že měl konkrétní roli a měl tedy i související povinnosti a oprávnění. Takový důkaz musí být veden důvěryhodnou formou a nesmí být manipulovatelný." />
+					</outline>
+					<outline text="Skupina 3.2. Autorizace zdravotnické dokumentace v listinné podobě">
+						<outline text="Požadavek 3.2.1. Poskytovatel u každého záznamu zdravotnické dokumentace vedeného v listinné podobě zajistí její listinné ztvárnění a u výsledného dokumentu provede autorizaci podle zákona o zdravotních službách." />
+						<outline text="Požadavek 3.2.2. Poskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení." />
+						<outline text="Požadavek 3.2.3. Pokud poskytovatel předává výstup ze zdravotnické dokumentace v listinné podobě třetí osobě, kromě autorizace samotného výstupu také do zdravotnické dokumentace poznamená, že takový výstup vytvořil a předal a to s uvedením data a příjemce." />
+						<outline text="Požadavek 3.2.4. Poskytovatel zajistí, aby pokud doplňuje autorizaci záznamu v listinné podobě o svoje razítko, nebylo toto razítko používáno k jiným účelům, například pro faktury apod. Poskytovatel tedy zajistí, aby existovalo razítko či razítka, která se využívají výhradně pro autorizaci a vede jejich seznam i s otiskem razídka, aby bylo možno zpětně prokázat jeho pravost. Razítko samotné ani jeho otisk na listinném dokumentu nezakládá pravost záznamu a splnění požadavků na autorizaci." />
+					</outline>
+					<outline text="Skupina 3.3. Zajištění důvěryhodnosti zdravotnické dokumentace a údajů v elektronické podobě">
+						<outline text="Požadavek 3.3.1. Poskytovatel považuje záznamy zdravotnické dokumentace vedené v elektronické podobě v elektronickém systému za důvěryhodné, pokud tento systém splňuje požadavky kladené na ISPZS a požadavky podle § 562 Občanského zákoníku." />
+						<outline text="Požadavek 3.3.2. Poskytovatel považuje zdravotnickou dokumentaci v elektronické podobě, u níž byla provedena autorizace podle požadavků zákona o zdravotních službách, a která je v datovém formátu a struktuře podle standardů podle zákona o elektronizaci zdravotnictví, za platnou, pokud nebyly zneplatněny validační prvky v době autorizace." />
+						<outline text="Požadavek 3.3.3. Vede-li poskytovatel zdravotnickou dokumentaci v elektronické podobě, činí tak výhradně v podmínkách, které zaručují, že záznamy zdravotnické dokumentace jsou důvěryhodné, prokazatelné a nezpochybnitelné a činí tak výhradně v příslušném informačním systému ISPZS. Takový ISPZS musí splňovat požadavky podle tohoto standardu podle oblasti bezpečnostních požadavků na ISPZS." />
+						<outline text="Požadavek 3.3.4. Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu. Činí tak zejména ve svém ISPZS. Informace o takové autorizaci je neoddělitelně spjata se záznamem a je vedena v auditním logu ISPZS. Autorizace splňuje požadavky uvedné v tomto standardu v oblasti požadavků na ISPZS." />
+						<outline text="Požadavek 3.3.5. Poskytovatel při importu záznamů do svého ISPZS zapíše datum a čas importu a provede ověření platnosti validačních prvků použitých pro autorizaci a dále autorizaci důvěřuje i po skončení platnosti certifikátů pro podpis, pečeť a časové razítko." />
+						<outline text="Požadavek 3.3.6. Výstupům ze zdravotnické dokumentace vedené jiným poskytovatelem, které jsou autorizovány (v listinné podobě vlastnoručním podpisem a v elektronické validačními prvky) poskytovatel primárně věří a postupuje podle ní, není-li zjevně nepravdivá a nebo ji nelze zjevně zpochybnit." />
+						<outline text="Požadavek 3.3.7. Obdrží-li poskytovatel výstup ze zdravotnické dokumentace vedené jiným poskytovatelem v listinné podobě a lze předpokládat, že původní poskytovatel spravuje ISPZS z nějž výstup pochází, vyžádá si předání elektronického záznamu autorizovaného podle zákona o zdravotních službách v datové podobě v souladu se standardy podle zákona o elektronizaci zdravotnictví. To je proto, aby se vždy, kdy je to možné, pracovalo s údaji a ne s listinným dokumentem." />
+						<outline text="Požadavek 3.3.8. Obdrží-li poskytovatel výstup zdravotnické dokumentace v listinné podobě a nelze-li jej získat od původního poskytovatele v elektronické podobě podle zákona o elektronizaci zdravotnictví, poskytovatel v případě vložení do ISPZS provede autorizaci tím, že zdigitalizuje listinný dokument a ten opatří konverzní doložkou s náležitostmi podle zákona o zdravotních službách pro autorizaci výsupu a podle zákona o službách vytvářejících důvěru pro potvrzení shody s originálem (takzvaná konverze do elektronické podoby)." />
+						<outline text="Požadavek 3.3.9. Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě (výstupy ze zdravotnické dokumentace), autorizuje tak, že je opatří validačními prvky podle zákona o zdravotních službách založené na resortním certifikátu. O autorizaci výstupu se v ISPZS zaznamená záznam do auditního logu. Autorizací výstupu se nevytváří nový záznam a nepřiděluje se nový identifikátor záznamu." />
+					</outline>
+				</outline>
+				<outline text="Oblast 4. Požadavky na ISPZS">
+					<outline text="Skupina 4.1. Obecné bezpečnostní mechanismy ISPZS">
+						<outline text="Požadavek 4.1.1. Zadavatel si vede dokumentaci o svých požadavcích na ISPZS a to včetně toho, jak dodavatel v daném řešení tyto požadavky naplnil." />
+						<outline text="Požadavek 4.1.2. Zadavatel i pokud není povinným subjektem podle zákona o kybernetické bezpečnosti ve svých požadavcích týkajících se bezpečnosti ISPZS bude vymezovat takové požadavky, aby jím spravovaný ISPZS splňoval bezpečnostní úroveň pro kybernetickou bezpečnost v nižším stupni." />
+						<outline text="Požadavek 4.1.3. Dodavatel v rámci dodávky dodá a udržuje a apravidelně aktualizuje dokumentaci řešení ISPZS, z níž je zřejmé, jakým způsobem a v jakém rozsahu naplnil bezpečnostní požadavky podle tohoto standardu, podle legislativy ke kybernetické bezpečnosti a ochraně osobních údajů a další případné bezpečnostní požadavky zadavatele." />
+						<outline text="Požadavek 4.1.4. Dodavatel v dokumentaci popíše bezpečnostní mechanismy a funkce, kterými zajistil bezpečnost údajů vedených v ISPZS, bezpečnost přístupu do ISPZS, důvěryhodnost a nezměnitelnost údajů v ISPZS, bezpečnost integračních služeb a rozhraní, způsob logování, způsob ochrany před neoprávněným přístupem, způsob šifrování a zabezpečení proti neoprávněnému čtení dat a způsob řešení bezpečnostních událostí a výpadků." />
+						<outline text="Požadavek 4.1.5. Dodavatel podepíše zadavateli písemné prohlášení o shodě dodaného řešení ISPZS s požadavky na bezpečnost." />
+						<outline text="Požadavek 4.1.6. Poskytovatel zajistí, aby informační systém zůstal dostupný podle jeho potřeb v rámci rozsahu jeho požadavků a rozsahu poskytovaných služeb a úrovně bezpečnosti sys´temu jako primárního aktiva." />
+						<outline text="Požadavek 4.1.7. Systém bude provozován v bezodstávkovém provozu a pokud to není možné, jsou nastaveny mechanismy umožňující poskytování služeb po dobu nezbytných výpadků ISPZS." />
+						<outline text="Požadavek 4.1.8. Poskytovatel zajistí, aby dostupnost systému byla garantována smluvně i provozně a aby nedocházelo k dlouhodobé nedostupnosti služeb ISPZS pro jeho uživatele." />
+						<outline text="Požadavek 4.1.9. Poskytovatel zajistí, aby v případě poruchy části infrastruktury systému došlo k plynulému převzetí provozu náhradním řešením." />
+					</outline>
+					<outline text="Skupina 4.2. Správa a bezpečnost dat ISPZS">
+						<outline text="Požadavek 4.2.1. Systém ISPZS zajistí, aby nebylo možné úmyslně či náhodou přistoupit k údajům v něm vedeným jiným způsobem, než funkcemi systému k tomu určenými a nebo neoprávněným přístupem." />
+						<outline text="Požadavek 4.2.2. Veškerá data systému jsou šifrována a vedena takovým způsobem, aby se s nimi nedalo manipulovat mimo systém." />
+						<outline text="Požadavek 4.2.3. Šifrování dat systému je zajištěno jiným šifrovacím klíčem, než šifrování na úrovnmi operačního systému, nebo než se používá k jakémukoliv jinému šifrování a tento klíč nesmí být použit ani jako přístupové heslo pro správce." />
+						<outline text="Požadavek 4.2.4. Systém ISPZS zajistí, aby údaje pacientů nebyly ztraceny ani poškozeny v důsledku výpadku nebo poruchy." />
+						<outline text="Požadavek 4.2.5. Poskytovatel zajistí, aby existoval a byl udržován plán obnovy provozu pro případ mimořádné události či výpadku infrastruktury a nebo selhání systému" />
+						<outline text="Požadavek 4.2.6. Poskytovatel musí pravidelně testovat funkčnost zálohování a čitelnost a úplnost obnovování" />
+						<outline text="Požadavek 4.2.7. Systém automaticky bez nutnosti zásahu správce provádí zálohy celého obsahu všech dat a to alespoň v denních intervalech. Zálohy jsou uchovávány alespoň 30 dnů bez přerušení." />
+						<outline text="Požadavek 4.2.8. Systém disponuje mechanismy pro zálohování dat, včetně veškeré konfigurace systému a možností rychle obsah systému obnovit po havárii." />
+						<outline text="Požadavek 4.2.9. Systém disponuje mechanismy průběžného ověřování integrity a čitelnosti dat a jakýkoliv problém okamžitě nahlásí administrátorovi s nabídkou řešení daného problému, třeba migrací ze zálohy apod." />
+					</outline>
+					<outline text="Skupina 4.3. Auditování a logování v systému">
+						<outline text="Požadavek 4.3.1. Systém má centrální log, do kterého se automatizovaně bez možnosti ovlivnění ze strany administrátora zapisují veškeré změny, operace a přístupy." />
+						<outline text="Požadavek 4.3.2. V logu systému jsou příznakem vyznačeny veškeré záznamy všech operací týkajících se pacienta a systém umí vybrané typy událostí reportovat do Žurnálu činností." />
+						<outline text="Požadavek 4.3.3. Systém do logu zapisuje záznamy a to alespoň v rozsahu data a času, fyzického uživatele včetně jeho KIZP, KIP pokud se týká pacienta, typu události, popisu a zdůvodnění generovaného dle operace a v případě záznamu zdravotnické dokumentace i jeho jednoznačný identifikátor a další údaje stanovené tímto nebo dalšími standardy." />
+						<outline text="Požadavek 4.3.4. Log v systému jako bezpečnostní princip obsahuje sebetransakčnost. Ta se řeší třeba hashováním aktuálního a předchozího záznamu a hashem rozdílu oproti předchozímu záznamu v řadě, nebo obdobným mechanismem, který znemožní narušení transakčnosti smazáním či změnou záznamu logu administrátorem." />
+						<outline text="Požadavek 4.3.5. Systémový log je přístupný pouze administrátorovi a to vždy výhradně v režimu pro čtení. Neexistuje žádná funkce a služba, která by umožňovala do logu jakkoliv zasahovat, kromě přidání nového záznamu." />
+						<outline text="Požadavek 4.3.6. Systém umožňuje administrátorovi procházet záznamy v logu a to i za předpokladu, že administrátor nebude mít přístup k záznamům zdravotnické dokumentace, kterých se záznam v logu týká." />
+						<outline text="Požadavek 4.3.7. Systém umožňuje administrátorovi na vyžádání, bez možnosti zadat další parametry, exportovat obsah logu za pevně určené časové období a nebo za jednoho pacienta a takový export systém umí opatřit resortním časovým razítkem a elektronickou pečetí podle resortního certifikátu (obdoba autorizace výstupu zdravotnické dokumentace)." />
+						<outline text="Požadavek 4.3.8. Log systému je veden odděleně od ostatních dat v systému, tedy alespoň v samostatné tabulce databáze." />
+						<outline text="Požadavek 4.3.9. Systém umožňuje automatizovaně a nebo ručně administrátorovi vygenerovat export logu k jednomu pacientovi a ten předat službami IDRR do Žurnálu činností nebo do Pacientského portálu. Tímto požadavkem lze realizovat i příslušná práva subjektu dle GDPR." />
+					</outline>
+					<outline text="Skupina 4.4. Správa uživatelů, identit a rolí.">
+						<outline text="Požadavek 4.4.1. Veškeré i automatizované operace s uživatelským účtem, včetně usazení do rolí a změnu oprávnění vede systém v logu. Buď pod identitou správcovské role a nebo pod identitou systémového účtu externího systému pro správu identit." />
+						<outline text="Požadavek 4.4.2. Systém buď sám vede seznam uživatelů a jejich oprávnění a nebo je integrován na externí systém pro správu identit uživatelů. Role a rozsahy oprávnění vždy určuje ISPZS." />
+						<outline text="Požadavek 4.4.3. Pokud poskytovatel používá externí systém pro správu identit, tento systém provádí logování minimálně v rozsahu požadavků tohoto standardu. Především ale automatizovaně umí předat záznamy logů do logu ISPZS a to nikoliv přímým přístupem do databáze logu, ale využije k tomu službu ISPZS." />
+						<outline text="Požadavek 4.4.4. Systém umí kdykoliv oprávněným uživatelům vyexportovat sestavu se seznamem všech uživatelů, jejich rolí, pracovišť a rozsahů oprávnění." />
+						<outline text="Požadavek 4.4.5. Systém umí kdykoliv oprávněným uživatelům vyexportovat sestavu se všemi přihlášeními, odhlášeními a bezpečnostními událostmi jednoho uživatele nebo skupiny uživatelů a takový export umí opatřit resortním časovým razítkem." />
+						<outline text="Požadavek 4.4.6. Systém umí kdykoliv oprávněným uživatelům vyexportovat sestavu se všemi operacemi, jež jeden uživatel v systému učinil za určité časové období a tento export umí opatřit resortním časovým razítkem." />
+						<outline text="Požadavek 4.4.7. Správce okamžitě znemožní přihlášení uživatele, který nahlásil zneužití jeho identity. Systém takový zásah zapíše do logu." />
+						<outline text="Požadavek 4.4.8. Pokud je to nutné, správce umožní uživateli, jež nahlásil zneužití své identity po zneplatnění jeho přístupových údajů, si vytvořit nové a umožní přihlášení výhradně těmito novými přístupovými údaji. I to zaznamená systém do logu." />
+					</outline>
+					<outline text="Skupina 4.5. Autentifikace, autorizace a chování uživatelů systému.">
+						<outline text="Požadavek 4.5.1. Jakákoliv operace v systému je umožněna pouze řádně identifikovanému a autentifikovanému uživateli systému." />
+						<outline text="Požadavek 4.5.2. Pro přihlášení uživatele s oprávněním zdravotnického pracovníka se využijí bezpečnostní požadavky plynoucí z povinností kybernetické bezpečnosti." />
+						<outline text="Požadavek 4.5.3. Systém loguje každé přihlášení uživatele, odhlášení uživatele a také každou uživatelskou operaci." />
+						<outline text="Požadavek 4.5.4. Je-li uživatel systému přihlášen pro zastoupení jiného uživatele, i to je součástí záznamu v logu." />
+						<outline text="Požadavek 4.5.5. Systém neumožní přihlásit se uživateli s oprávněními zdravotnického pracovníka, pokud není jeho identita prokazatelně spárována s jeho identitou v Kmenovém registru zdravotnického pracovníka a systém nemá jeho KIZP." />
+						<outline text="Požadavek 4.5.6. Primárním technickým identifikátorem systému pro uživatele s oprávněním zdravotnického pracovníka je kromě jeho uživatelského jména i KIZP." />
+						<outline text="Požadavek 4.5.7. Součástí logování uživatelských operací u uživatelů s oprávněním zdravotnického pracovníka je v záznamu logu vždy i jeho KIZP." />
+						<outline text="Požadavek 4.5.8. Systém nesmí obsahovat virtuální a fiktivní uživatelské účty, jako je univerzální lékař a univerzální sestra či jeden účet na oddělení nebo ordinaci." />
+						<outline text="Požadavek 4.5.9. Systém může obsahovat systémové účty a jejich prostřednictvím mohou být prováděny operace a to včetně hromadných. Takové systémové účty jsou vždy v roli uživatele, musí být z identifikátoru účtu a jeho názvu zřejmé, k němu má daný systémový účet sloužit." />
+						<outline text="Požadavek 4.5.10. U identifikátoru systémových účtů provádějících operace se zdravotnickou dokumentací se použije identifikátor poskytovatele z Kmenového registru poskytovatelů zdravotních služeb, dále může identifikátor obsahovat i číslo umožňující rozlišit jednotlivé systémy a účty. Evidenci takových účtů vede poskytovatel." />
+						<outline text="Požadavek 4.5.11. Systém buď umožní přihlášení oprávněného uživatele s využitím jeho průkazu zdravotnického pracovníka a nebo umožní takovou správu identit a identifikace a autentizace uživatelů, u které není pochybnost identity zdravotnického pracovníka z Kmenového registru zdravotnických pracovníků." />
+						<outline text="Požadavek 4.5.12. Uživatel je za všech okolností zodpovědný za veškeré aktivity činěné jeho jménem v systému, leda že by nahlásil zneužití jeho identit správci." />
+						<outline text="Požadavek 4.5.13. Uživatel je povinen bezodkladně po zjištění nahlásit zneužití jeho identity a nebo podezření na takové zneužití." />
+						<outline text="Požadavek 4.5.14. Správce systému nahlásí možné zneužití identity zdravotnického pracovníka v systému správci Kmenového registru zdravotnických pracovníků a poskytuje plnou součinnost při řešení tohoto závažného bezpečnostního incidentu." />
+						<outline text="Požadavek 4.5.15. Pokud u poskytovatele jsou zaměstnáni zdravotničtí pracovníci ve směnném provozu, vede poskytovatel údaje o obsazení jednotlivých pracovišť ve směnách, aby bylo možno kdykoliv později prokázat, že daný uživatel systému byl přítomen a nebo naopak takovou doměnku vyvrátit." />
+					</outline>
+					<outline text="Skupina 4.6. Vedení zdravotnické dokumentace a zdravotních dat v ISPZS">
+						<outline text="Požadavek 4.6.1. Zdravotnická dokumentace se vede kontinuálně po jednotlivých záznamech zdravotnické dokumentace." />
+						<outline text="Požadavek 4.6.2. Jeden záznam zdravotnické dokumentace je vázán k jednomu pacientovi." />
+						<outline text="Požadavek 4.6.3. Je-li třeba zapsat do zdravotnické dokumentace u více pacientů jednu událost, systém pro každého pacienta vytvoří samostatný záznam." />
+						<outline text="Požadavek 4.6.4. Každý záznam obsahuje povinně identifikátor záznamu, kmenový identifikátor pacienta a kmenový identifikátor konkrétního zdravotnického pracovníka, nejde-li o automatizovaně importovaný záznam ze zdravotnického prostředku nebo přístroje." />
+						<outline text="Požadavek 4.6.5. Každý jednotlivý záznam zdravotnické dokumentace opatří systém jednoznačným identifikátorem, který je vygenerován na základě povinného schématu pro identifikátory vyhlášeného ministerstvem." />
+						<outline text="Požadavek 4.6.6. Systém generuje identifikátory záznamu zdravotnické dokumentace v nepřetržité číselné řadě a znemožní dvojí použití identifikátoru nebo přeskočení čísla v číselné řadě." />
+						<outline text="Požadavek 4.6.7. Systém znemožní ruční přidělení identifikátoru záznamu zdravotnické dokumentace, jeho změnu či úpravu a nebo použití jiného identifikátoru na existující záznam zdravotnické dokumentace." />
+						<outline text="Požadavek 4.6.8. Identifikátor záznamu zdravotnické dokumentace nelze žádným způsobem později měnit. Systém udržuje informace o přidělených identifikátorech a identifikátory zapisuje jako primární identifikátor také do logu." />
+						<outline text="Požadavek 4.6.9. Pro všechny operace uvnitř systému je identifikátor záznamu primárním a jediným technickým identifikátorem. Nemůže existovat záznam bez identifikátoru a přidělení identifikátoru v číselné řadě je první technickou operací při vytvoření záznamu nehledě na jeho uložení." />
+						<outline text="Požadavek 4.6.10. Hromadné předgenerování identifikátorů záznamu zdravotnické dokumentace je zakázáno." />
+						<outline text="Požadavek 4.6.11. Při importu záznamu od jiného poskytovatele je záznamu přidělen nový identifikátor, a identifikátor záznamu původního poskytovatele se ukládá jako součást metadat záznamu. Také původní identifikátor se zapisuje do logu." />
+						<outline text="Požadavek 4.6.12. V případě kompromitace nebo zneužití číselné řady identifikátorů, poskytovatel o tom neprodleně informuje ministerstvo a bude postupovat podle jeho pokynů. V takovém případě jsou pouze přidělovány nově generované identifikátory podle nové číselné řady, ale nelze změnit již přidělené identifikátory ke stávajícím záznamům." />
+						<outline text="Požadavek 4.6.13. Systém umožňuje správcovské roli vyhledat záznam zdravotnické dokumentace podle jeho identifikátoru,  avšak neumožní jeho změnu. Systém umožní uživateli vyhledávat záznamy zdravotnické dokumentace podle kritérií, jako je například pacient a jeho údaje, avšak ne podle identifikátoru." />
+						<outline text="Požadavek 4.6.14. Zapsaný záznam zdravotnické dokumentace nelze později měnit ani odstranit. Lze jej pouze zneplatnit označením příslušným příznakem." />
+						<outline text="Požadavek 4.6.15. Záznam zdravotnické dokumentace nelze upravovat, lze pouze vytvořit nový záznam a označit ho jako opravu existujícího. Původní záznam se označí jako zneplatněný. Při vytváření záznamu typu oprava nebo úprava musí být vždy součástí záznamu také odůvodnění změn." />
+						<outline text="Požadavek 4.6.16. Záznam zdravotnické dokumentace nemůže být odstraněn. Může být pouze zneplatněn a nahrazen jiným záznamem, anebo zneplatněn s odůvodněním, že záznam je stornován a není nahrazen jiným záznamem." />
+						<outline text="Požadavek 4.6.17. Importovaný záznam od jiného poskytovatele nelze označit za zneplatněný." />
+						<outline text="Požadavek 4.6.18. Záznamy související s již existujícím záznamem jsou s ním v systému spojeny pevnými odkazy a jsou k dispozici informace o tom, který záznam je oprava kterého záznamu. Dělá se to tak, aby byly splněny požadavky týkající se nezměnitelnosti záznamů zdravotnické dokumentace, jejich důvěryhodnosti a veškerých informací o křížových odkazech mezi jednotlivými záznamy. Vazby mezi záznamy jsou vždy oboustranné a jsou zapisovány do auditního logu" />
+					</outline>
+					<outline text="Skupina 4.7. Autorizace zdravotnické dokumentace v elektronické podobě">
+						<outline text="Požadavek 4.7.1. Systém provede autorizaci záznamu zdravotnické dokumentace prostřednictvím splnění požadavků na auditování a logování, záznamy logu obsahují KIP a JIZZD." />
+						<outline text="Požadavek 4.7.2. Při zobrazení podrobností záznamu zdravotnické dokumentace je na obrazovce vyznačeno, že řádně proběhla autorizace záznamem do logu, uživatel nemá k záznamu v logu přístup." />
+						<outline text="Požadavek 4.7.3. V ISPZS se pracuje výhradně s autorizovanými záznamy a autorizovanými výstupy." />
+						<outline text="Požadavek 4.7.4. Poznámky a doplňující informace, které nejsou zdravotnickou dokumentací podle zákona o zdravotních službách, systém taktéž autorizuje jako by se jednalo o záznamy, neprovádí se ale jejich autorizace pokud jsou přidány do výstupu ze zdravotnické dokumentace." />
+						<outline text="Požadavek 4.7.5. Pokud se mění záznam zdravotnické dokumentace, vytvoří se nový záznam s novým obsahem a je identifikátory svázán s původním záznamem. Tato skutečnost, včetně obou identifikátorů se zapíše do logu při autorizaci záznamu a v záznamu i v logu se uvede, proč a jak se původní záznam změní, přičemž původní záznam se nesmaže, ale jen označí za neplatný. Autorizace původního záznamu tím není zneplatněna." />
+						<outline text="Požadavek 4.7.6. Systém neumožní žádným způsobem a to ani správcovské roli mazat záznamy zdravotnické dokumentace. Jediným způsobem změny či zrušení záznamu je vytvoření nového záznamu a označení původního záznamu za zneplatněný, nebo neplatný." />
+						<outline text="Požadavek 4.7.7. K autorizaci výstupu zdravotnické dokumentace v elektronické podobě se využije vždy buď podepsání elektronickým podpisem zdravotnického pracovníka na resortním podpisovém certifikátu a nebo pečetění elektronickou pečetí poskytovatele na resortním certifikátu poskytovatele, vždy ale opatření resortním časovým razítkem." />
+						<outline text="Požadavek 4.7.8. V textovém obsahu i v datové vrstvě autorizovaného výstupu zdravotní dokumentace je vždy uveden KIPSZ a jeho název, KIZP a jeho jméno a příjmení, datum a čas autorizace, způsob autorizace, JIDZD, KIP a údaje pacienta a pokud jde o záznam měnící jiný záznam i JIDZD původního záznamu." />
+						<outline text="Požadavek 4.7.9. Autorizace výstupu zdravotnické dokumentace do listinné podoby je realizována záznamem v logu, tiskem výstupu a opatřením vlastnoručním podpisem zdravotnického pracovníka na výstupu." />
+						<outline text="Požadavek 4.7.10. I při tisku výstupu zdravotnické dokumentace do listinné podoby je na výstupu uveden JIDZD a další údaje umožňující nalezení původního záznamu v systému poskytovatele." />
+						<outline text="Požadavek 4.7.11. Autorizace výstupu zdravotnické dokumentace je jednou z událostí, která se zapisuje do logu systému." />
+						<outline text="Požadavek 4.7.12. Systém si vždy uloží soubor s autorizovaným výstupem zdravotnické dokumentace." />
+						<outline text="Požadavek 4.7.13. Při jakémkoliv hromadném exportu záznamů zdravotnické dokumentace u pacienta se do exportu zahrnou i neplatné a zneplatněné záznamy, které tak budou ale řádně označeny. Při datovém exportu se také umožní export souvisejících záznamů logu. To neplatí při exportu za účelem výstupu předávaného jinému poskytovateli." />
+					</outline>
+					<outline text="Skupina 4.8. Výměna dat a zdravotnické dokumentace">
+						<outline text="Požadavek 4.8.1. Poskytovatel si údaje o pacientech vede primárně ve svém ISPZS. Poskytovatel si vede zdravotnickou dokumentaci v elektronické podobě výhradně ve svém ISPZS." />
+						<outline text="Požadavek 4.8.2. Poskytovatel provede u každého pacienta ztotožnění z Kmenového registru pacientů s využitím služeb IDRR." />
+						<outline text="Požadavek 4.8.3. S jinými poskytovateli v rámci ČR si poskytovatel vyměňuje a předává zdravotnickou dokumentaci výhradně přes výměnné sítě a to se splněním požadavků zákona o elektronizaci zdravotnictví a vyhlášených standardů elektronizace. Při výměně a předávání zdravotnické dokumentace a zdravotních údajů se také pro každou operaci výměny vede záznam v auditním logu." />
+						<outline text="Požadavek 4.8.4. Podklad, jež má být veden ve zdravotnické dokumentaci a jež byl předán pacientem a není to výstup od jiného poskytovatele si poskytovatel zdigitalizuje." />
+						<outline text="Požadavek 4.8.5. Hlavním identifikátorem pacienta je u poskytovatele Kmenový identifikátor pacienta přidělený MZ a získaný ztotožněním pacienta ve Kmenovém registru pacientů." />
+						<outline text="Požadavek 4.8.6. Hlavním identifikátorem pro každý záznam zdravotnické dokumentace a pro výstup ze zdravotnické dokumentace je identifikátor vytvořený poskytovatelem na základě generování podle požadavků MZ." />
+						<outline text="Požadavek 4.8.7. Pro využívání údajů a využívání služeb podle zákona o elektronizaci zdravotnictví poskytovatel využije výhradně svůj ISPZS a volání služeb IDRR." />
+						<outline text="Požadavek 4.8.8. Poskytovatel postupuje při integraci na služby IDRR podle standardu pro bezpečné propojování IS a CSEZ." />
+					</outline>
+				</outline>
+			</outline>
+			<outline text="Standard EZ bezpečného propojení">
+				<outline text="Oblast 1. Fungování a bezpečnost informačních systémů centrálních služeb elektronického zdravotnictví.">
+					<outline text="Skupina 1.1. Obecné zajištění bezpečného propojení systémů a služeb EZ.">
+						<outline text="Požadavek 1.1.1. Ministerstvo zdravotnictví jako správce IDRR a ostatních centrálních služeb EZ realizuje taková opatření, aby byla zajištěna maximální dostupnost, funkčnost a bezpečnost informačních systémů a v nich vedených údajů." />
+						<outline text="Požadavek 1.1.2. Správce IDR je oprávněn omezit přístup ke službám IDRR poskytovatelům a jejich ISPZS, pokud tyto systémy naruší bezpečnost či dostupnost služeb IDRR a pokud tak učiní, neprodleně oficiálně informuje poskytovatele a jeho administrátora či administrátory." />
+						<outline text="Požadavek 1.1.3. ✨ Správce IDRR provádí monitoring systémů a především monitoring integrací mezi systémy v rámci IDRR a mezi ISPZS a IDRR." />
+						<outline text="Požadavek 1.1.4. Veškerá komunikace mezi všemi systémy v rámci elektronizace zdravotnictví je šifrována a zabezpečena příslušnými kryptografickými mechanismy zajištěnými na základě certifikátů vydaných certifikační autoritou EZCA." />
+						<outline text="Požadavek 1.1.5. Správce IDRR za účelem zachování bezpečnosti a řízení přístupu vede neveřejný seznam ISPZS registrovaných poskytovatelem, který obsahuje vazbu na poskytovatele, vazbu na administrátora registrujícího ISPZ, údaje o ISPZS a číslo resortního certifikátu určeného a registrovaného pro daný ISPZS." />
+					</outline>
+					<outline text="Skupina 1.2. Zdroje informací o stavu a bezpečnosti informačních systémů EZ">
+						<outline text="Požadavek 1.2.1. Ministerstvo zdravotnictví na internetové stránce se stavem systémů EZ zveřejňuje semafor fungování pro každý z informačních systémů EZ a zveřejňuje stav i ve formě kanálu RSS." />
+						<outline text="Požadavek 1.2.2. Ministerstvo zdravotnictví na internetové stránce a ve formě kanálu RSS zveřejňuje informace o bezpečnostních událostech týkajících se uživatelů IS." />
+						<outline text="Požadavek 1.2.3. Ministerstvo zdravotnictví na internetové stránce a ve formě kanálu RSS zveřejňuje informace o plánovaných odstávkách IDRR a systémů EZ." />
+						<outline text="Požadavek 1.2.4. Ministerstvo zdravotnictví na internetové stránce a ve formě kanálu RSS zveřejňuje klíčové informace pro uživatele týkající se připojení ISPZS a jejich integrace přes IDR a dokumentaci ke službám IDRR a každou její změnu." />
+					</outline>
+				</outline>
+				<outline text="Oblast 2. Požadavky na bezpečné propojení informačního systému poskytovatele zdravotních služeb na centrální služby elektronického zdravotnictví.">
+					<outline text="Skupina 2.1. Předpoklady k připojení ISPZS na služby IDRR.">
+						<outline text="Požadavek 2.1.1. Poskytovatel určí alespoň jednu fyzickou osobu administrátora. Správce IDRR umožní této osobě či osobám přístup do rozhraní Národního portálu elektronizace zdravotnictví pro administraci resortních certifikátů, registrovaných ISPZS a řešení věcí spojených s přístupem ke službám IDRR. Pro identifikaci této osoby či osob se využije výhradně kvalifikovaný systém elektronické identifikace." />
+						<outline text="Požadavek 2.1.2. Pokud je poskytovatelem ambulantní ordinace jediného zdravotnického pracovníka, je tento zdravotnický pracovník administrátorem a nemusí určovat jinou osobu jako administrátora." />
+						<outline text="Požadavek 2.1.3. Úkony administrátora jsou považovány za právní jednání poskytovatele." />
+						<outline text="Požadavek 2.1.4. Poskytovatel pro svůj ISPZS provede u správce IDRR jeho registraci a k tomu a ke správě registrovaných systémů využívá rozhraní Národního portálu elektronizace  zdravotnictví." />
+						<outline text="Požadavek 2.1.5. Poskytovatel při registraci svého ISPZS potvrdí, že naplňuje požadavky na ISPZS kladené právními předpisy, standardy elektronického zdravotnictví a provozním řádem IDRR" />
+						<outline text="Požadavek 2.1.6. Poskytovatel při registraci svého ISPZS potvrdí souhlas se závazným plněním provozního řádu IDRR." />
+						<outline text="Požadavek 2.1.7. Pokud poskytovatel potřebuje důvodně registrovat více svých ISPZS, pro každý z nich mu správce IDRR vydá jiný resortní certifikát a poskytovatel bude volat služby každého ISPZS autentifikací na základě daného certifikátu." />
+						<outline text="Požadavek 2.1.8. Vydání resortního certifikátu využívaného pro autentizaci ISPZS je umožněno pouze v rozhraní Národního portálu a to pouze administrátorovi poskytovatele. Pro vydání je nutné, aby se administrátor ověřil prostřednictvím kvalifikovaného sytému elektronické identifikace. Vydání a zaslání certifikátu třeba do datové schránky poskytovatele není možné." />
+						<outline text="Požadavek 2.1.9. Na vydání a využívání resortního certifikátu či certifikátů poskytovatele se vztahují mimo jiné pravidla certifikační autority EZCA a provozní řád IDRR." />
+						<outline text="Požadavek 2.1.10. Poskytovatel na žádost ministerstva předloží pravidla zpracovaná podle § 55d zákona 372/2011 a to i mimo kontrolu." />
+					</outline>
+					<outline text="Skupina 2.2. Technické připojení ISPZS ke službám IDRR.">
+						<outline text="Požadavek 2.2.1. IDRR umožní volat a využívat služby pouze řádně registrovaným ISPZS." />
+						<outline text="Požadavek 2.2.2. Je preferován princip SPOI (Single point of integration), tedy jediný bod pro integraci všech systémů poskytovatele na IDRR a systémy EZ." />
+						<outline text="Požadavek 2.2.3. ISPZS jedná vždy výhradně jménem jednoho daného poskytovatele." />
+						<outline text="Požadavek 2.2.4. Je-li provozováno řešení multitenantní řešení ISPZS používané více poskytovateli, provozovatel provozuje každou instanci pro každého poskytovatele odděleně a volá odděleně i služby IDRR pro každého poskytovatele." />
+						<outline text="Požadavek 2.2.5. Veškerá komunikace mezi ISPZS a službami IDRR probíhá šifrovaně přes HTTPS." />
+						<outline text="Požadavek 2.2.6. ISPZS se autentifikuje při každém volání každé služby IDRR kombinací kmenového identifikátoru poskytovatele a resortního certifikátu registrovaného pro autentizaci daného ISPZS a platné registrace daného ISPZS." />
+						<outline text="Požadavek 2.2.7. Poskytovatel, který je z důvodů jiných povinností připojen do CMS se svými informačními systémy ke službám IDRR připojí výhradně prostřednictvím CMS." />
+					</outline>
+					<outline text="Skupina 2.3. Využívání služeb IDRR informačním systémem poskytovatele.">
+						<outline text="Požadavek 2.3.1. Za fungování a chování ISPZS v rámci připojení k centrálním službám a využívání a úpravy údajů je vždy zodpovědný výhradně poskytovatel, který je správcem tohoto systému." />
+						<outline text="Požadavek 2.3.2. Jednání prostřednictvím ISPZS je považováno za jednání poskytovatele, jednání obsahující identifikaci zdravotnického pracovníka prostřednictvím ISPZS je považováno za jednání zdravotnického pracovníka jménem poskytovatele." />
+						<outline text="Požadavek 2.3.3. Poskytovatel jako správce ISPZS plně zodpovídá za to, že se systémem pracuje výhradně oprávněný uživatel a pokud jde o zdravotnického pracovníka, že je řádně ztotožněn s Kmenovým registrem zdravotnických pracovníků." />
+						<outline text="Požadavek 2.3.4. IDRR umožní volat a využívat služby pouze po představení jednotnou hlavičkou volání. Tato hlavička obsahuje vždy identifikátor poskytovatele, autentifikaci systému, identifikátor zdravotnického pracovníka a důvod a účel volání služby." />
+						<outline text="Požadavek 2.3.5. ISPZS při žádosti o využívání údajů pacienta uvede pro každého pacienta jeho kmenový identifikátor." />
+						<outline text="Požadavek 2.3.6. ISPZS provede ztotožnění pacienta z Kmenového registru pacientů, identifikátorem je kmenový identifikátor pacienta." />
+						<outline text="Požadavek 2.3.7. ISPZS může pro identifikaci pacienta využít rodné číslo výhradně při prvnim ztotožnění pacienta z Kmenového registru pacientů, při pozdějším využívání a předávání údajů využije výhradně kmenový identifikátor pacienta." />
+						<outline text="Požadavek 2.3.8. IDRR při pokusu o přenos rodného čísla mezi poskytovateli služeb výměnné sítě obsahujícím rodné číslo a kmenový identifikátor pacienta, z hlavičky zprávy rodné číslo odstraní a ponechá pouze kmenový identifikátor pacienta." />
+						<outline text="Požadavek 2.3.9. IDRR neumožní využívání služeb výměnné sítě, pokud volání služby neobsahuje autentizaci poskytovatele a jeho ISPZS." />
+					</outline>
+				</outline>
+			</outline>
+		</outline>
+	</outline>
+	</body>
+</opml>
