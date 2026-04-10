@@ -16,7 +16,11 @@
               "name": "diginemocnice.cz/dulezite - To vůbec nejdůležitější nejen na wiki DigiNemocnice",
               "url": "https://www.diginemocnice.cz/dulezite",
               "desc": "Přehled a seznam toho nejdůležitějšího, co lze najít na znalostním webu diginemocnice.cz i jinde - úplný základ toho, co lze najít a co lze použít",
-              "tags": []
+              "tags": [
+                "❗️",
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ]
             },
             {
               "id": "mnssaab9qb0ce",
@@ -46,6 +50,7 @@
               "url": "https://www.diginemocnice.cz/legislativni-ramec-ez",
               "desc": "Popis legislativního rámce EZ a zejména detailní popis zákonů 325/2021 a 372/2011 z pohledu elektronizace a digitalizae",
               "tags": [
+                "❗️",
                 "diginemocnice.cz",
                 "znalosti EZ"
               ],
@@ -155,5 +160,8 @@
         }
       ]
     }
+  ],
+  "tags": [
+    "❗️"
   ]
 }
