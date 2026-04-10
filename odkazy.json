@@ -1,6 +1,47 @@
 {
   "ghPath": "egdilna/diginemocnice/odkazy.json",
-  "title": "",
-  "desc": "",
-  "groups": []
+  "title": "Knihovna odkazů diginemocnice.cz",
+  "desc": "Veřejná knihovna zajímavých a užitečných odkazů spravovaná serverem diginemocnice.cz",
+  "groups": [
+    {
+      "id": "mnsqaey2kl3o9",
+      "name": "Praktické věci k digitalizaci nemocnic",
+      "folders": [
+        {
+          "id": "mnsqb42zcw5w8",
+          "name": "Prezentace a záznamy workshopů a přednášek",
+          "bookmarks": [
+            {
+              "id": "mnsqdgzjkb411",
+              "name": "5.2.2026: Workshop diginemocnice.cz - Architektura a byznys nemocnice",
+              "url": "https://www.diginemocnice.cz/2026-02-05-workshop-architektura-byznys-nemocnice",
+              "desc": "Prezentace a část záznamu z veřejného workshopu diginemocnice k byznysové architektuře nemocnice a vlastně k architektuře obecně",
+              "tags": [],
+              "notes": [
+                "Vysvětlení, jak má fungovat poznání byznysu a řízení ICT v nemocnici a specifické povinnosti pro státní nemocnice",
+                "Vysvětlení, co je to architektura jako nástroj a rámec poznání a co přináší také nemocnici",
+                "Praktické ukázky z již připravených a postupně doplňovaných architektonických modelů ehealthuposkytovatele",
+                "Informační koncepce nebo obdobná strategie nemocnice a jak může pomoci v poznání a zlepśení na byznysové i ICT úrovni",
+                "K dispozici je úplná online prezentace s odkazy a zdroji a také část videozázánmu workshopu",
+                "Praktický pohled na základní referenční architekturu ISPZS a požadavky na něj"
+              ]
+            },
+            {
+              "id": "mnsqn37xxoplp",
+              "name": "26.2.2026: Workshop diginemocnice.cz - Funkce a požadavky na ISPZS",
+              "url": "https://www.diginemocnice.cz/2026-02-26-online-workshop-fungovani-ispzs",
+              "desc": "Prezentace a část záznamu online workshopu pro dodavatele a nemocnice a poskytovatele na téma, jak má fungovat a co má umět informační systém poskytovatele zdravotních služeb (ISPZS) a prakticé ukázky požadavků na něj",
+              "tags": [],
+              "notes": [
+                "Vše kolem informační systémů, NIS, ISPZS a tak",
+                "Co má takový systém nejen pro nemocnici (či systémy) umět a na co nezapomenout",
+                "Praktcké pohledy na referenční architekturu ISPZS a na požadavky",
+                "Na stránce je prezentace, odkazy na další zdroje a videozáznam workshopu"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
