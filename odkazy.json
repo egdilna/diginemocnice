@@ -8,6 +8,19 @@
       "name": "Praktické věci k digitalizaci nemocnic",
       "folders": [
         {
+          "id": "mnsqu4yf1awmz",
+          "name": "Obecné znalosti nejen pro nemocnice k digitalizaci",
+          "bookmarks": [
+            {
+              "id": "mnsqwmjr9ct0p",
+              "name": "diginemocnice.cz/dulezite - To vůbec nejdůležitější nejen na wiki DigiNemocnice",
+              "url": "https://www.diginemocnice.cz/dulezite",
+              "desc": "Přehled a seznam toho nejdůležitějšího, co lze najít na znalostním webu diginemocnice.cz i jinde - úplný základ toho, co lze najít a co lze použít",
+              "tags": []
+            }
+          ]
+        },
+        {
           "id": "mnsqb42zcw5w8",
           "name": "Prezentace a záznamy workshopů a přednášek",
           "bookmarks": [
