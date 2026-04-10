@@ -17,6 +17,105 @@
               "url": "https://www.diginemocnice.cz/dulezite",
               "desc": "Přehled a seznam toho nejdůležitějšího, co lze najít na znalostním webu diginemocnice.cz i jinde - úplný základ toho, co lze najít a co lze použít",
               "tags": []
+            },
+            {
+              "id": "mnssaab9qb0ce",
+              "name": "Centrální služby elektronického zdravotnictví",
+              "url": "https://www.diginemocnice.cz/centralni-sluzby-elektronickeho-zdravotnictvi",
+              "desc": "Seznam a popis centrálních služeb definovaných zákonem 325/2021",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaab9ik6ak",
+              "name": "Klíčové role v elektronizaci zdravotnictví",
+              "url": "https://www.diginemocnice.cz/klicove-role-v-elektronizaci-zdravotnictvi",
+              "desc": "Uvedení klíčových rolí v rámci EZ a co dělají",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaab97g3zf",
+              "name": "Legislativní rámec EZ",
+              "url": "https://www.diginemocnice.cz/legislativni-ramec-ez",
+              "desc": "Popis legislativního rámce EZ a zejména detailní popis zákonů 325/2021 a 372/2011 z pohledu elektronizace a digitalizae",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaab90r4jw",
+              "name": "Klíčové systémy EZ",
+              "url": "https://www.diginemocnice.cz/klicove-systemy-elektronickeho-zdravotnictvi",
+              "desc": "Přehled klíčových národních informačních systémů v EZ a jejich správců",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaab9j4k65",
+              "name": "Kmenové registry EZ",
+              "url": "https://www.diginemocnice.cz/kmenove-registry",
+              "desc": "Informace o kmenových registrech ve zdravotnictví",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaaba90ine",
+              "name": "Základní znalosti pro architekturu pro nemocnice",
+              "url": "https://www.diginemocnice.cz/architektura-nemocnice-referencni-textove-odkazy",
+              "desc": "Odkazy na připravené části architektury a architektonických znalostí použitelné nejen pro nemocnice jako základ jejich architektury",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaaba5hbxc",
+              "name": "ArchiMate model ehealthuposkytovatele",
+              "url": "https://www.diginemocnice.cz/archimate-model-ehealthuposkytovatele",
+              "desc": "Veřejný obecně použitelný model EZ ze strany poskytovatele",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaabab8dal",
+              "name": "Obecná struktura procesů a činností nemocnice",
+              "url": "https://www.diginemocnice.cz/obecna-vzorova-struktura-procesu-a-cinnosti-klicovych-pro-nemocnici",
+              "desc": "Vzorová struktura a seznam základních kategorií byznys procesů a byznys činností typické nemocnice",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
+            },
+            {
+              "id": "mnssaabanv7zn",
+              "name": "Seznam povinností z eZdravotnictví pro poskytovatele",
+              "url": "https://www.diginemocnice.cz/seznam-povinnosti-z-ezdravotnictvi-pro-poskytovatele",
+              "desc": "Výtah z Mapy povinností EZ - všechny obecné povinnosti poskytovatele zdravotních služeb týkající se elektronizace zdravotnictví - povinnosti ze zákonů 325/2021 a 372/2011",
+              "tags": [
+                "diginemocnice.cz",
+                "znalosti EZ"
+              ],
+              "notes": []
             }
           ]
         },
