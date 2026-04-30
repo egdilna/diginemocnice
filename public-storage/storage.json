@@ -1,0 +1,9 @@
+{
+  "schema": "dms-storage-v1",
+  "id": "diginemocnice-public",
+  "name": "Veřejné dokumenty diginemocnice.cz",
+  "description": "",
+  "theme": "light-auto",
+  "modified": "2026-04-30T07:49:20.304Z",
+  "rootItems": []
+}
