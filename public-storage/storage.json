@@ -3,7 +3,25 @@
   "id": "diginemocnice-public",
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
-  "theme": "light-auto",
-  "modified": "2026-04-30T07:49:20.304Z",
-  "rootItems": []
+  "theme": "manila-folder",
+  "modified": "2026-04-30T07:52:52.909Z",
+  "rootItems": [
+    {
+      "type": "note",
+      "id": "xw7tit6xjq7r6",
+      "name": "Co je tohle úložiště",
+      "description": "",
+      "content": "Toto je úložiště projektu diginemocnice.cz, kde najdete veřejné a zveřejněné dokumenty a další data. Na ty se odkazujeme většinou z wiki diginemocnice.cz",
+      "created": "2026-04-30T07:51:16.674Z",
+      "modified": "2026-04-30T07:52:02.120Z"
+    },
+    {
+      "type": "link",
+      "id": "x0340thuusa0d",
+      "name": "diginemocnice.cz",
+      "url": "https://www.diginemocnice.cz",
+      "description": "Web diginemocnice",
+      "modified": "2026-04-30T07:52:52.909Z"
+    }
+  ]
 }
