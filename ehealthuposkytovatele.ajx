@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-04-13T18:19:45.715Z",
+  "exportDate": "2026-05-05T07:42:29.324Z",
   "archimateVersion": "3.2",
   "model": {
     "id": "cz-diginemocnice-ehealthuposkytovatele",
@@ -3436,6 +3436,466 @@
       "určuje": "",
       "příznaky": "Referenční architektura nemocnice",
       "description": "Rozdělení byznysu nemocnice do rámcových oblastí je pro lepší pochopení a zároveň pro možnost pracovat s byznysovou architekturou bez nutnosti veledetailního modelování celého rámce byznysových procesů"
+    },
+    {
+      "id": "stratez30c1",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Strategický cíl 1. Zvýšení zainteresovanosti občana na péči o vlastní zdraví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1. Zvýšení zainteresovanosti občana na péči o vlastní zdraví z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c11",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.1 Národní portál elektronického zdravotnictví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.1 Národní portál elektronického zdravotnictví – vše na jednom místě z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c12",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.2 Přístup k údajům pod kontrolou pacienta",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.2 Přístup k údajům pod kontrolou pacienta – bezpečnost, souhlasy a dříve vyslovená přání z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c13",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.3 Zdravotní notifikace a připomínky",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.3 Zdravotní notifikace a připomínky – systém včasných upozornění z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c14",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.4 Mobilní zdraví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.4 Mobilní zdraví – podpora digitálních řešení pro sledování zdravotního stavu z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c15",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.5 Digitální zdravotní deník",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.5 Digitální zdravotní deník – osobní záznam pacienta o zdraví a léčbě z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c16",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.6 Virtuální zdravotní asistent",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.6 Virtuální zdravotní asistent – digitální průvodce zdravotní péčí  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c17",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.7 Digitální průkazka zdraví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.7 Digitální průkazka zdraví – identifikace a přehled z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c18",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 1.8 Chytrá prevence",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl1.8 Chytrá prevence – digitalizace screeningových programů z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c2",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Strategický cíl 2. Zvýšení efektivity zdravotnického systému",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2. Zvýšení efektivity zdravotnického systému z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c21",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.1 Elektronické zdravotnické záznamy",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.1 Elektronické zdravotnické záznamy – efektivní sdílení informací  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c22",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.2 Bezpečné sdílení",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.2 Bezpečné sdílení – přístup k údajům napříč zdravotnictvím z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c23",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.3 Digitální evidence",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.3 Digitální evidence – kompletní přehled užívaných léčiv a zdravotnických prostředků z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c24",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.4 eŽádanka",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.4 eŽádanka – efektivní předávání péče mezi poskytovateli zdravotních služeb z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c25",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.5 Ekonomika péče",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.5 Ekonomika péče – systémové řízení nákladů ve zdravotnictví  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c26",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.6 Elektronická klinická data",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.6 Elektronická klinická data – moderní základ pro výzkum a vývoj léčiv, zdravotnických prostředků a technologií z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c27",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.7 Chytrá medicína",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.7 Chytrá medicína – rozhodování a výzkum na základě dat  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c28",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 2.8 Zubní péče pod kontrolou",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl2.8 Zubní péče pod kontrolou – jednotná databáze výkonů a sledování dostupnosti z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c3",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Strategický cíl 3. Zvýšení kvality a dostupnosti zdravotních služeb",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3. Zvýšení kvality a dostupnosti zdravotních služeb z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c31",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.1 Zdraví na dálku",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.1 Zdraví na dálku – rozvoj telemedicíny a chytrých řešení z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c32",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.2 Srovnání léčby",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.2 Srovnání léčby – měření kvality, dostupnosti a efektivity napříč systémem z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c33",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.3 Doporučené postupy online",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.3 Doporučené postupy online – nástroj pro poskytovatele zdravotních služeb z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c34",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.4 Online komunikace v urgentní medicíně",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.4 Online komunikace v urgentní medicíně – multiplatformní nástroj propojení poskytovatelů zdravotních služeb z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c35",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.5 Léčba na míru",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.5 Léčba na míru – prediktivní modely pro cílenou terapii z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c36",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.6 Virtuální a rozšířená realita",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.6 Virtuální a rozšířená realita – cesta ke kvalitnější péči  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c37",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.7 Zdraví doma",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.7 Zdraví doma – systém podpory domácí zdravotní péče z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c38",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 3.8 Rozvoj telestomatologie",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl3.8 Rozvoj telestomatologie – zajištění dostupnosti stomatologické péče v celé ČR z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c4",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Strategický cíl 4. Infrastruktura a správa elektronického zdravotnictví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4. Infrastruktura a správa elektronického zdravotnictví z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c41",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.1 Kmenové zdravotnické registry",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.1 Kmenové zdravotnické registry – základní kámen zdravotnických dat  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c42",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.2 Afinitní domény ve zdravotnictví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.2 Afinitní domény ve zdravotnictví – základ bezpečné výměny dat z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c43",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.3 Standardizace zdravotnické dokumentace",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.3 Standardizace zdravotnické dokumentace – jednotný jazyk medicíny  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c44",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.4 Digitální identita zdravotnických pracovníků",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.4 Digitální identita zdravotnických pracovníků – bezpečné řízení přístupů a oprávnění z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c45",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.5 Kybernetická a datová bezpečnost",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.5 Kybernetická a datová bezpečnost – ochrana systému i pacienta  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c46",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.6 Testovací prostředí",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.6 Testovací prostředí – interoperabilita a bezpečnost z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c47",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.7 Harmonizace systémů",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.7 Harmonizace systémů – propojení zdravotnictví s digitálním státem  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c48",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 4.8 Propojení zdravotních a sociálních dat",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl4.8 Propojení zdravotních a sociálních dat – základ koordinované péče z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c5",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Strategický cíl 5. Digitální rozvoj zdravotnictví prostřednictvím strategického řízení",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5. Digitální rozvoj zdravotnictví prostřednictvím strategického řízení z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c51",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.1 Digitální gramotnost a osvěta",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.1 Digitální gramotnost a osvěta – vzdělávání v éře eHealth z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c52",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.2 Strategické řízení digitalizace",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.2 Strategické řízení digitalizace – vedení a koordinace rozvoje EZ z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c53",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.3 Digitální propojení Evropy",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.3 Digitální propojení Evropy – napojení a implementace EHDS z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c54",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.4 Zdravotnictví s AI",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.4 Zdravotnictví s AI – znalostní centrum a vedení praxe z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c55",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.5 Inovace pro zdraví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.5 Inovace pro zdraví – podpora výzkumu v oblasti zdravotních technologií z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c56",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.6 Udržitelnost ve zdravotnictví",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.6 Udržitelnost ve zdravotnictví – ekologicky odpovědné zdravotnictví  z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c57",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.7 Chytré registry – efektivní správa a sdílení resortních dat",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.7 Chytré registry – efektivní správa a sdílení resortních dat z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30c58",
+      "layer": "motivation",
+      "type": "Goal",
+      "stereotype": "",
+      "name": "Cíl 5.8 Administrativa bez zátěže",
+      "určuje": "Národní strategie EZ do 2030",
+      "příznaky": "",
+      "description": "Cíl5.8 Administrativa bez zátěže – automatizace rutinních procesů z Národní strategie EZ"
+    },
+    {
+      "id": "stratez30",
+      "layer": "business",
+      "type": "Contract",
+      "stereotype": "Závazný předpis",
+      "name": "Národní strategie EZ do 2030",
+      "určuje": "",
+      "příznaky": "",
+      "description": "Národní strategický rámec pro EZ"
     }
   ],
   "relationships": [
@@ -5967,6 +6427,420 @@
       "name": "obsahuje",
       "description": "",
       "příznaky": "Referenční architektura nemocnice"
+    },
+    {
+      "id": "stratez30stratez30c1",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c1",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c11",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c11",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c12",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c12",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c13",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c13",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c14",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c14",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c15",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c15",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c16",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c16",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c17",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c17",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c18",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c18",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c2",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c2",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c21",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c21",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c22",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c22",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c23",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c23",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c24",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c24",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c25",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c25",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c26",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c26",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c27",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c27",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c28",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c28",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c3",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c3",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c31",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c31",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c32",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c32",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c33",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c33",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c34",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c34",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c35",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c35",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c36",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c36",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c37",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c37",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c38",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c38",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c4",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c4",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c41",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c41",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c42",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c42",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c43",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c43",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c44",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c44",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c45",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c45",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c46",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c46",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c47",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c47",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c48",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c48",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c5",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c5",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c51",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c51",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c52",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c52",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c53",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c53",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c54",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c54",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c55",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c55",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c56",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c56",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c57",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c57",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30stratez30c58",
+      "sourceId": "stratez30",
+      "targetId": "stratez30c58",
+      "type": "Association",
+      "name": "obsahuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "mzdstratez30",
+      "sourceId": "mzd",
+      "targetId": "stratez30",
+      "type": "Association",
+      "name": "",
+      "description": "",
+      "příznaky": ""
     }
   ],
   "diagrams": [
