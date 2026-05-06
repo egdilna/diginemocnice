@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-04-30T07:52:52.909Z",
+  "modified": "2026-05-06T06:22:18.473Z",
   "rootItems": [
     {
       "type": "note",
@@ -22,6 +22,24 @@
       "url": "https://www.diginemocnice.cz",
       "description": "Web diginemocnice",
       "modified": "2026-04-30T07:52:52.909Z"
+    },
+    {
+      "type": "file",
+      "id": "eliska-letak",
+      "name": "Leták PH Eliška Gottfriedová",
+      "description": "",
+      "versions": [
+        {
+          "timestamp": "2026-05-06T06:22:18.473Z",
+          "description": "",
+          "size": 1568796,
+          "device": "MacBook Windows",
+          "filename": "diginemocnice-public_eliska-letak_2026-05-06_08-22.pdf",
+          "sha": null
+        }
+      ],
+      "created": "2026-05-06T06:18:58.048Z",
+      "modified": "2026-05-06T06:22:18.473Z"
     }
   ]
 }
