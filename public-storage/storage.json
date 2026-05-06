@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-06T10:25:53.621Z",
+  "modified": "2026-05-06T10:27:24.421Z",
   "rootItems": [
     {
       "type": "note",
@@ -116,16 +116,24 @@
                   "size": 63467,
                   "device": "MacBook Windows",
                   "filename": "diginemocnice-public_sablona-ik-pn_v1_2026-05-06_12-25.mdd",
-                  "sha": null,
+                  "sha": "9a38cbac15dd15a475d119a641ed889fafb75fd5",
                   "partId": "v1"
                 }
               ],
               "created": "2026-05-06T10:20:01.784Z",
-              "modified": "2026-05-06T10:25:53.621Z",
+              "modified": "2026-05-06T10:27:24.421Z",
               "parts": [
                 {
                   "id": "v1",
                   "name": "verze 1.0"
+                }
+              ],
+              "comments": [
+                {
+                  "id": "x4oud13axy3yd",
+                  "author": "MacBook Windows",
+                  "text": "Odsud si berte soubory šablony jen pokud víte co děláte. Jinak je v této složce i interaktivní webová aplikace pro tvorbu IK z této šablony a tu je třeba používat.",
+                  "created": "2026-05-06T10:27:24.421Z"
                 }
               ]
             }
