@@ -1,0 +1,681 @@
+{
+  "format": "sablonar-draft",
+  "version": 1,
+  "templateName": "sablona-ik-pn",
+  "savedAt": "2026-05-06T10:24:49.981Z",
+  "mode": "preview",
+  "templateText": "[[[text: Název nemocnice]]] ([[[text: Zkratka nemocnice]]])\n\n\n\n\n# strategie rozvoje IS a ICT [[[text: zkratka nemocnice]]] ]]] (informační koncepce)\n\n## 1. Úvod\n\n### 1.1. Identifikace Informační koncepce\n\n[[[text: název nemocnice]]] ]]] (dále jen [[[text: zkratka nemocnice]]]) vydává tuto Informační koncepci podle Zákona a předpisů upravujících dlouhodobé řízení a informační koncepce orgánů veřejné správy a to Zákon č. 365/2000 Sb., o informačních systémech veřejné správy, Vyhláška č. 360/2023 Sb., o dlouhodobém řízení, Metodický pokyn OHA státním právnickým osobám a Informační koncepce ČR.\n\n\n* Název organizace: [[[text: název nemocnice]]]\n* Typ organizace: Jiný orgán veřejné správy, Státní  nemocnice\n* Funkci zřizovatele vykonává Ministerstvo zdravotnictví\n* IK vypracovali: [[[text: zodpovědná osoba]]] a [[[text: zpracovatelé]]]]]]\n* Datum schválení IK: [[[text: datum schválení]]]\n* Platnost IK: od [[[text: platnost od]]]\n* Zodpovědný zaměstnanec: [[[text: zodpovědná osoba]]]\n\n### 1.2. Manažerské shrnutí Informační koncepce OVS\n\nToto je první informační koncepce v naší nemocnici, proto nemusí být v tuto chvíli známé veškeré potřebné znalosti, očekáváme s aktualizací zlepšení:\n\n[[[číslované: body manažerského shrnutí]]]\n\nNejdůležitějšími změnami jsou změny popsané v následujících záměrech:\n\n[[[odrážky: nejdůležitější záměry]]]\n\n### 1.3. Specifické postavení nemocnice a vazba na řízení IT\n\nStátní nemocnice je dle zákona o ISVS sice orgánem veřejné správy (jde o Státní právnickou osobu), ale fakticky nevykonává veřejnou správu a není orgánem veřejné moci podle zákona o základních registrech. Její hlavní úlohou je léčit pacienty a poskytovat jim zdravotní a další služby, i proto má velice specifické ICT prostředky a obdobně specifické potřeby řízení informatiky. Rámec informačních koncepcí v ČR je optimalizován především na úřady, které spravují informační systémy veřejné správy se všemi souvisejícími požadavky eGovernmentu, nemocnice ISFS nemá a proto je i přístup k IK odlišný od úřadů.\n\nZákladními odlišnostmi nemocnic, které se promítají i do IK jsou:\n\n\n* nejsou primárně orgány veřejné moci a nemají povinnosti související s výkonem agend, poskytováním digitálních služeb a propojeným datovým fondem - tedy jejich systémy nemají plnit související technické požadavky a nelze se z jejich plnění v IK zodpovídat\n* nespravují a neprovozují informační systémy veřejné správy - nemohou tedy řešit soulad s povinnostmi týkajícími se ISVS včetně využívání sdílených služeb pro ISVS, jako je propojení přes EGSB, apod. Přesto mohou s přizpůsobením adoptovat principy pořízení a správy systémů z dlouhodobého řízení na svoje klíčové systémy\n* Jejich hlavní oblasti činnosti se týkají jejich role poskytovatelů zdravotních služeb, mají velice specifické druhy klíčových systémů (souhrnně nazývané nemocniční informační systémy) a na tyto systémy se musí primárně vztahovat požadavky dlouhodobého řízení, proto je struktura IK tomuto specificky přizpůsobena\n* Nemají takové personální, ekonomické a znalostní prostředky pro tak komplexní řízení ICT jako třeba u ministerstva a tedy i požadavky na řídící procesy se musí zjednodušit a přizpůsobit jejim možnostem, zároveň by se neměla uměle snižovat jejich kvalita a neúměrně se zvyšovat související administrativa\n* Důležitým systémem s pohledu EG v nemocnici je pacientský portál (pokud ho nemocnice má či ho chystá), protože ten bude muset být napojen na služby jak EZ, tak eGovernmentu.\n\n\n\n\n\n\nZ těchto důvodů je struktura i obsah IK přizpůsobena a doplněna o specifika digitalizace v oblasti zdravotnictví, zdravotnické dokumentace a sdílení elektronických zdravotních záznamů, což nahrazuje sdílení údajů a služby veřejné správy u úřadů. Dále se v IK klade důraz na zjednodušený popis současného stavu a potřeb změn u těch nejdůležitějších oblastech v nichž již nyní i SPO má určité digitalizační povinnosti.\n\nCílem informační koncepce jako takové není bezezbytku naplnit veškeré kapitoly určené ve vvzorových osnovách pro úřady, ale splnit věcnou roli praktické a realizovatelné a vyhodnotitelné koncepce v orgánu veřejné správy. Je tedy důležité popsat zejména aspekty jež se týkají systémů pro fungování nemocnice jako poskytovatele zdravotních služeb, včetně budoucích povinností k elektronizaci zdravotnictví.\n\n\nNemocnice je svým posláním i fungováním naprosto odlišná od úřadu a i když má jako státní právnická osoba mít informační koncepci, nelze na ni hledět jako na uurad a klást na její IK stejné nároky:\n\n* IK a celé dlouhodobé řízení nemocnice realizuje jen v minimálním rozsahu a jen u systémů zdravotnických a provozně interních\n* Některé aspekty informačních činností nemocnice není účelné sdělovat veřejně a proto se K nemocnice primárně nezveřejňuje a rozhodně ne v plném rozsahu\n* Zdravotnické systémy nemocnice nejsou primárně svým úćelem informační systémy veřejné správy a i z jiných důvodů vzhledem k jejich specifickému účelu na ně nelze přímo aplikovat principy týkající se řízení ISVS, nicméně lze na ně aplikovat obecné dlouhodobé řízení v určitém rozsahu, což je promítnuto jak v IK tak i v procesech spojených s řízením a rozvojem ISPZS zejména podle zákona o elektronizaci zdravotnictví.\n\n## 2. Plán rozvoje informačních systémů nemocnice\n\n### 2.1. Popis stávajícího stavu architektury nemocnice\n\n#### 2.1.1. Poslání nemocnice a jeho plnění (motivační architektura)\n\nV rámci architektury nemocnice je zpracován soubor Strategická a motivační architektura [[[text: zkratka nemocnice]]], z nějž lze pro účely IK vybrat zejména následující.\n\nV [[[text: zkratka nemocnice]]] není dosud zpracována komplexní byznys strategie nemocnice a vzhledem k součásnému stavu a potřebám se to ani nejeví jako nutné. Nemocnice jako taková si stanovila následující strategické cíle pro svoje fungování:\n\n\n* Strategický cíl Poskytování zdravotní péče a zdravotních služeb: Naším hlavním odborným cílem je poskytovat zdravotní péči a zdravotní služby a plnit vše, co má plnit poskytovatel.\n* Strategický cíl Modernizace psychiatrické péče: Jde o cíl realizující transformaci psychiatrické péče v ČR u konkrétního zařízení, tedy zejména modernizaci akutní péče a zlepšování kvality\n* Strategický cíl Efektivizace vnitřních nákladů: Cílem je snižovat náklady na vnitřní provoz a náklady obecně a také zvyšovat naši efektivitu. Snižování nákladů a zvyšování efektivity musí být pochopitelně podmíněno plněním všech povinností a požadavků na nás kladených.\n* Strategický cíl Odborný růst organizace: Dalším hlavním cílem naší nemocnice je její odborný růst. To se týká zejména vzdělávání a odborné přípravy zdravotnických pracovníků a zlepšování kvality péče.\n* Strategický cíl Elektronizace zdravotnictví: Elektronizace zdravotnictví je jedním z pilířů moderní informační společnosti, je dokonce již zakotvena v aktuální legislativě (nový zákon 325/2021 a související předpisy). Naším cílem je se na digitalizaci agend zdravotnictví aktivně podílet a poskytovat kvalitní elektronické služby pacientům.\n\n\n\n#### 2.1.2. Fungování nemocnice (byznysová architektura)\n\nByznysové činnosti jsme si v rámci byznysové architektury rozdělili do několika hlavních oblastí:\n\n* Ambulantní péče: Oblast byznysového fungování nemocnice: Sem se počítá veškerá ambulantní a ordinační péče, kromě péče lůžkové.\n* Lůžková péče: Oblast byznysového fungování nemocnice: Vše kolem lůžkové péče a hospitalizací.\n* Specializované vyšetření: Oblast byznysového fungování nemocnice: Specializovaná odborná vyšetření jak v rámci ambulantní i v rámci lůžkové péče. Cokoliv od očního vyšetření až po rentgen či MR.\n* Laboratoře: Oblast byznysového fungování nemocnice: Vše kolem provozu laboratoří a vyhodnocování laboratorních vyšetření a zpracování vzorků.\n* Lékárna a příprava léčiv: Oblast byznysového fungování nemocnice: Nemocnice provozují lékárnu a to jak pro vnitřní potřebu léků, tak i pro klienty i mimo nemocnici. Také zahrnuje přípravu a výdej léčiv a přípravků v režimu lékárny a výdej na eRecept\n* Dokumentace a ochrana údajů: Oblast byznysového fungování nemocnice: Správa a vedení zdravotnické dokumentace a dokumentace fakultní nemocnice, včetně ochrany osobních údajů a údajů o pacientech a jejich bezpečnost.\n* Speciální terapeutické postupy: Oblast byznysového fungování nemocnice: do této oblasti se počítají speciální terapeutické postupy, jako například specifické psychiatrické terapie a s nimi související služby a činnosti, včetně například zprávy koní pro hypo terapii\n* Poskytování sociálních služeb: Oblast byznysového fungování nemocnice: Vše kolem poskytování sociálních služeb zejména dle zákona 108/2000 i v kombinaci se zdravotními službami.\n* Provoz nemocnice: Oblast byznysového fungování nemocnice: Vše kolem celého provozu nemocnice. Od ICT, majetku, ekonomiky, spisové služby, zakázek až po autoprovoz či prádelny. Tedy vše co není přímo poskytováním zdravotních či sociálních služeb.\n* Věda a výzkum: Oblast byznysového fungování nemocnice: IU fakultních nemocnic jde o vzdělávání a vědu a výzkum, u ostatních, které mají vědecké a výzkumné projekty, jde právě o vědecou a výzkumnou činnost, ať už interně pro nemocnici, nebo pro oblast zdravotnictví.\n\n\nKonkrétně zajIšťuje nemocnice tyto služby a procesy a činnosti (propojeno i s mapováním aktiv v rámci kybernetické bezpečnosti):\n\n\n* Procesy a činnosti zdravotních služeb\n    * Zdravotní služby poskytované nemocnicí: Specializovaná ambulantní péče, Stacionární ambulantní péče, Standardní akutní lůžková péče, Intenzivní akutní lůžková péče, Následná lůžková péče, Dlouhodobá lůžková péče, , Pohotovostní služba, Intenzivní ošetřovatelská péče, Sociálně zdravotní lůžková péče, Léčebná rehabilitace, OCHRANNÉ LÉČENÍ, PROTIALKOHOLNÍ A PROTITOXIKOMANICKÁ ZÁCHYTNÁ SLUŽBA, Zdravotnická dopravní služba\n* Veřejnoprávní procesy\n    * Bezpečnost: Fyzická bezpečnost, Ochrana osobních údajů GDPR, KB a bezpečnost informací, Řešení nežádoucích událostí, Bezpečnost rizikových klientů\n    * Dokumenty a evidence: Evidence pacientů a správa údajů, Vedení a výměna zdravotnické dokumentace, Spisová služba, Samostatné evidence dokumentů, Publikace veřejných dat a dokumentů a web\n    * Ekonomické procesy: Správa a řízení rozpočtu, Účetnictví a další ekonomika, Vykazování hrazené péče zdravotním pojišťovnám, Pořízení, sklad a užití zboží, Majetek, Evidence, správa a zveřejňování smluv\n    * Personalistika a agenda zaměstnanců: Evidence zdravotnických pracovníků, Evidence a rozdělování služeb, Evidence docházky a nepřítomností\n* Provozní činnosti\n    * Provoz a zajištění fungování: Provozní fungování budov a zařízení, Zajištění vytápění a teplé vody, Zajištění energií, Dodávky pitné a užitkové vody\n    * Zajištění stravování: Stravování pacientů, Dietetické režimy stravování, Stravování zaměstnanců++}\n\n\n[[[text: Zkratka nemocnice]]] je v obecných rolích, které jsou uvedené v příloze č. 1 a má zmapovaný stav ICT podpory pro klíčové oblasti fungování a ten je uveden v příloze č. 2.\n\n#### 2.1.3. Informační systémy nemocnice určené pro poskytování zdravotních služeb\n\nJde o následující zásadní zdravotnické informační systémy:\n\n| Název | Popis systému |\n|-----|---------|\n| | |\n\n\n\n#### 2.1.4. Informační systémy určené pro provoz a fungování nemocnice\n\nKlíčovými provozními systémy pro chod nemocnice jsou:\n\n| Název | Popis systému |\n|-----|---------|\n| | |\n\n\n\n\n#### 2.1.5. Ostatní informační systémy a aplikace\n\n{{{Pokud chcete uvést další systémy a aplikace, které se nehodí do dvou předchozích podkapitol, ponechte výběr a tlačítkem si vytvořte další tabulku. Pokud takové systémy nemáte, změňte výbér níže a tabulku nevytvářejte, o zbytek se postará šablona.}}}\n\nV nemocnici [[[volba: máme dále následující pro nás klíčové systémy:, nemáme další pro nás natolik líčové systémy.]]]\n\n[[[tabulka: Název, Popis systému]]]\n\n\n#### 2.1.6. Integrace mezi systémy a na externí systémy \n\n[[[text: zkratka nemocnice]]] [[[volba: nemá a vzhledem rozsahu neplánuje, nemá a zváží pořízení, má a provozuje]]] integrační platformu \n\n\n[[[textarea: Tady popište jak mezi sebou systémy integrujete a jestli jste s tím spokojeni a popřípadě co budete měnit.]]]\n\n#### 2.1.7. Zdravotnická technika v nemocnici\n\n\nV nemocnici [[volba: máme jen malé množství zdravotnícké techniky, máme velké množství přístrojů a zdravotnické techniky]]] a [[[volba: tuto oblast jsme zatím neřešili, tuto oblast řešíme v rámci kybernetické bezpečnosti, máme vyřešené bezpečnostní a provozní aspekty připojení]]].\n\n[[[textarea: Tady si klidně víc popište a rozeberte co a jak k technice.]]]\n\n#### 2.1.8. Zajištění technologií a infrastruktury nemocnice (technologická architektura)\n\nVšechny klíčové systémy [[[volba: provozujeme v naší serverovně, v našem datovém centrum, ve dvou částečně oddělených datových centrech, u nás na naší infrastruktuŕe i částečně mimo ni]]]. [[[text: popište provozní prostředí a podmínky]]]\n\nKonektivitu a připojení do internetu máme zajištěné [[[text: popište jak řešíte připojení]]].\n\nV nemocnici spravujeme vnitřní síť [[[text: doplňte podrobnosti]]]\n\nPřístup zaměstnanců zvenku k prostředkům a systémům [[[text: doplňte podrobnosti]]]\n\n[[[textarea: Sem můžete dopsat další obsah k infrastruktuře a technologiím a to především pokud budete něco měnit či měníte]]]\n\n\n### 2.2. Popis důvodu pro změny architektury nemocnice\n\n#### 2.2.1. Elektronizace zdravotnictví\n\nLegislativní rámec pro elektronizaci zdravotnictví definují dva hlavní předpisy, nicméně jeho součástí jsou i jednotlivé povinnosti z různých dalších agendových zákonů, třeba legislativa ke zdravotnímu pojištění.\n\nDvěma hlavními předpisy jsou:\n\n1. Zákon č. 325/2021 Sb., o elektronizaci zdravotnictví [325/2021 Sb. (zákon o eZdravotnictví)](https://egdwiki.info/predpis:325-2021): Jde o hlavní předpis určující celý rámec elektronizace zdravotnictví.\n- Stanovuje pojmy, rámec a definuje samotné elektronické zdravotnictví a jeho součásti.\n- Určuje povinnosti pro poskytovatele zdravotních služeb (role Zapisující osoba, Oprávněná osoba a Pověřená osoba).\n- Určuje povinnosti a především práva pacientů v rámci elektronizace a to včetně přístupu k údajům a ke službám.\n- Definuje kmenové registry: Kmenový registr pacientů, Kmenový registr zdravotnických pracovníků a Kmenový registr poskytovatelů zdravotních služeb. A stanovuje povinnosti tyto kmenové registry využívat jako jediný zdroj identity osoby, upravuje také identifikátory v těchto registrech a také stanovuje povinnosti je využívat jak v systémech poskytovatelů, tak při výměně dat.\n- Zavádí technický integrační systém Integrované datové rozhraní resortu (IDRR) a říká, co IDRR má dělat a kdo a kdy jej musí či může využívat.\n- Zavádí jako jediný zdroj elektronické identity zdravotnického pracovníka jeho identitu v kmenovém registru a prostředek identifikace jeho kartu zdravotnického pracovníka obsahující resortní certifikáty pro identifikaci, autorizaci a podepisování výstupů a údajů předávaných mimo poskytovatele.\n2. Zákon č. 372/2011 Sb., o poskytování zdravotních služeb [372/2011 Sb. (zákon o zdravotních službách)](https://egdwiki.info/predpis:372-2011): Tento předpis stanovuje celý rámec poskytování zdravotních služeb, definuje roli poskytovatele a stanovuje jeho povinnosti a stanovuje povinnosti i ostatním aktérům. Klíčová [novela 240/2024 Sb.](https://egdwiki.info/predpis:240-2024). Nicméně z pohledu elektronizace především\n- Stanovuje rámec pro vedení zdravotnické dokumentace a to nově především vedení elektronické zdravotnické dokumentace (EZD) - tedy zdravotnické dokumentace v elektronické či kombinované podobě.\n- Stanovuje procesní a technické povinnosti pro správu a vedení elektronické zdravotnické dokumentace a požadavky na informační systém poskytovatele.\n- Definuje další důležité centrální informační systémy ve zdravotnictví pod souhrnným označením Národní zdravotní informační systém (NZIS) rozdělený do samostatných či propojených komponent pro konkrétní účely. A stanovuje povinnosti poskytovatelům předávat data do NZIS.\n\nPůvodní rámec doplňují dvě zásadní novely zákonů. První klíčovou novelou je [novela 240/2024 Sb.](https://egdwiki.info/predpis:240-2024), kterou se do zákona [predpis:372/2011]] zakotvuje [Nový rámec vedení zdravotnické dokumentace](https://egdwiki.info/diginemocnice:novy-ramec-vedeni-zdravotnicke-dokumentace). Druhou klíčovou novelou je zákon [novela 290/2025 Sb.](https://egdwiki.info/predpis:290-2025), který do zákona [325/2021](https://egdwiki.info/predpis:325-2021) zavádí druhou etapu digitalizace, jako je rozšíření centrálních služeb, EZ karta a eŽádanky a také nové povinnosti poskytovatelů souvisejících se sdíleným záznamem a emergentním záznamem pacienta a úpravy v rámci oprávnění na jednotlivá data.\n\nKromě samotných zákonů jsou závazné i další předpisy jako\n\n- Vyhláška [444/2024 Sb. (vyhláška o zdravotnické dokumentaci)](https://egdwiki.info/predpis:444-2024)\n- [Standardy elektronického zdravotnictví](https://egdwiki.info/diginemocnice:standardy-ez) vydané [Národní centrum elektronizace zdravotnictví](https://egdwiki.info/subjekt:ncez)\n- Požadavky na druhy a kategorie elektronických zdravotních záznamů (EHR) vyhlášené NCEZ\n\n- [x] dopsat dole ty odrážky a to obecně protože to bude include\n\n\nNemocnice pro splnění požadavků elektronizace zdravotnictví musí v následujícím období zejména:\n\n\n\n* Realizovat povinnosti k elektronizaci zdravotnictví podle Zákona č. 325/2021 Sb., o elektronizaci zdravotnictví a Zákon č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování a to zejména úpravou svých informační systémů (informační systémy poskytovatele zdravotních služeb a personální systémy) a zajištění funkční integrace IS na centrální služby EZ prostřednictvím rozhraní IDRR\n* Realizovat nový legislativní rámec pro vedení elektronické zdravotnické dokumentace stanovený novelami Zákona č. 372/2011 Sb., o zdravotních službách a podmínkách jejich poskytování a to zejména úpravy ISPZS ke správnému vedení EZD, autorizace v rámci ISPZS a autorizace výstupů EZD a zajištění důvěryhodnosti vedené EZD\n* Implementace nového zákona o kybernetické bezpečnosti dle Zákona č. 264/2025 Sb., o kybernetické bezpečnosti a jeho provádčích vyhlášek v nemocnici a to dle rozsahu počtu zaměstnanců, kde nemocnice jelikož má více než 250 zaměstnanců je subjektem s vyššími povinnostmi\n* U státní nemocnice také uvedení souladu řízení ICT a informačních systémů dle nutného rozsahu s dlouhodobým řízení a povinnostmi orgánu veřejné správy.\n\n\n\n\nMy jako psychiatrická nemocnice ještě musíme řešit zvyšující se počty komunikaci se soudy a dalšími orgány veřejné moci ohledně specialit k ochranné léčbě. To se promítá zejména do elektronické spisové služby.\n\n\n[[[textarea: pokud chcete k EZ něco doplnit, napište to sem]]]\n\n#### 2.2.2. Zlepšování fungování nemocnice\n\nUvnitř byly definovány následující potřeby a cíle:\n\n* Potřeba Zvýšení efektivity správnou digitalizací nemocnice:  Digitalizace neslouží jen k modernizaci předávání údajů mezi poskytovateli a s dalšími účastníky elektronizace zdravotnictví, ale především pro zlepšení a zefektivnění fungování nemocnice, zlepšení péče o pacienty a také zjednodušení práve lékařů a zdravotnických pracovníků.\n* «Potřeba» Přívětivé prostředí pro pacienty: Pacientům neposkytujeme jen zdravotní služby, řada z nich tráví bohužel v nemocnici i dost svého času. Moderní ICT může přispět k pohodlí a lepšímu prostředí pro pacienty a k poskytování dalších nezbytných služeb.\n* «Potřeba» Podmínky a prostředí pro zaměstnance: Modernizace a efektivní využívání ICT musí vést ke zlepšení podmínek a snížení administrativní zátěže zaměstnanců.\n* Strategický cíl Odborný růst organizace: Dalším hlavním cílem naší nemocnice je její odborný růst. To se týká zejména vzdělávání a odborné přípravy zdravotnických pracovníků a zlepšování kvality péče.\n* Cíl rozvoje Doplnění provozních systémů pro efektivní fungování organizace: Stávající provozní systémy nechceme nahrazovat, ale modernizovat a doplňovat je o další funkce a propojení. Cílem je využívání efektivních řešení pro získávání a udržování kompletních manažerských dat a všech relevantních informací o provozním fungování instituce a hlubší spolupráce nad těmito daty. Mimo jiné chceme tyto systémy propojovat a víc využívat automatizaci v této oblasti vnitřní digitalizace.\n* Cíl rozvoje Modernizace a posilování infrastruktury a technologického hardware: Potřebujeme modernizovat technologie v datových centrech a infrastrukturní technologie, kupříkladu servery a Data Storage.\n* Cíl rozvoje Moderní nemocniční systémy sloužící našim potřebám: Jako nemocnice jež je především poskytovatel zdravotních služeb, chceme modernizovat a doplňovat řešení zdravotnických informačních systémů v nemocnici, aby splňovaly nejen legislativní a technické požadavky v rámci eZdravotnictví, ale aby šetřily našim zaměstnancům čas a zvýšily jejich efektivitu. To se netýká jen zdravotnických pracovníků při poskytování zdravotních služeb, ale komplexní péči o pacienty a klienty a také zvýšení efektivity práce provozně administrativních zaměstnanců, vykazování, plánování, apod. Proto potřebujeme postupně budovat propojená a sofistikovaná řešení umožňující vyšší automatizaci procesů a hlavně rychlé rozhodování nad objektivními daty o pacientech a lékařské péči.\n[[[odrážky: další motivace k efektivizace nemocnice pokud chcete]]]\n\n\n\n\n\n#### 2.2.3. Další vlivy a potřeby\n\nKromě výše zmíněných cílů a potřeb a vlivů jsou zde ještě potřeby definované v minulých projektech financovaných z evropských zdrojů a to zejména stran kybernetické bezpečnosti.\n\n\n[[[textarea: Dopište si sem případné další doplnění]]]\n\n### 2.3. Navržený cílový stav architektury \nAnalýzou v rámci tvorby IK bylo zjištěno, že chceme v rámci cílového stavu zejména:[[[odrá\n\nžky: body cílového stavu jako obecného popisu]]]]]]\n\n### 2.4. Plán realizace změn informačních systémů nemocnice\n\nPro zajištění zlepšení řízení a rozvoje informačních systémů a nástrojů v nemocnici, zlepšení infrastruktury a řízení informatiky byly v informační koncepci definovány konkrétní záměry. Tyto záměry jsou uvedeny v příloze k této informační koncepci. Díky těmto záměrům budou realizovány jednotlivé změny tak, aby byl dosažen požadovaný cílový stav. Záměry jsou obecné a během jejich realizace, včetně následných aktualizací informační koncepce, budou rozpracovány do jednotlivých realizačních projektů, které budou řízeny projektovým řízením jako obvykle v naší nemocnici. Záměry považujeme za klíčové prvky našich změn a budeme se věnovat jejich pravidelnému vyhodnocování. Některé záměry v příloze jsou navzájem propojené, a proto je důležité zajistit, aby jejich realizace probíhala ve správném pořadí a rozsahu. \n\nZáměry pro nás představují důležitý aspekt a považujeme je za hlavní výstup jak samotné realizace, tak i informační koncepce.\n\n\nZa nejdůležitější ze všech záměrů považujeme následující:\n\n[[[odrážky: sem vypište ty důležité záměry a třeba se o nich i rozeište]]]\n\n\n\n## 3. Řízení informatiky a rozvoje ICT\n\n### 3.1. Popis stávajícího stavu řízení informatiky\n\n{{{Tohle si prostě musíte popsat sami, protože to je opravdu specifické pro každou nemocnici.}}}\n\nŘízení ICT v nemocnici je pověřen [[[volba: útvar, zaměstnanec, externí dodavatel]]] a to konkrétně [[[text: Kdo zodpovídá za IT]]]\n\n[[[textarea: Podrobnější popis jak se řící IT a IS]]]\n\n\n\n\n### 3.2. 3.2 Popis důvodu pro změny řízení informatiky\n\nKlíčovou legislativní motivací je pro nás stále ještě nová role **orgán veřejné správy** podle zákona 365/2000 o ISVS, která udává povinnosti stran informační koncepce a dlouhodobého řízení. K tomu nutnost posílit řízení rozvoje pro nás důležitých systémů. \n\nStran vnitřní motivace ke změnám řízení ICT a infrastruktury a správy, jsou pro nás zásadní vyjmenované cíle:\n\n[[[odrážky: Sem vypište vaše motivace pro změnu a zlepśení řízení ICT]]]\n\n\n\n### 3.3. Očekávané změny v řízení a rozvoji IS a ICT nemocnice\n\n\nPro naši nemocnici je problematické si vnitřně obhájit navyšování kapacit a finančních prostředků pro stále nové povinnosti týkající se IT, pokud to nemá přímou vazbu na léčbu a není pro nás jednoduché ani získávat a udržovat si odborné znalosti. Potřebujeme malý a efektivní tým, který se musí soustředit na provozní potřeby nemocnice.\n\nObecně chceme zejména:\n\n[[[odrážky: co konkrétně v rámci řízení změníte]]]\n\nPodrobněji opět v záměrech, které jsou přílohou IK. Nejdůležitější záměru pro tuto část IK jsou:\n\n[[[odrážky: sem vypište ty nejdůležitější záměry pro řízení ICT a klidne se i rozepište]]]\n\n\n\n\n## 4. Dokumentace o správě informační koncepce orgánu veřejné správy\n\n### 4.1. Platnost IK a její implementace v nemocnici\n\nToto je první verze IK. IK je v této verzi platná od [[[text: platnost od]]]. Po jednotlivých aktualizacích budou zde pak uvedené jednotlivé změny IK.\n\n### 4.2. Postupy při vyhodnocování dodržování IK OVS správy\n\nV podmínkách nemocnice se v rámci uplatňování a vyhodnocování plnění koncepce budeme soustředit zejména na hodnocení realizace záměrů definovaných v IK. Nemáme kapacity na průběžné sledování všeho, ale budeme IK uplatňovat pro rozvoj architektury, rozvoj a správu klíčových systémů a pokud budeme aktualizovat byznys strategii, využijeme cíle definované v IK.\n\nNa úrovni vedení bude uplatňování řešeno minimálně jednou za dva roky při projednávání aktualizace koncepce, ale bude vyžadován soulad s IK v rámci projektů.\n\nPro vyhodnocení a aktualizaci budou relevantní zejména:\n\n* Záměry v IK v samostatné evidence záměrů, kde budou průběžně aktualizovány podrobnosti o záměru a podle nich bude případně docházet k aktualizaci Ik\n* Hodnocení podle vybraných částí (v příloze IK)\n\n### 4.3. Změny v IK OVS po jednotlivých verzích\n\nToto je první verze IK.\n\n# Přílohy k informační koncepci nemocnice\n\n## Příloha č. 1: Přehled byznysových rolí nemocnice\n\nVzhledem k rozsahu a délce jsme se rozhodli nevkládat do samostatné přílohy. Nicméně využíváme tabulku jež je součástí referenční architektury pro nemocnice a je uvedena na adrese \n\n[Obecné role nemocnice](https://www.diginemocnice/tabulka-obecne-role-nemocnice-ovs)\n\nA to s těmito výjimkami:\n\n[[[odrážky: Pokud nějaká role se pro vás nehodí, uveďte ji a za dvojtečku uveďte poč si myslíte že nejste]]]\n\n## Příloha č. 2: Popis stavu digitalizace a změn po oblastech\n\n\nV tabulce níže je rozebrána stávající IT podpora a požadavky na její zlepšení dle definovaných souborů povinností\n\n| Typ | Oblast | Popis IT podpory | Dotčené IS | Změny |\n| --- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |\n| OV | Elektronická zdravotnická dokumentace a její výměna | | | |\n| OV | Evidence lékařů | | | |\n| OV | Evidence pacientů | | | |\n| OV | Evidence sociálních pracovníků | | | |\n| OV | Evidence zdravotnických pracovníků | | | |\n| OV | Poskytování sociálních služeb a evidence | | | |\n| OV | Poskytování zdravotní péče v rámci SS a evidence | | | |\n| OV | Poskytování zdravotních služeb | | | |\n| OV | Směnný provoz a směny | | | |\n| OV | Vyhodnocování kvality sociálních služeb | | | |\n| OV | Vykazování a úhrady za sociální služby | | | |\n| OV | Vykazování a úhrady zdravotní péče | | | |\n| OV | Vykazování a úhrady samoplatců a nehrazených zdravotních služeb | | | |\n| VP | Bezpečnost informací a KB | | | |\n| VP | E-maily a agendy | | | |\n| VP | Ekonomické agendy a jejich vnitřní digitalizace | S ohledem na zastaralost a nepropojenost systémů, je nezbytné EKOS nahradit. | Microsoft Dynamics NAV 2015, Avensio SW, Ispp HIPPo | |\n| VP | Elektronická fakturace | S ohledem na zastaralost a nepropojenost systémů, je nezbytné EKOS nahradit. | Microsoft Dynamics NAV 2015 | |\n| VP | Elektronické zadávání veřejných zakázek | Aktuálně používáme [NEN](https://nen.nipez.cz/profily-zadavatelu-platne/detail-profilu/pnbrno), cílem je zautomatizovat zadávání v rámci EKOS. | NEN, EKOS | |\n| VP | Evidence a zveřejňování smluv | V současnosti je dokumentace na vícero úsecích (právní, ředitelství, ekonomický...). Plánujeme v rámci platformy IceWarp a nového EKOS udržovat kompletní evidenci. | IceWarp, EKOS | |\n| VP | Evidence majetku | | | |\n| VP | Jiná konverze do digitálního dokumentu | Neprovádíme, v budoucnu plánujeme tuto funkcionalitu zahrnout do ESSL. | ESSL | |\n| VP | Mzdy a související agenda | | | |\n| VP | Opatřování dokumentů kvalifikovanými validačními prvky | Provádí se individuálně, vybranými zaměstnanci. Plánujeme tuto funkcionalitu zahrnout do ESSL. | ESSL | |\n| VP | Personalistika a řízení lidských zdrojů | Nejsme spokojeni s úrovní podpory a schopností systému v rámci personalistiky a řízení lidských zdrojů. Z tohoto důvodu plánujeme konsolidaci systémů a jejich nahrazení za nový EKOS, který bude integrovat tyto funkce v sobě. | Microsoft Dynamics NAV 2015, Avensio | |\n| VP | Poskytování informací na žádost a zveřejněním | Bude řešeno v návaznosti na elektronizaci zdravotnictví a jeho požadavky. | Ispp HIPPo | |\n| VP | Poskytování údajů do informačních systémů veřejné správy podle zákonných povinností | | | |\n| VP | Prověřování validity dokumentů od veřejnoprávních původců | V současnosti realizuje GINIS Express, nicméně s ohledem na stáří ESSL a nezbytné rozšíření počtu uzlů, plánujeme jeho náhradu. | GINIS Express | |\n| VP | Přístupnost internetových stránek a mobilních aplikací a jejich obsahu | DTS oddělení řeší požadavky na přístupnost webových stránek, nicméně s ohledem na jejich věk, plánujeme jejich náhradu. Aktuálně probíhá analýza. | | |\n| VP | Publikování povinných informací o organizaci | Povinně zveřejňované informace publikujeme na svých [webových stránkách](https://www.pnbrno.cz/povinne-zverejnene-informace/) | | |\n| VP | Řídící kontrola a interní schvalování | Po provedení analýzy stavu, plánujeme pořízení a zavedení systému pro digitalizaci procesů, u kterých je to možné a smysluplné za pomocí systémů pro řízení procesů. Současně je tento požadavek součástí ZD pro pořízení EKOS. | EKOS | |\n| Vp | Řízení kvality | | | |\n| VP | Sestavování a sledování rozpočtu | | | |\n| VP | Správa a ohlášení informačních systémů soukromoprávních uživatelů údajů | | Ispp HIPPo | |\n| VP | Úřední deska a její publikace | | | |\n| VP | Vazby na ISVS | PNB není OVM a nemá působnost v agendách ISVS, protože ani naše informační systémy nejsou zatím definovány jako ISVS. | | |\n| VP | Vnitřní kontrola a interní audit | Interní auditorka provádí pravidelný audit souladu. | | |\n| VP | Výkon spisové služby | V současnosti realizuje GINIS Express, nicméně s ohledem na stáří ESSL a nezbytné rozšíření počtu uzlů, plánujeme jeho náhradu. | GINIS Express | |\n| VP | Výroční zpráva o poskytování informací | PNB zapisuje údaje do centrálního registru MV. | | |\n| VP | Využívání údajů jako soukromoprávní uživatel údajů | | Ispp HIPPo | |\n| VP | Zpracování osobních údajů podle GDPR | | Ispp HIPPo | |\n| VP | Dlouhodobé řízení ICT | Zavádíme. Dokumentace se bude udržovat v rámci platformy IceWarp (on-prem) | IceWarp (on-prem) | |\n| VP | Informační koncepce | PNB nemá doposud informační koncepci zpracovanou, dle domluvy a následných požadavcích mezi DIA a MZČR bude zpracována v konkrétní podobě. | | |\n| VP | Pořizování cloudu podle katalogu cloud computingu | Nedisponujeme a případné pořízení se bude v souladu s 365/2000 Sb. | | |\n| VP | Povinnosti při využívání služeb cloud computingu | Nedisponujeme a případné pořízení se bude v souladu s 365/2000 Sb. | | |\n| VP | Soulad s IKČR | PNB není úřad, a tedy IKČR není plně implementačně vhodná pro naši organizaci. Z tohoto důvodu postupně adoptujeme principy a zásady, jež jsou pro nás závazné. | | |\n| PR | Autoprovoz a sledování jízd | | | |\n| PR | Kolaborace a spolupráce a týmová podpora práce | | | |\n| PR | Komunikace se zřizovatelem a úkoly | | | |\n| PR | Projektové řízení | | | |\n| PR | Provozní záležitosti | | | |\n| PR | Řízení ICT a jeho procesy | Zavádíme. | | |\n| PR | Soulad s IK zřizovatele | | | |\n| PR | Ukládání a spolupráce nad soubory mimo ISSD | | | |\n\n\n\nOblasti jsou rozděleny do třech kategorií podle typů procesů:\n\n-   OV = Odborné a věcné činnosti a procesy\n-   VP = Veřejnoprávní činnosti a procesy\n-   PR = Provozně režijní činnosti\n\n\n## Příloha č. 3: Vybrané posouzení souladu s koncepcemi v rámci digitalizace a zdravotnictví\n\n\n### Zhodnocení plnění principů elektronizace zdravotnictví\n\n| Princip | Popis implementace a změn |\n|--------|--------------|\n| Princip č. 1: Přínos pro pacienta | |\n| Princip č. 2: Neoslabování práv pacienta | |\n| Princip č. 3: Participace odborníků na návrzích a řešeních | |\n| Princip č. 4: Řízení použitelnosti a kvality nástrojů a služeb | |\n| Princip č. 5: Postupné a účelné zavádění služeb | |\n| Princip č. 6: Standardizace a modernizace | |\n\n\n\n\n\n### Zhodnocení souladu s cíly Národní strategie EZ 2030\n\n{{{Zde jsou vybrané vhodné cíle oproti kterým je dobré se zhodnotit či vymezit (proč je neděláme a odůvodnit to). Můžete si nehodící případné vymazat, jednoduše vymažte příslušný ŕádek tabulky.}}}\n\n| Cíl NSEZ | Zhodnocení |\n|--------|-----------|\n| Cíl 1.1 Národní portál elektronického zdravotnictví | |\n| Cíl 1.2 Přístup k údajům pod kontrolou pacienta | |\n| Cíl 1.6 Virtuální zdravotní asistent | |\n| Cíl 2.1 Elektronické zdravotnické záznamy | |\n| Cíl 2.2 Bezpečné sdílení | |\n| Cíl 2.3 Digitální evidence | |\n| Cíl 2.4 eŽádanka | |\n| Cíl 2.5 Ekonomika péče | |\n| Cíl 2.6 Elektronická klinická data | |\n| Cíl 3.1 Zdraví na dálku | |\n| Cíl 3.2 Srovnání léčby | |\n| Cíl 3.3 Doporučené postupy online | |\n| Cíl 3.4 Online komunikace v urgentní medicíně | |\n| Cíl 3.5 Léčba na míru | |\n| Cíl 3.7 Zdraví doma | |\n| Cíl 4.1 Kmenové zdravotnické registry | |\n| Cíl 4.2 Afinitní domény ve zdravotnictví | |\n| Cíl 4.3 Standardizace zdravotnické dokumentace | |\n| Cíl 4.4 Digitální identita zdravotnických pracovníků | |\n| Cíl 4.5 Kybernetická a datová bezpečnost | |\n| Cíl 4.7 Harmonizace systémů | |\n| Cíl 4.8 Propojení zdravotních a sociálních dat | |\n| Cíl 5.1 Digitální gramotnost a osvěta | |\n| Cíl 5.2 Strategické řízení digitalizace | |\n| Cíl 5.3 Digitální propojení Evropy | |\n| Cíl 5.4 Zdravotnictví s AI | |\n| Cíl 5.5 Inovace pro zdraví | |\n| Cíl 5.6 Udržitelnost ve zdravotnictví | |\n| Cíl 5.8 Administrativa bez zátěže | |\n\n\n\n### Zhodnocení souladu s IKČR\n\nV rámci zhodnocení souladu s IKČR a jeho rámcem jsme vybrali jen ty pro nás opravdu relevantní cíle a zásady, ke kterým máme v rámci IK co říci:\n\n\n\n\n{{{Co se pro vás vyloženě nehodí, prostě odstraňte řádek. U některých řádků jsou navržené obsahy zhodnocení, které si kdyžtak upravte podle svého.}}}\n\n\n\n| Objekt IKČR | Popis souladu a změn |\n|---------|---------------|\n| Dílčí cíl IKČR 1.2: Centrální informační místo | |\n| Dílčí cíl IKČR 1.3: Univerzální obslužné kanály | |\n| Dílčí cíl IKČR 1.4: Digitální služby resortů | |\n| Dílčí cíl IKČR 1.9: Proaktivní poskytování služeb | |\n| Dílčí cíl IKČR 3.1: Čerpání mimorozpočtových zdrojů | |\n| Dílčí cíl IKČR 3.2: Digitalizace dosud nedigitalizovaného obsahu | |\n| Dílčí cíl IKČR 3.6: Elektronická identifikace | |\n| Dílčí cíl IKČR 3.8: Kybernetická bezpečnost | |\n| Dílčí cíl IKČR 3.10: Digitální oprávnění a zmocnění | |\n| Dílčí cíl IKČR 3.11: Elektronické platby | |\n| Dílčí cíl IKČR 3.13: Udržitelná technologie a infrastruktura | |\n| Dílčí cíl IKČR 4.2: Získání, udržení a rozvoj klíčových specialistů | |\n| Dílčí cíl IKČR 4.4: Využití kompetenčních center | |\n| Dílčí cíl IKČR 4.6: Kapacity pro realizaci změn | |\n| Dílčí cíl IKČR 4.8: Rozvoj digitálních kompetencí | |\n| Dílčí cíl IKČR 5.3: Architektura veřejné správy | |\n| Dílčí cíl IKČR 5.5: eGovernment cloud | |\n| Dílčí cíl IKČR 5.7: Agendy v přenesené působnosti | |\n| Dílčí cíl IKČR 6.1: IT podpora práce úředníků | |\n| Dílčí cíl IKČR 6.2: Vnitřní digitalizace úřadu | |\n| Dílčí cíl IKČR 6.4: Modernizace provozních IS | |\n| Dílčí cíl IKČR 6.5: Modernizace digitální infrastruktury | |\n| Dílčí cíl 7.1: Vytvoření prostředí pro kvalitní správu dat v jednotlivých úřadech | |\n| Dílčí cíl 7.5: Propojený datový fond | |\n| Dílčí cíl 7.7: Řízený přístup k datům veřejné správy | |\n| Dílčí cíl 7.8: Vytvoření prostředí pro analytickou práci s daty veřejné správyZásada řízení ICT IKČR Z3: Strategické řízení pomocí IK OVS | |\n| Zásada řízení ICT IKČR Z5: Řízení požadavků a změn | |\n| Zásada řízení ICT IKČR Z7: Řízení zodpovědnosti za služby a systémy | |\n| Zásada řízení ICT IKČR Z9: Udržení interních kompetencí | |\n| Zásada řízení ICT IKČR Z10: Procesní řízení | |\n| Zásada řízení ICT IKČR Z12: Řízení kapacit zdrojů | |\n| Zásada řízení ICT IKČR Z13: Nezávislost návrhu, řízení a kontroly kvality | |\n| Zásada řízení ICT IKČR Z15: Řízení financování ICT | |\n| Zásada řízení ICT IKČR Z16: Využívání otevřeného software a standardů | |\n| Zásada řízení ICT IKČR Z17: Podpora vyváženého partnerství s dodavateli | |\n\n\n\n## Příloha č 4. Seznam záměrů IK\n\nV rámci [[[text: zkratka nemocnice]]] je veden následující seznam konkrétních záměrů IK:\n\n\n{{{Pokud máte záměry vedeny jinak, prostě vložte. Pokud chcete využít připravenou tabulku, vytvořte ji níže a pak vyplňte.}}}\n\n\n[[[tabulka: Č., Název, Stav, Termín, Popis]]]\n\n## ✏️5. Potřebné součinnosti k plnění IK a povinností\n\n\n- [ ] napsat ty souˇˇˇˇcinnosti aspoň něco\n",
+  "values": {
+    "__inline_table_0": [
+      {
+        "Název": "",
+        "Popis systému": ""
+      }
+    ],
+    "__inline_table_1": [
+      {
+        "Název": "",
+        "Popis systému": ""
+      }
+    ],
+    "__inline_table_2": [
+      {
+        "Typ": "OV",
+        "Oblast": "Elektronická zdravotnická dokumentace a její výměna",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Evidence lékařů",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Evidence pacientů",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Evidence sociálních pracovníků",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Evidence zdravotnických pracovníků",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Poskytování sociálních služeb a evidence",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Poskytování zdravotní péče v rámci SS a evidence",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Poskytování zdravotních služeb",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Směnný provoz a směny",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Vyhodnocování kvality sociálních služeb",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Vykazování a úhrady za sociální služby",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Vykazování a úhrady zdravotní péče",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "OV",
+        "Oblast": "Vykazování a úhrady samoplatců a nehrazených zdravotních služeb",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Bezpečnost informací a KB",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "E-maily a agendy",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Ekonomické agendy a jejich vnitřní digitalizace",
+        "Popis IT podpory": "S ohledem na zastaralost a nepropojenost systémů, je nezbytné EKOS nahradit.",
+        "Dotčené IS": "Microsoft Dynamics NAV 2015, Avensio SW, Ispp HIPPo",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Elektronická fakturace",
+        "Popis IT podpory": "S ohledem na zastaralost a nepropojenost systémů, je nezbytné EKOS nahradit.",
+        "Dotčené IS": "Microsoft Dynamics NAV 2015",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Elektronické zadávání veřejných zakázek",
+        "Popis IT podpory": "Aktuálně používáme [NEN](https://nen.nipez.cz/profily-zadavatelu-platne/detail-profilu/pnbrno), cílem je zautomatizovat zadávání v rámci EKOS.",
+        "Dotčené IS": "NEN, EKOS",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Evidence a zveřejňování smluv",
+        "Popis IT podpory": "V současnosti je dokumentace na vícero úsecích (právní, ředitelství, ekonomický...). Plánujeme v rámci platformy IceWarp a nového EKOS udržovat kompletní evidenci.",
+        "Dotčené IS": "IceWarp, EKOS",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Evidence majetku",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Jiná konverze do digitálního dokumentu",
+        "Popis IT podpory": "Neprovádíme, v budoucnu plánujeme tuto funkcionalitu zahrnout do ESSL.",
+        "Dotčené IS": "ESSL",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Mzdy a související agenda",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Opatřování dokumentů kvalifikovanými validačními prvky",
+        "Popis IT podpory": "Provádí se individuálně, vybranými zaměstnanci. Plánujeme tuto funkcionalitu zahrnout do ESSL.",
+        "Dotčené IS": "ESSL",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Personalistika a řízení lidských zdrojů",
+        "Popis IT podpory": "Nejsme spokojeni s úrovní podpory a schopností systému v rámci personalistiky a řízení lidských zdrojů. Z tohoto důvodu plánujeme konsolidaci systémů a jejich nahrazení za nový EKOS, který bude integrovat tyto funkce v sobě.",
+        "Dotčené IS": "Microsoft Dynamics NAV 2015, Avensio",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Poskytování informací na žádost a zveřejněním",
+        "Popis IT podpory": "Bude řešeno v návaznosti na elektronizaci zdravotnictví a jeho požadavky.",
+        "Dotčené IS": "Ispp HIPPo",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Poskytování údajů do informačních systémů veřejné správy podle zákonných povinností",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Prověřování validity dokumentů od veřejnoprávních původců",
+        "Popis IT podpory": "V současnosti realizuje GINIS Express, nicméně s ohledem na stáří ESSL a nezbytné rozšíření počtu uzlů, plánujeme jeho náhradu.",
+        "Dotčené IS": "GINIS Express",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Přístupnost internetových stránek a mobilních aplikací a jejich obsahu",
+        "Popis IT podpory": "DTS oddělení řeší požadavky na přístupnost webových stránek, nicméně s ohledem na jejich věk, plánujeme jejich náhradu. Aktuálně probíhá analýza.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Publikování povinných informací o organizaci",
+        "Popis IT podpory": "Povinně zveřejňované informace publikujeme na svých [webových stránkách](https://www.pnbrno.cz/povinne-zverejnene-informace/)",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Řídící kontrola a interní schvalování",
+        "Popis IT podpory": "Po provedení analýzy stavu, plánujeme pořízení a zavedení systému pro digitalizaci procesů, u kterých je to možné a smysluplné za pomocí systémů pro řízení procesů. Současně je tento požadavek součástí ZD pro pořízení EKOS.",
+        "Dotčené IS": "EKOS",
+        "Změny": ""
+      },
+      {
+        "Typ": "Vp",
+        "Oblast": "Řízení kvality",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Sestavování a sledování rozpočtu",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Správa a ohlášení informačních systémů soukromoprávních uživatelů údajů",
+        "Popis IT podpory": "",
+        "Dotčené IS": "Ispp HIPPo",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Úřední deska a její publikace",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Vazby na ISVS",
+        "Popis IT podpory": "PNB není OVM a nemá působnost v agendách ISVS, protože ani naše informační systémy nejsou zatím definovány jako ISVS.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Vnitřní kontrola a interní audit",
+        "Popis IT podpory": "Interní auditorka provádí pravidelný audit souladu.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Výkon spisové služby",
+        "Popis IT podpory": "V současnosti realizuje GINIS Express, nicméně s ohledem na stáří ESSL a nezbytné rozšíření počtu uzlů, plánujeme jeho náhradu.",
+        "Dotčené IS": "GINIS Express",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Výroční zpráva o poskytování informací",
+        "Popis IT podpory": "PNB zapisuje údaje do centrálního registru MV.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Využívání údajů jako soukromoprávní uživatel údajů",
+        "Popis IT podpory": "",
+        "Dotčené IS": "Ispp HIPPo",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Zpracování osobních údajů podle GDPR",
+        "Popis IT podpory": "",
+        "Dotčené IS": "Ispp HIPPo",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Dlouhodobé řízení ICT",
+        "Popis IT podpory": "Zavádíme. Dokumentace se bude udržovat v rámci platformy IceWarp (on-prem)",
+        "Dotčené IS": "IceWarp (on-prem)",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Informační koncepce",
+        "Popis IT podpory": "PNB nemá doposud informační koncepci zpracovanou, dle domluvy a následných požadavcích mezi DIA a MZČR bude zpracována v konkrétní podobě.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Pořizování cloudu podle katalogu cloud computingu",
+        "Popis IT podpory": "Nedisponujeme a případné pořízení se bude v souladu s 365/2000 Sb.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Povinnosti při využívání služeb cloud computingu",
+        "Popis IT podpory": "Nedisponujeme a případné pořízení se bude v souladu s 365/2000 Sb.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "VP",
+        "Oblast": "Soulad s IKČR",
+        "Popis IT podpory": "PNB není úřad, a tedy IKČR není plně implementačně vhodná pro naši organizaci. Z tohoto důvodu postupně adoptujeme principy a zásady, jež jsou pro nás závazné.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Autoprovoz a sledování jízd",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Kolaborace a spolupráce a týmová podpora práce",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Komunikace se zřizovatelem a úkoly",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Projektové řízení",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Provozní záležitosti",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Řízení ICT a jeho procesy",
+        "Popis IT podpory": "Zavádíme.",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Soulad s IK zřizovatele",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      },
+      {
+        "Typ": "PR",
+        "Oblast": "Ukládání a spolupráce nad soubory mimo ISSD",
+        "Popis IT podpory": "",
+        "Dotčené IS": "",
+        "Změny": ""
+      }
+    ],
+    "__inline_table_3": [
+      {
+        "Princip": "Princip č. 1: Přínos pro pacienta",
+        "Popis implementace a změn": ""
+      },
+      {
+        "Princip": "Princip č. 2: Neoslabování práv pacienta",
+        "Popis implementace a změn": ""
+      },
+      {
+        "Princip": "Princip č. 3: Participace odborníků na návrzích a řešeních",
+        "Popis implementace a změn": ""
+      },
+      {
+        "Princip": "Princip č. 4: Řízení použitelnosti a kvality nástrojů a služeb",
+        "Popis implementace a změn": ""
+      },
+      {
+        "Princip": "Princip č. 5: Postupné a účelné zavádění služeb",
+        "Popis implementace a změn": ""
+      },
+      {
+        "Princip": "Princip č. 6: Standardizace a modernizace",
+        "Popis implementace a změn": ""
+      }
+    ],
+    "__inline_table_4": [
+      {
+        "Cíl NSEZ": "Cíl 1.1 Národní portál elektronického zdravotnictví",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 1.2 Přístup k údajům pod kontrolou pacienta",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 1.6 Virtuální zdravotní asistent",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 2.1 Elektronické zdravotnické záznamy",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 2.2 Bezpečné sdílení",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 2.3 Digitální evidence",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 2.4 eŽádanka",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 2.5 Ekonomika péče",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 2.6 Elektronická klinická data",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 3.1 Zdraví na dálku",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 3.2 Srovnání léčby",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 3.3 Doporučené postupy online",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 3.4 Online komunikace v urgentní medicíně",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 3.5 Léčba na míru",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 3.7 Zdraví doma",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 4.1 Kmenové zdravotnické registry",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 4.2 Afinitní domény ve zdravotnictví",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 4.3 Standardizace zdravotnické dokumentace",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 4.4 Digitální identita zdravotnických pracovníků",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 4.5 Kybernetická a datová bezpečnost",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 4.7 Harmonizace systémů",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 4.8 Propojení zdravotních a sociálních dat",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 5.1 Digitální gramotnost a osvěta",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 5.2 Strategické řízení digitalizace",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 5.3 Digitální propojení Evropy",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 5.4 Zdravotnictví s AI",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 5.5 Inovace pro zdraví",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 5.6 Udržitelnost ve zdravotnictví",
+        "Zhodnocení": ""
+      },
+      {
+        "Cíl NSEZ": "Cíl 5.8 Administrativa bez zátěže",
+        "Zhodnocení": ""
+      }
+    ],
+    "__inline_table_5": [
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 1.2: Centrální informační místo",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 1.3: Univerzální obslužné kanály",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 1.4: Digitální služby resortů",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 1.9: Proaktivní poskytování služeb",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 3.1: Čerpání mimorozpočtových zdrojů",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 3.2: Digitalizace dosud nedigitalizovaného obsahu",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 3.6: Elektronická identifikace",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 3.8: Kybernetická bezpečnost",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 3.10: Digitální oprávnění a zmocnění",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 3.11: Elektronické platby",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 3.13: Udržitelná technologie a infrastruktura",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 4.2: Získání, udržení a rozvoj klíčových specialistů",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 4.4: Využití kompetenčních center",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 4.6: Kapacity pro realizaci změn",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 4.8: Rozvoj digitálních kompetencí",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 5.3: Architektura veřejné správy",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 5.5: eGovernment cloud",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 5.7: Agendy v přenesené působnosti",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 6.1: IT podpora práce úředníků",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 6.2: Vnitřní digitalizace úřadu",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 6.4: Modernizace provozních IS",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl IKČR 6.5: Modernizace digitální infrastruktury",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl 7.1: Vytvoření prostředí pro kvalitní správu dat v jednotlivých úřadech",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl 7.5: Propojený datový fond",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl 7.7: Řízený přístup k datům veřejné správy",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Dílčí cíl 7.8: Vytvoření prostředí pro analytickou práci s daty veřejné správyZásada řízení ICT IKČR Z3: Strategické řízení pomocí IK OVS",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z5: Řízení požadavků a změn",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z7: Řízení zodpovědnosti za služby a systémy",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z9: Udržení interních kompetencí",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z10: Procesní řízení",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z12: Řízení kapacit zdrojů",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z13: Nezávislost návrhu, řízení a kontroly kvality",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z15: Řízení financování ICT",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z16: Využívání otevřeného software a standardů",
+        "Popis souladu a změn": ""
+      },
+      {
+        "Objekt IKČR": "Zásada řízení ICT IKČR Z17: Podpora vyváženého partnerství s dodavateli",
+        "Popis souladu a změn": ""
+      }
+    ]
+  }
+}

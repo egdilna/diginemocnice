@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-06T10:23:03.481Z",
+  "modified": "2026-05-06T10:25:53.621Z",
   "rootItems": [
     {
       "type": "note",
@@ -107,12 +107,21 @@
                   "size": 41088,
                   "device": "MacBook Windows",
                   "filename": "diginemocnice-public_sablona-ik-pn_v1_2026-05-06_12-23.mdt",
+                  "sha": "68fffe4203cf3b980afc37a7debcca64b1fedf88",
+                  "partId": "v1"
+                },
+                {
+                  "timestamp": "2026-05-06T10:25:53.621Z",
+                  "description": "",
+                  "size": 63467,
+                  "device": "MacBook Windows",
+                  "filename": "diginemocnice-public_sablona-ik-pn_v1_2026-05-06_12-25.mdd",
                   "sha": null,
                   "partId": "v1"
                 }
               ],
               "created": "2026-05-06T10:20:01.784Z",
-              "modified": "2026-05-06T10:23:03.481Z",
+              "modified": "2026-05-06T10:25:53.621Z",
               "parts": [
                 {
                   "id": "v1",
