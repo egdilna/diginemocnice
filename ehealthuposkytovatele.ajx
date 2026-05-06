@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-05-06T07:59:58.677Z",
+  "exportDate": "2026-05-06T10:36:34.965Z",
   "archimateVersion": "3.2",
   "model": {
     "id": "cz-diginemocnice-ehealthuposkytovatele",
@@ -6849,6 +6849,366 @@
       "targetId": "stratez30",
       "type": "Association",
       "name": "",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c11",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c11",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c12",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c12",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c13",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c13",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c14",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c14",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c15",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c15",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c16",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c16",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c17",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c17",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c1stratez30c18",
+      "sourceId": "stratez30c1",
+      "targetId": "stratez30c18",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c21",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c21",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c22",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c22",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c23",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c23",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c24",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c24",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c25",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c25",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c26",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c26",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c27",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c27",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c2stratez30c28",
+      "sourceId": "stratez30c2",
+      "targetId": "stratez30c28",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c31",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c31",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c32",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c32",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c33",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c33",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c34",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c34",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c35",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c35",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c36",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c36",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c37",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c37",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c3stratez30c38",
+      "sourceId": "stratez30c3",
+      "targetId": "stratez30c38",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c41",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c41",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c42",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c42",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c43",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c43",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c44",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c44",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c45",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c45",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c46",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c46",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c47",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c47",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c4stratez30c48",
+      "sourceId": "stratez30c4",
+      "targetId": "stratez30c48",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c51",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c51",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c52",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c52",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c53",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c53",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c54",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c54",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c55",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c55",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c56",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c56",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c57",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c57",
+      "type": "Composition",
+      "name": "zahrnuje",
+      "description": "",
+      "příznaky": ""
+    },
+    {
+      "id": "stratez30c5stratez30c58",
+      "sourceId": "stratez30c5",
+      "targetId": "stratez30c58",
+      "type": "Composition",
+      "name": "zahrnuje",
       "description": "",
       "příznaky": ""
     }
