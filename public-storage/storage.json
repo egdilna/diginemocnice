@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-06T06:39:15.817Z",
+  "modified": "2026-05-06T06:40:52.603Z",
   "rootItems": [
     {
       "type": "note",
@@ -31,7 +31,7 @@
       "versions": [
         {
           "timestamp": "2026-05-06T06:22:18.473Z",
-          "description": "",
+          "description": "Originál A4 pro laminaci",
           "size": 1568796,
           "device": "MacBook Windows",
           "filename": "diginemocnice-public_eliska-letak_2026-05-06_08-22.pdf",
@@ -43,7 +43,7 @@
           "size": 1578176,
           "device": "MacBook Windows",
           "filename": "diginemocnice-public_eliska-letak_2krat_2026-05-06_08-39.pdf",
-          "sha": null,
+          "sha": "2a8d8fc78004626190a610b462f3241a2ac1269e",
           "partId": "2krat"
         }
       ],
