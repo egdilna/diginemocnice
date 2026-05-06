@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-06T06:22:18.473Z",
+  "modified": "2026-05-06T06:39:15.817Z",
   "rootItems": [
     {
       "type": "note",
@@ -35,11 +35,26 @@
           "size": 1568796,
           "device": "MacBook Windows",
           "filename": "diginemocnice-public_eliska-letak_2026-05-06_08-22.pdf",
-          "sha": null
+          "sha": "5b9feafa9f4be915cd32b2a5ef276559c5fac6b8"
+        },
+        {
+          "timestamp": "2026-05-06T06:39:15.817Z",
+          "description": "tisk pro rozdávání",
+          "size": 1578176,
+          "device": "MacBook Windows",
+          "filename": "diginemocnice-public_eliska-letak_2krat_2026-05-06_08-39.pdf",
+          "sha": null,
+          "partId": "2krat"
         }
       ],
       "created": "2026-05-06T06:18:58.048Z",
-      "modified": "2026-05-06T06:22:18.473Z"
+      "modified": "2026-05-06T06:39:15.817Z",
+      "parts": [
+        {
+          "id": "2krat",
+          "name": "2 ks na stranu tisk"
+        }
+      ]
     }
   ]
 }
