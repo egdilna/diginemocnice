@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-06T10:27:24.421Z",
+  "modified": "2026-05-07T06:41:12.890Z",
   "rootItems": [
     {
       "type": "note",
@@ -84,16 +84,15 @@
               "name": "Interaktivní šablona pro tvorbu IK psychiatrické nemocnice",
               "url": "https://egdilna.github.io/nastroje/mdt/?template=https://raw.githubusercontent.com/egdilna/diginemocnice/main/sablona-ik-pn.mdt",
               "description": "Interaktivní webová aplikace MDT s předpřipravenou šablonou pro IK pro psychiatrické nemocnice, jak jsme si ji dohodli na workshopu 30.4.2026 k PN",
-              "modified": "2026-05-06T10:18:19.027Z"
-            },
-            {
-              "type": "folder",
-              "id": "x5fbszyf7omeq",
-              "name": "ik-psychiatricka-nemocnice",
-              "description": "Šablona IK PN ve formátu MDT",
-              "items": [],
-              "created": "2026-05-06T10:20:01.778Z",
-              "modified": "2026-05-06T10:20:01.778Z"
+              "modified": "2026-05-07T06:39:51.077Z",
+              "tags": [
+                "digipsycho",
+                "ik nemocnice",
+                "nepřehlédněte",
+                "psychiatrické nemocnice",
+                "společná práce",
+                "šablona"
+              ]
             },
             {
               "type": "file",
@@ -121,7 +120,7 @@
                 }
               ],
               "created": "2026-05-06T10:20:01.784Z",
-              "modified": "2026-05-06T10:27:24.421Z",
+              "modified": "2026-05-07T06:41:12.889Z",
               "parts": [
                 {
                   "id": "v1",
@@ -135,15 +134,33 @@
                   "text": "Odsud si berte soubory šablony jen pokud víte co děláte. Jinak je v této složce i interaktivní webová aplikace pro tvorbu IK z této šablony a tu je třeba používat.",
                   "created": "2026-05-06T10:27:24.421Z"
                 }
+              ],
+              "tags": [
+                "archivováno",
+                "digipsycho",
+                "ik nemocnice",
+                "psychiatrické nemocnice",
+                "společná práce",
+                "šablona"
               ]
             }
           ],
           "created": "2026-05-06T10:17:04.129Z",
-          "modified": "2026-05-06T10:17:04.129Z"
+          "modified": "2026-05-07T06:39:13.998Z"
         }
       ],
       "created": "2026-05-06T10:16:48.054Z",
       "modified": "2026-05-06T10:16:48.054Z"
     }
+  ],
+  "tags": [
+    "archivováno",
+    "digipsycho",
+    "ik nemocnice",
+    "nepřehlédněte",
+    "psychiatrické nemocnice",
+    "společná práce",
+    "šablona",
+    "temp"
   ]
 }
