@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-08T14:31:54.719Z",
+  "modified": "2026-05-08T14:35:57.263Z",
   "rootItems": [
     {
       "type": "note",
@@ -163,7 +163,17 @@
           "id": "x4niu9l5jk8yn",
           "name": "KŘ zdravotnictví",
           "description": "",
-          "items": [],
+          "items": [
+            {
+              "type": "file",
+              "id": "Krizoverizenivezdravotnictvi",
+              "name": "Krizové řízení ve zdravotnictví 2024 MZD",
+              "description": "Ministerstvo zdravotnictví vydává dokument Krizové řízení ve zdravotnictví, jehož cílem je zejména sjednocení terminologie v uvedené oblasti a shrnutí základních informací o krizovém řízení ve zdravotnictví, včetně krizové připravenosti tak, aby byly tyto informace využitelné všemi osobami, které se danou problematikou zabývají a mají zájem o rozšíření či udržení svých znalostí v oboru krizové řízení ve zdravotnictví.",
+              "versions": [],
+              "created": "2026-05-08T14:34:33.269Z",
+              "modified": "2026-05-08T14:35:57.263Z"
+            }
+          ],
           "created": "2026-05-08T14:31:54.719Z",
           "modified": "2026-05-08T14:31:54.719Z"
         }
