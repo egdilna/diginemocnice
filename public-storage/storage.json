@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-07T06:41:12.890Z",
+  "modified": "2026-05-08T14:31:54.719Z",
   "rootItems": [
     {
       "type": "note",
@@ -68,89 +68,108 @@
     },
     {
       "type": "folder",
-      "id": "xn65oqneskgxi",
-      "name": "IK nemocnice",
-      "description": "Projekt IK nemocnice a jeho soubory",
+      "id": "xke6474k2g4qf",
+      "name": "Projekty",
+      "description": "",
       "items": [
         {
           "type": "folder",
-          "id": "xdh9wo1b5ktc1",
-          "name": "IK psychiatrických nemocnic",
-          "description": "",
+          "id": "xn65oqneskgxi",
+          "name": "IK nemocnice",
+          "description": "Projekt IK nemocnice a jeho soubory",
           "items": [
             {
-              "type": "link",
-              "id": "x6qu82nvdmf4j",
-              "name": "Interaktivní šablona pro tvorbu IK psychiatrické nemocnice",
-              "url": "https://egdilna.github.io/nastroje/mdt/?template=https://raw.githubusercontent.com/egdilna/diginemocnice/main/sablona-ik-pn.mdt",
-              "description": "Interaktivní webová aplikace MDT s předpřipravenou šablonou pro IK pro psychiatrické nemocnice, jak jsme si ji dohodli na workshopu 30.4.2026 k PN",
-              "modified": "2026-05-07T06:39:51.077Z",
-              "tags": [
-                "digipsycho",
-                "ik nemocnice",
-                "nepřehlédněte",
-                "psychiatrické nemocnice",
-                "společná práce",
-                "šablona"
-              ]
-            },
-            {
-              "type": "file",
-              "id": "sablona-ik-pn",
-              "name": "Šablona IK psychiatrické nemocnice ve zdrojovém formátu  MDT",
+              "type": "folder",
+              "id": "xdh9wo1b5ktc1",
+              "name": "IK psychiatrických nemocnic",
               "description": "",
-              "versions": [
+              "items": [
                 {
-                  "timestamp": "2026-05-06T10:23:03.481Z",
-                  "description": "",
-                  "size": 41088,
-                  "device": "MacBook Windows",
-                  "filename": "diginemocnice-public_sablona-ik-pn_v1_2026-05-06_12-23.mdt",
-                  "sha": "68fffe4203cf3b980afc37a7debcca64b1fedf88",
-                  "partId": "v1"
+                  "type": "link",
+                  "id": "x6qu82nvdmf4j",
+                  "name": "Interaktivní šablona pro tvorbu IK psychiatrické nemocnice",
+                  "url": "https://egdilna.github.io/nastroje/mdt/?template=https://raw.githubusercontent.com/egdilna/diginemocnice/main/sablona-ik-pn.mdt",
+                  "description": "Interaktivní webová aplikace MDT s předpřipravenou šablonou pro IK pro psychiatrické nemocnice, jak jsme si ji dohodli na workshopu 30.4.2026 k PN",
+                  "modified": "2026-05-07T06:39:51.077Z",
+                  "tags": [
+                    "digipsycho",
+                    "ik nemocnice",
+                    "nepřehlédněte",
+                    "psychiatrické nemocnice",
+                    "společná práce",
+                    "šablona"
+                  ]
                 },
                 {
-                  "timestamp": "2026-05-06T10:25:53.621Z",
+                  "type": "file",
+                  "id": "sablona-ik-pn",
+                  "name": "Šablona IK psychiatrické nemocnice ve zdrojovém formátu  MDT",
                   "description": "",
-                  "size": 63467,
-                  "device": "MacBook Windows",
-                  "filename": "diginemocnice-public_sablona-ik-pn_v1_2026-05-06_12-25.mdd",
-                  "sha": "9a38cbac15dd15a475d119a641ed889fafb75fd5",
-                  "partId": "v1"
+                  "versions": [
+                    {
+                      "timestamp": "2026-05-06T10:23:03.481Z",
+                      "description": "",
+                      "size": 41088,
+                      "device": "MacBook Windows",
+                      "filename": "diginemocnice-public_sablona-ik-pn_v1_2026-05-06_12-23.mdt",
+                      "sha": "68fffe4203cf3b980afc37a7debcca64b1fedf88",
+                      "partId": "v1"
+                    },
+                    {
+                      "timestamp": "2026-05-06T10:25:53.621Z",
+                      "description": "",
+                      "size": 63467,
+                      "device": "MacBook Windows",
+                      "filename": "diginemocnice-public_sablona-ik-pn_v1_2026-05-06_12-25.mdd",
+                      "sha": "9a38cbac15dd15a475d119a641ed889fafb75fd5",
+                      "partId": "v1"
+                    }
+                  ],
+                  "created": "2026-05-06T10:20:01.784Z",
+                  "modified": "2026-05-07T06:41:12.889Z",
+                  "parts": [
+                    {
+                      "id": "v1",
+                      "name": "verze 1.0"
+                    }
+                  ],
+                  "comments": [
+                    {
+                      "id": "x4oud13axy3yd",
+                      "author": "MacBook Windows",
+                      "text": "Odsud si berte soubory šablony jen pokud víte co děláte. Jinak je v této složce i interaktivní webová aplikace pro tvorbu IK z této šablony a tu je třeba používat.",
+                      "created": "2026-05-06T10:27:24.421Z"
+                    }
+                  ],
+                  "tags": [
+                    "archivováno",
+                    "digipsycho",
+                    "ik nemocnice",
+                    "psychiatrické nemocnice",
+                    "společná práce",
+                    "šablona"
+                  ]
                 }
               ],
-              "created": "2026-05-06T10:20:01.784Z",
-              "modified": "2026-05-07T06:41:12.889Z",
-              "parts": [
-                {
-                  "id": "v1",
-                  "name": "verze 1.0"
-                }
-              ],
-              "comments": [
-                {
-                  "id": "x4oud13axy3yd",
-                  "author": "MacBook Windows",
-                  "text": "Odsud si berte soubory šablony jen pokud víte co děláte. Jinak je v této složce i interaktivní webová aplikace pro tvorbu IK z této šablony a tu je třeba používat.",
-                  "created": "2026-05-06T10:27:24.421Z"
-                }
-              ],
-              "tags": [
-                "archivováno",
-                "digipsycho",
-                "ik nemocnice",
-                "psychiatrické nemocnice",
-                "společná práce",
-                "šablona"
-              ]
+              "created": "2026-05-06T10:17:04.129Z",
+              "modified": "2026-05-07T06:39:13.998Z"
             }
           ],
-          "created": "2026-05-06T10:17:04.129Z",
-          "modified": "2026-05-07T06:39:13.998Z"
+          "created": "2026-05-06T10:16:48.054Z",
+          "modified": "2026-05-06T10:16:48.054Z"
+        },
+        {
+          "type": "folder",
+          "id": "x4niu9l5jk8yn",
+          "name": "KŘ zdravotnictví",
+          "description": "",
+          "items": [],
+          "created": "2026-05-08T14:31:54.719Z",
+          "modified": "2026-05-08T14:31:54.719Z"
         }
       ],
-      "created": "2026-05-06T10:16:48.054Z",
-      "modified": "2026-05-06T10:16:48.054Z"
+      "created": "2026-05-08T14:28:42.615Z",
+      "modified": "2026-05-08T14:28:42.615Z"
     }
   ],
   "tags": [
