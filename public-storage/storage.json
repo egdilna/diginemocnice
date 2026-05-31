@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-31T13:18:29.633Z",
+  "modified": "2026-05-31T13:19:48.924Z",
   "rootItems": [
     {
       "type": "note",
@@ -197,9 +197,18 @@
               "id": "ez-diagramy-pup",
               "name": "PUP projekt EZ diagramy",
               "description": "Plantuml project soubor s diagramy v rámci EZ",
-              "versions": [],
+              "versions": [
+                {
+                  "timestamp": "2026-05-31T13:19:48.924Z",
+                  "description": "fakt nultá preverze skoro s ničím, ignorujte vesele",
+                  "size": 4020,
+                  "device": "Michal mac Windows",
+                  "filename": "diginemocnice-public_ez-diagramy-pup_2026-05-31_15-19.pup",
+                  "sha": null
+                }
+              ],
               "created": "2026-05-31T13:16:34.653Z",
-              "modified": "2026-05-31T13:18:29.633Z",
+              "modified": "2026-05-31T13:19:48.924Z",
               "tags": [
                 "digipsycho",
                 "společná práce"

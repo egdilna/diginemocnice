@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "projectName": "EZ diagramyNový projekt",
+  "created": "2026-05-31T12:05:50.151Z",
+  "modified": "2026-05-31T12:50:13.191Z",
+  "settings": {
+    "theme": "",
+    "skinparam": "",
+    "header": "",
+    "footer": "diginemocnice.cz",
+    "title": "",
+    "caption": ""
+  },
+  "folders": [],
+  "diagrams": [
+    {
+      "id": "dg_sz7chtualn",
+      "name": "Propojení systémů poskytovatele na CSEZ",
+      "type": "component",
+      "folderId": null,
+      "created": "2026-05-31T12:09:57.803Z",
+      "modified": "2026-05-31T12:50:13.191Z",
+      "settings": {
+        "theme": "",
+        "skinparam": "",
+        "header": "",
+        "footer": "",
+        "title": ""
+      },
+      "model": {
+        "components": [
+          {
+            "id": "co_kvc0ow8vbq",
+            "name": "ISPZS",
+            "alias": "ISPZS",
+            "groupId": "cg_pw8l081tj6",
+            "color": "LightGreen"
+          },
+          {
+            "id": "co_cvd2d9k4yh",
+            "name": "IS vnitřní lékárna",
+            "alias": "ISvnitrnilekarna",
+            "groupId": "cg_pw8l081tj6",
+            "color": "LightGreen"
+          },
+          {
+            "id": "co_95egkqyzxw",
+            "name": "IS lékárny pro lidi",
+            "alias": "ISlekarnyprolidi",
+            "groupId": "cg_pw8l081tj6",
+            "color": "LightBlue"
+          },
+          {
+            "id": "co_i9e1q83243",
+            "name": "Kmenové registry",
+            "alias": "Kmenoveregistry",
+            "groupId": "cg_87h47fndtm",
+            "color": "LightPink"
+          },
+          {
+            "id": "co_ito68olze3",
+            "name": "Registr oprávnění",
+            "alias": "Registropravneni",
+            "groupId": "cg_87h47fndtm",
+            "color": "LightSalmon"
+          },
+          {
+            "id": "co_ynm3e5ryd2",
+            "name": "NEHRDR",
+            "alias": "NEHRDR",
+            "groupId": "cg_87h47fndtm",
+            "color": ""
+          },
+          {
+            "id": "co_on7fbx5mif",
+            "name": "Dočasné úložiště zpráv",
+            "alias": "Docasneulozistezprav",
+            "groupId": "cg_87h47fndtm",
+            "color": ""
+          }
+        ],
+        "interfaces": [
+          {
+            "id": "if_1vosttymnt",
+            "name": "Rozhraní IDRR",
+            "alias": "RozhraniIDRR",
+            "groupId": "cg_87h47fndtm"
+          },
+          {
+            "id": "if_b63cfl50hk",
+            "name": "Výměnná síť",
+            "alias": "Vymennasit",
+            "groupId": "cg_87h47fndtm"
+          }
+        ],
+        "groups": [
+          {
+            "id": "cg_pw8l081tj6",
+            "name": "Nemocnice",
+            "groupType": "node"
+          },
+          {
+            "id": "cg_87h47fndtm",
+            "name": "MZD a ÚZIS",
+            "groupType": "package"
+          },
+          {
+            "id": "cg_8sp3v3jke5",
+            "name": "SÚKL",
+            "groupType": "package"
+          }
+        ],
+        "relationships": [
+          {
+            "id": "cr_4o65wf7m32",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "type": "provide",
+            "label": "",
+            "color": ""
+          },
+          {
+            "id": "cr_tf9qmlnc1d",
+            "sourceId": "if_b63cfl50hk",
+            "targetId": "co_on7fbx5mif",
+            "type": "provide",
+            "label": "",
+            "color": "DarkBlue"
+          },
+          {
+            "id": "cr_tsefy65v7y",
+            "sourceId": "if_1vosttymnt",
+            "targetId": "co_i9e1q83243",
+            "type": "provide",
+            "label": "",
+            "color": ""
+          },
+          {
+            "id": "cr_gwtg2uk1gg",
+            "sourceId": "if_1vosttymnt",
+            "targetId": "co_ito68olze3",
+            "type": "provide",
+            "label": "",
+            "color": ""
+          }
+        ]
+      },
+      "versions": []
+    }
+  ],
+  "sharedElements": []
+}
