@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-08T14:37:41.086Z",
+  "modified": "2026-05-31T13:17:50.837Z",
   "rootItems": [
     {
       "type": "note",
@@ -185,6 +185,42 @@
           ],
           "created": "2026-05-08T14:31:54.719Z",
           "modified": "2026-05-08T14:31:54.719Z"
+        },
+        {
+          "type": "folder",
+          "id": "xu6sceuy0y0r0",
+          "name": "Edukace k EZ obecně a znalosti",
+          "description": "",
+          "items": [
+            {
+              "type": "file",
+              "id": "ez-diagramy-pup",
+              "name": "PUP projekt EZ diagramy",
+              "description": "Plantuml project soubor s diagramy v rámci EZ",
+              "versions": [
+                {
+                  "timestamp": "2026-05-31T13:17:50.837Z",
+                  "description": "fakt nultá preverze",
+                  "size": 4020,
+                  "device": "Michal mac Windows",
+                  "filename": "diginemocnice-public_ez-diagramy-pup_2026-05-31_15-17.json",
+                  "sha": null
+                }
+              ],
+              "created": "2026-05-31T13:16:34.653Z",
+              "modified": "2026-05-31T13:17:50.837Z",
+              "tags": [
+                "digipsycho",
+                "společná práce"
+              ]
+            }
+          ],
+          "created": "2026-05-31T13:15:04.141Z",
+          "modified": "2026-05-31T13:15:04.141Z",
+          "tags": [
+            "digipsycho",
+            "společná práce"
+          ]
         }
       ],
       "created": "2026-05-08T14:28:42.615Z",
