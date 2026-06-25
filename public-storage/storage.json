@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-06-25T10:26:32.918Z",
+  "modified": "2026-06-25T10:30:22.035Z",
   "rootItems": [
     {
       "type": "note",
@@ -217,7 +217,7 @@
             {
               "type": "file",
               "id": "kurz-ez-dopady-v1",
-              "name": "Online kurz eZdravotnictvím a dopady pro středně pokročilé verze 1",
+              "name": "Online kurz eZdravotnictví a dopady pro středně pokročilé verze 1",
               "description": "Podklady pro online kurz a verze kurzu pro online o offline studium",
               "versions": [
                 {
@@ -244,12 +244,12 @@
                   "size": 169945,
                   "device": "Michal mac Windows",
                   "filename": "diginemocnice-public_kurz-ez-dopady-v1_material_2026-06-25_12-26.docx",
-                  "sha": null,
+                  "sha": "25b558d05093fdadb7c1a729268d8b55cbaeac59",
                   "partId": "material"
                 }
               ],
               "created": "2026-06-25T10:22:27.783Z",
-              "modified": "2026-06-25T10:26:32.918Z",
+              "modified": "2026-06-25T10:30:22.035Z",
               "tags": [
                 "společná práce"
               ],
@@ -261,6 +261,14 @@
                 {
                   "id": "material",
                   "name": "Materiál pro studenty"
+                }
+              ],
+              "comments": [
+                {
+                  "id": "x806dmhgj2ic3",
+                  "author": "Michal mac Windows",
+                  "text": "Publikovaná první verze kurzu. Můžete ji využívat, ale určitě bude docházet k rozšířením a proto prosím sledujte změny.",
+                  "created": "2026-06-25T10:30:22.035Z"
                 }
               ]
             }
