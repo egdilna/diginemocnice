@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-05-31T13:19:48.924Z",
+  "modified": "2026-06-25T10:24:51.455Z",
   "rootItems": [
     {
       "type": "note",
@@ -212,6 +212,38 @@
               "tags": [
                 "digipsycho",
                 "společná práce"
+              ]
+            },
+            {
+              "type": "file",
+              "id": "kurz-ez-dopady-v1",
+              "name": "Online kurz eZdravotnictvím a dopady pro středně pokročilé verze 1",
+              "description": "Podklady pro online kurz a verze kurzu pro online o offline studium",
+              "versions": [
+                {
+                  "timestamp": "2026-06-25T10:24:51.455Z",
+                  "description": "Originál projekt kurzu pro editor Kurzor pro první verzi, možno využít i pro vlastní úpravy a vlastní verze kurzu s využitím nástroje KURZor",
+                  "size": 613386,
+                  "device": "Michal mac Windows",
+                  "filename": "diginemocnice-public_kurz-ez-dopady-v1_kurzor_2026-06-25_12-24.course",
+                  "sha": null,
+                  "partId": "kurzor"
+                }
+              ],
+              "created": "2026-06-25T10:22:27.783Z",
+              "modified": "2026-06-25T10:24:51.455Z",
+              "tags": [
+                "společná práce"
+              ],
+              "parts": [
+                {
+                  "id": "kurzor",
+                  "name": "KURZor projekt"
+                },
+                {
+                  "id": "material",
+                  "name": "Materiál pro studenty"
+                }
               ]
             }
           ],
