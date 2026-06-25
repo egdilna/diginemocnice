@@ -4,7 +4,7 @@
   "name": "Veřejné dokumenty diginemocnice.cz",
   "description": "",
   "theme": "manila-folder",
-  "modified": "2026-06-25T10:24:51.455Z",
+  "modified": "2026-06-25T10:25:43.226Z",
   "rootItems": [
     {
       "type": "note",
@@ -226,12 +226,21 @@
                   "size": 613386,
                   "device": "Michal mac Windows",
                   "filename": "diginemocnice-public_kurz-ez-dopady-v1_kurzor_2026-06-25_12-24.course",
-                  "sha": null,
+                  "sha": "8a83cc048374fce9392f0410ac1bafc9f31e5135",
                   "partId": "kurzor"
+                },
+                {
+                  "timestamp": "2026-06-25T10:25:43.225Z",
+                  "description": "offline html verze kurzu",
+                  "size": 230114,
+                  "device": "Michal mac Windows",
+                  "filename": "diginemocnice-public_kurz-ez-dopady-v1_material_2026-06-25_12-25.html",
+                  "sha": null,
+                  "partId": "material"
                 }
               ],
               "created": "2026-06-25T10:22:27.783Z",
-              "modified": "2026-06-25T10:24:51.455Z",
+              "modified": "2026-06-25T10:25:43.226Z",
               "tags": [
                 "společná práce"
               ],
