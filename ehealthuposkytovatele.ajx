@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-08-03T06:06:33.950Z",
+  "exportDate": "2026-08-03T08:06:49.299Z",
   "archimateVersion": "3.2",
   "model": {
     "id": "cz-diginemocnice-ehealthuposkytovatele",
@@ -3946,6 +3946,46 @@
       "určuje": "",
       "příznaky": "Referenční architektura nemocnice",
       "description": "Nemocniční systém, jeden z produktů ISPZS"
+    },
+    {
+      "id": "farmis",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "Farmis",
+      "určuje": "",
+      "příznaky": "Importováno z import pnbrno, ☑️, Importováno z PNBrno architektura",
+      "description": "Farmaceutický informační systém a IS pro lékárny a výdeje léčiv"
+    },
+    {
+      "id": "hiponis",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "NIS HIPPO",
+      "určuje": "zákon 372/2011 a zákon 48/2011 a zákon 325/2020",
+      "příznaky": "Importováno z import pnbrno, ☑️, Importováno z PNBrno architektura",
+      "description": "Nemocniční informační systém HYPPO, modulární řešení ISP pro psychiatrické nemocnice, jde o Informační systém poskytovatele zdravotních služeb"
+    },
+    {
+      "id": "openlims",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "OpenLIMS",
+      "určuje": "",
+      "příznaky": "Importováno z import pnbrno, ☑️, Importováno z PNBrno architektura",
+      "description": "Laboratorní informační systém (LIS) - databázový systém výsledků vyšetření pacientů, výsledky jsou importovány z analyzátorů nebo zadávány ručně"
+    },
+    {
+      "id": "aislp",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "AISLP",
+      "určuje": "",
+      "příznaky": "🆕, ☑️, Importováno z PNBrno architektura",
+      "description": "Automatizovaný informační systém léčebných prostředků - informace o LP registrovaných v ČR a SR"
     }
   ],
   "relationships": [
@@ -7445,6 +7485,972 @@
         "vprocfungtepl",
         "vprocstrav",
         "vprocfungenerg"
+      ]
+    },
+    {
+      "id": "diagram-1775729055288",
+      "name": "K čemu slouží klíčové IS v PNBrno",
+      "description": "Importováno z PNBrno architektura",
+      "layoutType": "layered",
+      "elementIds": [
+        "farmis",
+        "hiponis",
+        "openlims"
+      ],
+      "nodes": [
+        {
+          "id": "node-ad-1775830938643",
+          "elementRef": "ad",
+          "x": 940,
+          "y": 1200,
+          "w": 177,
+          "h": 59,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-avensio-1775830938643",
+          "elementRef": "avensio",
+          "x": 940,
+          "y": 1100,
+          "w": 177,
+          "h": 58,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-farmis-1775830938643",
+          "elementRef": "farmis",
+          "x": 940,
+          "y": 540,
+          "w": 178,
+          "h": 57,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-ginisessl-1775830938643",
+          "elementRef": "ginisessl",
+          "x": 940,
+          "y": 1000,
+          "w": 177,
+          "h": 57,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-icewarp-1775830938643",
+          "elementRef": "icewarp",
+          "x": 940,
+          "y": 900,
+          "w": 177,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-navision-1775830938643",
+          "elementRef": "navision",
+          "x": 940,
+          "y": 740,
+          "w": 178,
+          "h": 58,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-hiponis-1775830938643",
+          "elementRef": "hiponis",
+          "x": 940,
+          "y": 240,
+          "w": 178,
+          "h": 58,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-openlims-1775830938643",
+          "elementRef": "openlims",
+          "x": 940,
+          "y": 140,
+          "w": 180,
+          "h": 56,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-prevmustekdonavi-1775830938643",
+          "elementRef": "prevmustekdonavi",
+          "x": 940,
+          "y": 820,
+          "w": 178,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-anete-1775830938643",
+          "elementRef": "anete",
+          "x": 940,
+          "y": 360,
+          "w": 177,
+          "h": 58,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-procvzdr-1775830938643",
+          "elementRef": "procvzdr",
+          "x": 1600,
+          "y": 100,
+          "w": 262,
+          "h": 76,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocbezprnud-1775830938643",
+          "elementRef": "vprocbezprnud",
+          "x": 1600,
+          "y": 200,
+          "w": 260,
+          "h": 77,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocstravdie-1775830938643",
+          "elementRef": "vprocstravdie",
+          "x": 1600,
+          "y": 420,
+          "w": 262,
+          "h": 79,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocekozdrvyk-1775830938643",
+          "elementRef": "vprocekozdrvyk",
+          "x": 1600,
+          "y": 520,
+          "w": 264,
+          "h": 84,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocdokevizd-1775830938643",
+          "elementRef": "vprocdokevizd",
+          "x": 240,
+          "y": 240,
+          "w": 264,
+          "h": 80,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocdokevidevpac-1775830938643",
+          "elementRef": "vprocdokevidevpac",
+          "x": 240,
+          "y": 140,
+          "w": 261,
+          "h": 79,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocstravzam-1775830938643",
+          "elementRef": "vprocstravzam",
+          "x": 240,
+          "y": 440,
+          "w": 265,
+          "h": 75,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocstravpac-1775830938643",
+          "elementRef": "vprocstravpac",
+          "x": 240,
+          "y": 540,
+          "w": 262,
+          "h": 72,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocekoskl-1775830938643",
+          "elementRef": "vprocekoskl",
+          "x": 240,
+          "y": 640,
+          "w": 259,
+          "h": 75,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-ehnemoblluz-1775830938643",
+          "elementRef": "ehnemoblluz",
+          "x": 240,
+          "y": 340,
+          "w": 264,
+          "h": 67,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocdokevidssl-1775830938643",
+          "elementRef": "vprocdokevidssl",
+          "x": 240,
+          "y": 940,
+          "w": 262,
+          "h": 70,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocbezpgdpr-1775830938643",
+          "elementRef": "vprocbezpgdpr",
+          "x": 1600,
+          "y": 300,
+          "w": 260,
+          "h": 78,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocdokevidse-1775830938643",
+          "elementRef": "vprocdokevidse",
+          "x": 1600,
+          "y": 980,
+          "w": 260,
+          "h": 77,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vproceko-1775830938643",
+          "elementRef": "vproceko",
+          "x": 1600,
+          "y": 740,
+          "w": 262,
+          "h": 81,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocekomaj-1775830938643",
+          "elementRef": "vprocekomaj",
+          "x": 1580,
+          "y": 620,
+          "w": 250,
+          "h": 78,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocekorozp-1775830938643",
+          "elementRef": "vprocekorozp",
+          "x": 240,
+          "y": 840,
+          "w": 255,
+          "h": 71,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocekosml-1775830938643",
+          "elementRef": "vprocekosml",
+          "x": 240,
+          "y": 740,
+          "w": 257,
+          "h": 71,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocekoucto-1775830938643",
+          "elementRef": "vprocekoucto",
+          "x": 1600,
+          "y": 860,
+          "w": 260,
+          "h": 77,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-vprocfungbud-1775830938643",
+          "elementRef": "vprocfungbud",
+          "x": 1600,
+          "y": 1100,
+          "w": 263,
+          "h": 71,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        }
+      ],
+      "connections": [
+        {
+          "id": "conn-vprocekovprocekomaj-1775830938643",
+          "relationshipRef": "vprocekovprocekomaj",
+          "sourceNode": "node-vproceko-1775830938643",
+          "targetNode": "node-vprocekomaj-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-vprocekovprocekorozp-1775830938643",
+          "relationshipRef": "vprocekovprocekorozp",
+          "sourceNode": "node-vproceko-1775830938643",
+          "targetNode": "node-vprocekorozp-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-vprocekovprocekoskl-1775830938643",
+          "relationshipRef": "vprocekovprocekoskl",
+          "sourceNode": "node-vproceko-1775830938643",
+          "targetNode": "node-vprocekoskl-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-vprocekovprocekosml-1775830938643",
+          "relationshipRef": "vprocekovprocekosml",
+          "sourceNode": "node-vproceko-1775830938643",
+          "targetNode": "node-vprocekosml-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-vprocekovprocekoucto-1775830938643",
+          "relationshipRef": "vprocekovprocekoucto",
+          "sourceNode": "node-vproceko-1775830938643",
+          "targetNode": "node-vprocekoucto-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-vprocekovprocekozdrvyk-1775830938643",
+          "relationshipRef": "vprocekovprocekozdrvyk",
+          "sourceNode": "node-vproceko-1775830938643",
+          "targetNode": "node-vprocekozdrvyk-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisprocvzdr-1775830938643",
+          "relationshipRef": "hiponisprocvzdr",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-procvzdr-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisvprocbezprnud-1775830938643",
+          "relationshipRef": "hiponisvprocbezprnud",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-vprocbezprnud-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisvprocstravdie-1775830938643",
+          "relationshipRef": "hiponisvprocstravdie",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-vprocstravdie-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisvprocekozdrvyk-1775830938643",
+          "relationshipRef": "hiponisvprocekozdrvyk",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-vprocekozdrvyk-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisvprocdokevizd-1775830938643",
+          "relationshipRef": "hiponisvprocdokevizd",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-vprocdokevizd-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisvprocdokevidevpac-1775830938643",
+          "relationshipRef": "hiponisvprocdokevidevpac",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-vprocdokevidevpac-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-anetevprocstravzam-1775830938643",
+          "relationshipRef": "anetevprocstravzam",
+          "sourceNode": "node-anete-1775830938643",
+          "targetNode": "node-vprocstravzam-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-anetevprocstravdie-1775830938643",
+          "relationshipRef": "anetevprocstravdie",
+          "sourceNode": "node-anete-1775830938643",
+          "targetNode": "node-vprocstravdie-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-anetevprocstravpac-1775830938643",
+          "relationshipRef": "anetevprocstravpac",
+          "sourceNode": "node-anete-1775830938643",
+          "targetNode": "node-vprocstravpac-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-farmisvprocekozdrvyk-1775830938643",
+          "relationshipRef": "farmisvprocekozdrvyk",
+          "sourceNode": "node-farmis-1775830938643",
+          "targetNode": "node-vprocekozdrvyk-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-farmisvprocekoskl-1775830938643",
+          "relationshipRef": "farmisvprocekoskl",
+          "sourceNode": "node-farmis-1775830938643",
+          "targetNode": "node-vprocekoskl-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-aneteehnemoblluz-1775830938643",
+          "relationshipRef": "aneteehnemoblluz",
+          "sourceNode": "node-anete-1775830938643",
+          "targetNode": "node-ehnemoblluz-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-ginisesslvprocdokevidssl-1775830938643",
+          "relationshipRef": "ginisesslvprocdokevidssl",
+          "sourceNode": "node-ginisessl-1775830938643",
+          "targetNode": "node-vprocdokevidssl-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisehnemoblluz-1775830938643",
+          "relationshipRef": "hiponisehnemoblluz",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-ehnemoblluz-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisvprocbezpgdpr-1775830938643",
+          "relationshipRef": "hiponisvprocbezpgdpr",
+          "sourceNode": "node-hiponis-1775830938643",
+          "targetNode": "node-vprocbezpgdpr-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvprocdokevidse-1775830938643",
+          "relationshipRef": "navisionvprocdokevidse",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vprocdokevidse-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvproceko-1775830938643",
+          "relationshipRef": "navisionvproceko",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vproceko-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvprocekomaj-1775830938643",
+          "relationshipRef": "navisionvprocekomaj",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vprocekomaj-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvprocekorozp-1775830938643",
+          "relationshipRef": "navisionvprocekorozp",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vprocekorozp-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvprocekoskl-1775830938643",
+          "relationshipRef": "navisionvprocekoskl",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vprocekoskl-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvprocekosml-1775830938643",
+          "relationshipRef": "navisionvprocekosml",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vprocekosml-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvprocekoucto-1775830938643",
+          "relationshipRef": "navisionvprocekoucto",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vprocekoucto-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionvprocekozdrvyk-1775830938643",
+          "relationshipRef": "navisionvprocekozdrvyk",
+          "sourceNode": "node-navision-1775830938643",
+          "targetNode": "node-vprocekozdrvyk-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-openlimsvprocdokevidevpac-1775830938643",
+          "relationshipRef": "openlimsvprocdokevidevpac",
+          "sourceNode": "node-openlims-1775830938643",
+          "targetNode": "node-vprocdokevidevpac-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-openlimsvprocdokevizd-1775830938643",
+          "relationshipRef": "openlimsvprocdokevizd",
+          "sourceNode": "node-openlims-1775830938643",
+          "targetNode": "node-vprocdokevizd-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-prevmustekdonavivprocekoucto-1775830938643",
+          "relationshipRef": "prevmustekdonavivprocekoucto",
+          "sourceNode": "node-prevmustekdonavi-1775830938643",
+          "targetNode": "node-vprocekoucto-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-icewarpvprocdokevidse-1775830938643",
+          "relationshipRef": "icewarpvprocdokevidse",
+          "sourceNode": "node-icewarp-1775830938643",
+          "targetNode": "node-vprocdokevidse-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-icewarpvprocfungbud-1775830938643",
+          "relationshipRef": "icewarpvprocfungbud",
+          "sourceNode": "node-icewarp-1775830938643",
+          "targetNode": "node-vprocfungbud-1775830938643",
+          "hidden": false,
+          "bendpoints": []
+        }
+      ]
+    },
+    {
+      "id": "diagram-1775814050528",
+      "name": "Rámcové oblasti PNBrno a jaké systémy potřebují",
+      "description": "Importováno z PNBrno architektura",
+      "layoutType": "layered",
+      "elementIds": [
+        "farmis",
+        "hiponis",
+        "openlims"
+      ],
+      "nodes": [
+        {
+          "id": "node-farmis-1775830959624",
+          "elementRef": "farmis",
+          "x": 380,
+          "y": 360,
+          "w": 178,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-ehnemobllek-1775830959624",
+          "elementRef": "ehnemobllek",
+          "x": 0,
+          "y": 500,
+          "w": 187,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-anete-1775830959624",
+          "elementRef": "anete",
+          "x": 380,
+          "y": 280,
+          "w": 179,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-ehnemoblluz-1775830959624",
+          "elementRef": "ehnemoblluz",
+          "x": 0,
+          "y": 420,
+          "w": 187,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-avensio-1775830959624",
+          "elementRef": "avensio",
+          "x": 380,
+          "y": 780,
+          "w": 179,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-ehnemoblprov-1775830959624",
+          "elementRef": "ehnemoblprov",
+          "x": 0,
+          "y": 580,
+          "w": 185,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-ginisessl-1775830959624",
+          "elementRef": "ginisessl",
+          "x": 380,
+          "y": 540,
+          "w": 179,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-hiponis-1775830959624",
+          "elementRef": "hiponis",
+          "x": 380,
+          "y": 200,
+          "w": 178,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-ehnemoblamb-1775830959624",
+          "elementRef": "ehnemoblamb",
+          "x": 0,
+          "y": 100,
+          "w": 186,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-ehnemobllab-1775830959624",
+          "elementRef": "ehnemobllab",
+          "x": 0,
+          "y": 20,
+          "w": 185,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-ehnemoblspe-1775830959624",
+          "elementRef": "ehnemoblspe",
+          "x": 0,
+          "y": 340,
+          "w": 186,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-ehnemoblter-1775830959624",
+          "elementRef": "ehnemoblter",
+          "x": 0,
+          "y": 180,
+          "w": 186,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-ehnemoblzdok-1775830959624",
+          "elementRef": "ehnemoblzdok",
+          "x": 0,
+          "y": 260,
+          "w": 184,
+          "h": 55,
+          "style": {
+            "fillColor": "#FFFFB5",
+            "lineColor": "#c9c96c"
+          }
+        },
+        {
+          "id": "node-navision-1775830959624",
+          "elementRef": "navision",
+          "x": 380,
+          "y": 620,
+          "w": 178,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-openlims-1775830959624",
+          "elementRef": "openlims",
+          "x": 380,
+          "y": 100,
+          "w": 177,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-prevmustekdonavi-1775830959624",
+          "elementRef": "prevmustekdonavi",
+          "x": 380,
+          "y": 700,
+          "w": 179,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        },
+        {
+          "id": "node-icewarp-1775830959624",
+          "elementRef": "icewarp",
+          "x": 380,
+          "y": 460,
+          "w": 177,
+          "h": 55,
+          "style": {
+            "fillColor": "#B5FFFF",
+            "lineColor": "#6cc9c9"
+          }
+        }
+      ],
+      "connections": [
+        {
+          "id": "conn-farmisehnemobllek-1775830959625",
+          "relationshipRef": "farmisehnemobllek",
+          "sourceNode": "node-farmis-1775830959624",
+          "targetNode": "node-ehnemobllek-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-aneteehnemoblluz-1775830959625",
+          "relationshipRef": "aneteehnemoblluz",
+          "sourceNode": "node-anete-1775830959624",
+          "targetNode": "node-ehnemoblluz-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-avensioehnemoblprov-1775830959625",
+          "relationshipRef": "avensioehnemoblprov",
+          "sourceNode": "node-avensio-1775830959624",
+          "targetNode": "node-ehnemoblprov-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-ginisesslehnemoblprov-1775830959625",
+          "relationshipRef": "ginisesslehnemoblprov",
+          "sourceNode": "node-ginisessl-1775830959624",
+          "targetNode": "node-ehnemoblprov-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisehnemoblamb-1775830959625",
+          "relationshipRef": "hiponisehnemoblamb",
+          "sourceNode": "node-hiponis-1775830959624",
+          "targetNode": "node-ehnemoblamb-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisehnemobllab-1775830959625",
+          "relationshipRef": "hiponisehnemobllab",
+          "sourceNode": "node-hiponis-1775830959624",
+          "targetNode": "node-ehnemobllab-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisehnemoblluz-1775830959625",
+          "relationshipRef": "hiponisehnemoblluz",
+          "sourceNode": "node-hiponis-1775830959624",
+          "targetNode": "node-ehnemoblluz-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisehnemoblspe-1775830959625",
+          "relationshipRef": "hiponisehnemoblspe",
+          "sourceNode": "node-hiponis-1775830959624",
+          "targetNode": "node-ehnemoblspe-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisehnemoblter-1775830959625",
+          "relationshipRef": "hiponisehnemoblter",
+          "sourceNode": "node-hiponis-1775830959624",
+          "targetNode": "node-ehnemoblter-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-hiponisehnemoblzdok-1775830959625",
+          "relationshipRef": "hiponisehnemoblzdok",
+          "sourceNode": "node-hiponis-1775830959624",
+          "targetNode": "node-ehnemoblzdok-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-navisionehnemoblprov-1775830959625",
+          "relationshipRef": "navisionehnemoblprov",
+          "sourceNode": "node-navision-1775830959624",
+          "targetNode": "node-ehnemoblprov-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-openlimsehnemobllab-1775830959625",
+          "relationshipRef": "openlimsehnemobllab",
+          "sourceNode": "node-openlims-1775830959624",
+          "targetNode": "node-ehnemobllab-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-prevmustekdonaviehnemoblprov-1775830959625",
+          "relationshipRef": "prevmustekdonaviehnemoblprov",
+          "sourceNode": "node-prevmustekdonavi-1775830959624",
+          "targetNode": "node-ehnemoblprov-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        },
+        {
+          "id": "conn-icewarpehnemoblprov-1775830959625",
+          "relationshipRef": "icewarpehnemoblprov",
+          "sourceNode": "node-icewarp-1775830959624",
+          "targetNode": "node-ehnemoblprov-1775830959624",
+          "hidden": false,
+          "bendpoints": []
+        }
       ]
     }
   ],
