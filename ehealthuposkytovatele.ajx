@@ -1,5 +1,5 @@
 {
-  "exportDate": "2026-05-06T10:36:44.423Z",
+  "exportDate": "2026-08-03T06:06:33.950Z",
   "archimateVersion": "3.2",
   "model": {
     "id": "cz-diginemocnice-ehealthuposkytovatele",
@@ -3906,6 +3906,46 @@
       "určuje": "",
       "příznaky": "",
       "description": "Doplněn rámec nové národní strategie EZ"
+    },
+    {
+      "id": "pcdoktor",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "PC doktor",
+      "určuje": "",
+      "příznaky": "Referenční architektura nemocnice",
+      "description": "Systém pro ambulance a ordinace lékařů, jeden z produktů ISPZS"
+    },
+    {
+      "id": "stapronis",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "NIS StaPro",
+      "určuje": "",
+      "příznaky": "Referenční architektura nemocnice",
+      "description": "Systém pro ambulance a ordinace lékařů, jeden z produktů ISPZS"
+    },
+    {
+      "id": "adishd",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "ADIS HD NIS",
+      "určuje": "",
+      "příznaky": "Referenční architektura nemocnice",
+      "description": "Nemocniční systém, jeden z produktů ISPZS"
+    },
+    {
+      "id": "medicalc",
+      "layer": "application",
+      "type": "ApplicationComponent",
+      "stereotype": "Informační systém",
+      "name": "NIS MediCalc",
+      "určuje": "",
+      "příznaky": "Referenční architektura nemocnice",
+      "description": "Nemocniční systém, jeden z produktů ISPZS"
     }
   ],
   "relationships": [
