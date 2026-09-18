@@ -1,0 +1,1894 @@
+{
+  "schemaVersion": 1,
+  "projectName": "EZ diagramy",
+  "created": "2026-05-31T12:05:50.151Z",
+  "modified": "2026-09-18T11:49:27.268Z",
+  "settings": {
+    "theme": "",
+    "skinparam": "",
+    "header": "",
+    "footer": "diginemocnice.cz",
+    "title": "",
+    "caption": ""
+  },
+  "folders": [],
+  "diagrams": [
+    {
+      "id": "dg_sz7chtualn",
+      "name": "Propojení systémů poskytovatele na CSEZ",
+      "type": "component",
+      "folderId": null,
+      "created": "2026-05-31T12:09:57.803Z",
+      "modified": "2026-06-23T09:04:41.562Z",
+      "settings": {
+        "theme": "",
+        "skinparam": "",
+        "header": "",
+        "footer": "",
+        "title": "",
+        "caption": "",
+        "layoutDirection": "left-right"
+      },
+      "model": {
+        "components": [
+          {
+            "id": "co_kvc0ow8vbq",
+            "alias": "ISPZS",
+            "groupId": "cg_pw8l081tj6",
+            "color": "LightGreen",
+            "sharedRef": "ISPZS"
+          },
+          {
+            "id": "co_cvd2d9k4yh",
+            "alias": "ISvnitrnilekarna",
+            "groupId": "cg_pw8l081tj6",
+            "color": "LightGreen",
+            "sharedRef": "ISvnitrnilekarna"
+          },
+          {
+            "id": "co_95egkqyzxw",
+            "alias": "ISlekarnyprolidi",
+            "groupId": "cg_pw8l081tj6",
+            "color": "LightBlue",
+            "sharedRef": "isverejnelekarny"
+          },
+          {
+            "id": "co_i9e1q83243",
+            "alias": "Kmenoveregistry",
+            "groupId": "cg_87h47fndtm",
+            "color": "LightPink",
+            "sharedRef": "Kmenoveregistry"
+          },
+          {
+            "id": "co_ito68olze3",
+            "alias": "Registropravneni",
+            "groupId": "cg_87h47fndtm",
+            "color": "LightSalmon",
+            "sharedRef": "Registropravneni"
+          },
+          {
+            "id": "co_ynm3e5ryd2",
+            "alias": "NEHRDR",
+            "groupId": "cg_87h47fndtm",
+            "color": "",
+            "sharedRef": "NEHRDR"
+          },
+          {
+            "id": "co_on7fbx5mif",
+            "alias": "Docasneulozistezprav",
+            "groupId": "cg_87h47fndtm",
+            "color": "",
+            "sharedRef": "Docasneulozistezprav"
+          },
+          {
+            "id": "co_6uzxhm64fs",
+            "alias": "ISprolaboratore",
+            "groupId": "cg_pw8l081tj6",
+            "color": "LightGreen",
+            "sharedRef": "ISprolaboratore"
+          },
+          {
+            "id": "co_qsktcch48u",
+            "alias": "isZurnalcinnosti",
+            "groupId": "cg_87h47fndtm",
+            "color": "LightGray",
+            "note": "",
+            "sharedRef": "isZurnalcinnosti"
+          },
+          {
+            "id": "co_gkw30i5212",
+            "alias": "EZCaEID",
+            "groupId": "cg_87h47fndtm",
+            "color": "",
+            "note": "",
+            "sharedRef": "EZCaEID"
+          },
+          {
+            "id": "co_gpnbxb1cw7",
+            "alias": "EZkarta",
+            "groupId": "cg_87h47fndtm",
+            "color": "Orange",
+            "note": "",
+            "sharedRef": "EZkarta"
+          },
+          {
+            "id": "co_ulcq9702fu",
+            "alias": "Portalelektronickehozdravotnictvi",
+            "groupId": "cg_87h47fndtm",
+            "color": "Yellow",
+            "note": "",
+            "sharedRef": "portalez"
+          },
+          {
+            "id": "co_z6nmckw6hq",
+            "alias": "Narodnizdravotnickyinformacnisystem",
+            "groupId": "cg_87h47fndtm",
+            "color": "LightGreen",
+            "note": "",
+            "sharedRef": "Narodnizdravotnickyinformacnisystem"
+          },
+          {
+            "id": "co_p9j2vgl3ey",
+            "name": "eRecept",
+            "alias": "iseRecept",
+            "stereotype": "component",
+            "groupId": "cg_8sp3v3jke5",
+            "color": "LightBlue",
+            "note": ""
+          }
+        ],
+        "interfaces": [
+          {
+            "id": "if_1vosttymnt",
+            "alias": "RozhraniIDRR",
+            "groupId": "cg_87h47fndtm",
+            "sharedRef": "RozhraniIDRR"
+          },
+          {
+            "id": "if_b63cfl50hk",
+            "alias": "Vymennasit",
+            "groupId": "cg_87h47fndtm",
+            "sharedRef": "rozhrVymennasit"
+          },
+          {
+            "id": "if_qiyj495rgb",
+            "alias": "SluzbyEZCAEID",
+            "groupId": "cg_87h47fndtm",
+            "sharedRef": "SluzbyEZCAEID"
+          },
+          {
+            "id": "if_gmvcxwnrks",
+            "alias": "RozhraniPortaluEZ",
+            "groupId": "cg_87h47fndtm",
+            "sharedRef": "RozhraniPortaluEZ"
+          },
+          {
+            "id": "if_wd2hois24w",
+            "alias": "RozhraniNZIS2",
+            "groupId": "cg_87h47fndtm",
+            "sharedRef": "RozhraniNZIS2"
+          }
+        ],
+        "groups": [
+          {
+            "id": "cg_pw8l081tj6",
+            "name": "Nemocnice",
+            "groupType": "node"
+          },
+          {
+            "id": "cg_87h47fndtm",
+            "name": "MZD a ÚZIS",
+            "groupType": "package"
+          },
+          {
+            "id": "cg_8sp3v3jke5",
+            "name": "SÚKL",
+            "groupType": "package"
+          }
+        ],
+        "relationships": [
+          {
+            "id": "cr_4o65wf7m32",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "type": "association",
+            "label": "",
+            "color": ""
+          },
+          {
+            "id": "cr_2lcntq2e4w",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_6uzxhm64fs",
+            "type": "association",
+            "label": "",
+            "color": ""
+          },
+          {
+            "id": "cr_6347bv5uu0",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "color": "",
+            "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna6"
+          },
+          {
+            "id": "cr_6djfnqm77g",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "if_qiyj495rgb",
+            "type": "use",
+            "label": "Pro některé případy se volá rovnou služba EZCA nikoliv přes IDRR",
+            "color": ""
+          },
+          {
+            "id": "cr_4bgkawz6im",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "if_b63cfl50hk",
+            "type": "use",
+            "label": "Technicky sice přes IDRR, ale odesílání eŽádanky se děje speciálními službami výměnné sítě",
+            "color": "Gray"
+          },
+          {
+            "id": "cr_ukz7w4wl7u",
+            "sourceId": "co_6uzxhm64fs",
+            "targetId": "if_b63cfl50hk",
+            "type": "use",
+            "label": "Sice jde technicky přes IDRR, ale u eŽádanek jsou speciální funkce přímo z výměnné sítě pro obě strany žádanky",
+            "color": "Gray"
+          },
+          {
+            "id": "cr_9hbqbofcl6",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_p9j2vgl3ey",
+            "type": "use",
+            "label": "lékový záznam pacienta, ale především předepsání léku vydaného nikoliv vnitřní lékárnou",
+            "color": ""
+          },
+          {
+            "id": "cr_kakh02haqx",
+            "sourceId": "co_95egkqyzxw",
+            "targetId": "co_p9j2vgl3ey",
+            "type": "use",
+            "label": "vydání léků ve veřejné lékarně na základě ereceptu",
+            "color": ""
+          },
+          {
+            "id": "cr_tf9qmlnc1d",
+            "sourceId": "if_b63cfl50hk",
+            "targetId": "co_on7fbx5mif",
+            "type": "association",
+            "label": "",
+            "color": "DarkBlue"
+          },
+          {
+            "id": "cr_e0432ebh0b",
+            "sourceId": "if_gmvcxwnrks",
+            "targetId": "if_1vosttymnt",
+            "type": "use",
+            "label": "",
+            "color": ""
+          },
+          {
+            "id": "cr_7krkst359f",
+            "sourceId": "co_ulcq9702fu",
+            "targetId": "if_gmvcxwnrks",
+            "type": "provide",
+            "label": "",
+            "color": ""
+          },
+          {
+            "id": "cr_lxszcmszte",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "color": "",
+            "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna"
+          },
+          {
+            "id": "cr_zwjrh07vos",
+            "sourceId": "co_i9e1q83243",
+            "targetId": "if_1vosttymnt",
+            "color": "",
+            "sharedRef": "rel_Kmenoveregistry_provide_RozhraniIDRR"
+          },
+          {
+            "id": "cr_1xj0bm1bdw",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "color": "",
+            "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna2"
+          },
+          {
+            "id": "cr_mtlnqmb6dy",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "color": "",
+            "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna3"
+          },
+          {
+            "id": "cr_dtxlwlvc92",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "color": "",
+            "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna4"
+          },
+          {
+            "id": "cr_lw8xq5ek00",
+            "sourceId": "co_kvc0ow8vbq",
+            "targetId": "co_cvd2d9k4yh",
+            "color": "",
+            "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna5"
+          }
+        ]
+      },
+      "versions": [
+        {
+          "id": "vr_wnma53ff3i",
+          "label": "0.1",
+          "timestamp": "2026-05-31T14:21:28.494Z",
+          "snapshot": {
+            "model": {
+              "components": [
+                {
+                  "id": "co_kvc0ow8vbq",
+                  "alias": "ISPZS",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISPZS"
+                },
+                {
+                  "id": "co_cvd2d9k4yh",
+                  "alias": "ISvnitrnilekarna",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISvnitrnilekarna"
+                },
+                {
+                  "id": "co_95egkqyzxw",
+                  "alias": "ISlekarnyprolidi",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightBlue",
+                  "sharedRef": "isverejnelekarny"
+                },
+                {
+                  "id": "co_i9e1q83243",
+                  "alias": "Kmenoveregistry",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightPink",
+                  "sharedRef": "Kmenoveregistry"
+                },
+                {
+                  "id": "co_ito68olze3",
+                  "alias": "Registropravneni",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightSalmon",
+                  "sharedRef": "Registropravneni"
+                },
+                {
+                  "id": "co_ynm3e5ryd2",
+                  "alias": "NEHRDR",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "",
+                  "sharedRef": "NEHRDR"
+                },
+                {
+                  "id": "co_on7fbx5mif",
+                  "alias": "Docasneulozistezprav",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "",
+                  "sharedRef": "Docasneulozistezprav"
+                },
+                {
+                  "id": "co_6uzxhm64fs",
+                  "alias": "ISprolaboratore",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISprolaboratore"
+                },
+                {
+                  "id": "co_qsktcch48u",
+                  "alias": "isZurnalcinnosti",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightGray",
+                  "note": "",
+                  "sharedRef": "isZurnalcinnosti"
+                },
+                {
+                  "id": "co_gpnbxb1cw7",
+                  "alias": "EZkarta",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "Orange",
+                  "note": "",
+                  "sharedRef": "EZkarta"
+                },
+                {
+                  "id": "co_ulcq9702fu",
+                  "alias": "Portalelektronickehozdravotnictvi",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "Yellow",
+                  "note": "",
+                  "sharedRef": "portalez"
+                }
+              ],
+              "interfaces": [
+                {
+                  "id": "if_1vosttymnt",
+                  "alias": "RozhraniIDRR",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "RozhraniIDRR"
+                },
+                {
+                  "id": "if_b63cfl50hk",
+                  "alias": "Vymennasit",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "rozhrVymennasit"
+                }
+              ],
+              "groups": [
+                {
+                  "id": "cg_pw8l081tj6",
+                  "name": "Nemocnice",
+                  "groupType": "node"
+                },
+                {
+                  "id": "cg_87h47fndtm",
+                  "name": "MZD a ÚZIS",
+                  "groupType": "package"
+                },
+                {
+                  "id": "cg_8sp3v3jke5",
+                  "name": "SÚKL",
+                  "groupType": "package"
+                }
+              ],
+              "relationships": [
+                {
+                  "id": "cr_4o65wf7m32",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_tf9qmlnc1d",
+                  "sourceId": "if_b63cfl50hk",
+                  "targetId": "co_on7fbx5mif",
+                  "type": "provide",
+                  "label": "",
+                  "color": "DarkBlue"
+                },
+                {
+                  "id": "cr_tsefy65v7y",
+                  "sourceId": "if_1vosttymnt",
+                  "targetId": "co_i9e1q83243",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_gwtg2uk1gg",
+                  "sourceId": "if_1vosttymnt",
+                  "targetId": "co_ito68olze3",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_2lcntq2e4w",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_6uzxhm64fs",
+                  "type": "use",
+                  "label": "",
+                  "color": ""
+                }
+              ]
+            },
+            "settings": {
+              "theme": "",
+              "skinparam": "",
+              "header": "",
+              "footer": "",
+              "title": ""
+            }
+          }
+        },
+        {
+          "id": "vr_mox3es7uau",
+          "label": "0.2 ale nejsem si jist jestli to neobrátilo směry vazeb to musím ještě pošéfovat.",
+          "timestamp": "2026-06-01T11:42:30.630Z",
+          "snapshot": {
+            "model": {
+              "components": [
+                {
+                  "id": "co_kvc0ow8vbq",
+                  "alias": "ISPZS",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISPZS"
+                },
+                {
+                  "id": "co_cvd2d9k4yh",
+                  "alias": "ISvnitrnilekarna",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISvnitrnilekarna"
+                },
+                {
+                  "id": "co_95egkqyzxw",
+                  "alias": "ISlekarnyprolidi",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightBlue",
+                  "sharedRef": "isverejnelekarny"
+                },
+                {
+                  "id": "co_i9e1q83243",
+                  "alias": "Kmenoveregistry",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightPink",
+                  "sharedRef": "Kmenoveregistry"
+                },
+                {
+                  "id": "co_ito68olze3",
+                  "alias": "Registropravneni",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightSalmon",
+                  "sharedRef": "Registropravneni"
+                },
+                {
+                  "id": "co_ynm3e5ryd2",
+                  "alias": "NEHRDR",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "",
+                  "sharedRef": "NEHRDR"
+                },
+                {
+                  "id": "co_on7fbx5mif",
+                  "alias": "Docasneulozistezprav",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "",
+                  "sharedRef": "Docasneulozistezprav"
+                },
+                {
+                  "id": "co_6uzxhm64fs",
+                  "alias": "ISprolaboratore",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISprolaboratore"
+                },
+                {
+                  "id": "co_qsktcch48u",
+                  "alias": "isZurnalcinnosti",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightGray",
+                  "note": "",
+                  "sharedRef": "isZurnalcinnosti"
+                },
+                {
+                  "id": "co_gpnbxb1cw7",
+                  "alias": "EZkarta",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "Orange",
+                  "note": "",
+                  "sharedRef": "EZkarta"
+                },
+                {
+                  "id": "co_ulcq9702fu",
+                  "alias": "Portalelektronickehozdravotnictvi",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "Yellow",
+                  "note": "",
+                  "sharedRef": "portalez"
+                },
+                {
+                  "id": "co_z6nmckw6hq",
+                  "alias": "Narodnizdravotnickyinformacnisystem",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightGreen",
+                  "note": "",
+                  "sharedRef": "Narodnizdravotnickyinformacnisystem"
+                }
+              ],
+              "interfaces": [
+                {
+                  "id": "if_1vosttymnt",
+                  "alias": "RozhraniIDRR",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "RozhraniIDRR"
+                },
+                {
+                  "id": "if_b63cfl50hk",
+                  "alias": "Vymennasit",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "rozhrVymennasit"
+                },
+                {
+                  "id": "if_gmvcxwnrks",
+                  "alias": "RozhraniPortaluEZ",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "RozhraniPortaluEZ"
+                },
+                {
+                  "id": "if_wd2hois24w",
+                  "alias": "RozhraniNZIS2",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "RozhraniNZIS2"
+                }
+              ],
+              "groups": [
+                {
+                  "id": "cg_pw8l081tj6",
+                  "name": "Nemocnice",
+                  "groupType": "node"
+                },
+                {
+                  "id": "cg_87h47fndtm",
+                  "name": "MZD a ÚZIS",
+                  "groupType": "package"
+                },
+                {
+                  "id": "cg_8sp3v3jke5",
+                  "name": "SÚKL",
+                  "groupType": "package"
+                }
+              ],
+              "relationships": [
+                {
+                  "id": "cr_4o65wf7m32",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_2lcntq2e4w",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_6uzxhm64fs",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_tsefy65v7y",
+                  "sourceId": "if_1vosttymnt",
+                  "targetId": "co_i9e1q83243",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_gwtg2uk1gg",
+                  "sourceId": "if_1vosttymnt",
+                  "targetId": "co_ito68olze3",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_tf9qmlnc1d",
+                  "sourceId": "if_b63cfl50hk",
+                  "targetId": "co_on7fbx5mif",
+                  "type": "provide",
+                  "label": "",
+                  "color": "DarkBlue"
+                },
+                {
+                  "id": "cr_e0432ebh0b",
+                  "sourceId": "if_gmvcxwnrks",
+                  "targetId": "if_1vosttymnt",
+                  "type": "use",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_zklfx7xw1n",
+                  "sourceId": "if_wd2hois24w",
+                  "targetId": "co_z6nmckw6hq",
+                  "type": "provide",
+                  "label": "",
+                  "color": "DarkBlue"
+                }
+              ]
+            },
+            "settings": {
+              "theme": "",
+              "skinparam": "",
+              "header": "",
+              "footer": "",
+              "title": ""
+            }
+          }
+        },
+        {
+          "id": "vr_9jj14zmie4",
+          "label": "1.0 první finální verze",
+          "timestamp": "2026-06-23T09:03:49.468Z",
+          "snapshot": {
+            "model": {
+              "components": [
+                {
+                  "id": "co_kvc0ow8vbq",
+                  "alias": "ISPZS",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISPZS"
+                },
+                {
+                  "id": "co_cvd2d9k4yh",
+                  "alias": "ISvnitrnilekarna",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISvnitrnilekarna"
+                },
+                {
+                  "id": "co_95egkqyzxw",
+                  "alias": "ISlekarnyprolidi",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightBlue",
+                  "sharedRef": "isverejnelekarny"
+                },
+                {
+                  "id": "co_i9e1q83243",
+                  "alias": "Kmenoveregistry",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightPink",
+                  "sharedRef": "Kmenoveregistry"
+                },
+                {
+                  "id": "co_ito68olze3",
+                  "alias": "Registropravneni",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightSalmon",
+                  "sharedRef": "Registropravneni"
+                },
+                {
+                  "id": "co_ynm3e5ryd2",
+                  "alias": "NEHRDR",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "",
+                  "sharedRef": "NEHRDR"
+                },
+                {
+                  "id": "co_on7fbx5mif",
+                  "alias": "Docasneulozistezprav",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "",
+                  "sharedRef": "Docasneulozistezprav"
+                },
+                {
+                  "id": "co_6uzxhm64fs",
+                  "alias": "ISprolaboratore",
+                  "groupId": "cg_pw8l081tj6",
+                  "color": "LightGreen",
+                  "sharedRef": "ISprolaboratore"
+                },
+                {
+                  "id": "co_qsktcch48u",
+                  "alias": "isZurnalcinnosti",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightGray",
+                  "note": "",
+                  "sharedRef": "isZurnalcinnosti"
+                },
+                {
+                  "id": "co_gkw30i5212",
+                  "alias": "EZCaEID",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "",
+                  "note": "",
+                  "sharedRef": "EZCaEID"
+                },
+                {
+                  "id": "co_gpnbxb1cw7",
+                  "alias": "EZkarta",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "Orange",
+                  "note": "",
+                  "sharedRef": "EZkarta"
+                },
+                {
+                  "id": "co_ulcq9702fu",
+                  "alias": "Portalelektronickehozdravotnictvi",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "Yellow",
+                  "note": "",
+                  "sharedRef": "portalez"
+                },
+                {
+                  "id": "co_z6nmckw6hq",
+                  "alias": "Narodnizdravotnickyinformacnisystem",
+                  "groupId": "cg_87h47fndtm",
+                  "color": "LightGreen",
+                  "note": "",
+                  "sharedRef": "Narodnizdravotnickyinformacnisystem"
+                },
+                {
+                  "id": "co_p9j2vgl3ey",
+                  "name": "eRecept",
+                  "alias": "iseRecept",
+                  "stereotype": "component",
+                  "groupId": "cg_8sp3v3jke5",
+                  "color": "LightBlue",
+                  "note": ""
+                }
+              ],
+              "interfaces": [
+                {
+                  "id": "if_1vosttymnt",
+                  "alias": "RozhraniIDRR",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "RozhraniIDRR"
+                },
+                {
+                  "id": "if_b63cfl50hk",
+                  "alias": "Vymennasit",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "rozhrVymennasit"
+                },
+                {
+                  "id": "if_qiyj495rgb",
+                  "alias": "SluzbyEZCAEID",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "SluzbyEZCAEID"
+                },
+                {
+                  "id": "if_gmvcxwnrks",
+                  "alias": "RozhraniPortaluEZ",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "RozhraniPortaluEZ"
+                },
+                {
+                  "id": "if_wd2hois24w",
+                  "alias": "RozhraniNZIS2",
+                  "groupId": "cg_87h47fndtm",
+                  "sharedRef": "RozhraniNZIS2"
+                }
+              ],
+              "groups": [
+                {
+                  "id": "cg_pw8l081tj6",
+                  "name": "Nemocnice",
+                  "groupType": "node"
+                },
+                {
+                  "id": "cg_87h47fndtm",
+                  "name": "MZD a ÚZIS",
+                  "groupType": "package"
+                },
+                {
+                  "id": "cg_8sp3v3jke5",
+                  "name": "SÚKL",
+                  "groupType": "package"
+                }
+              ],
+              "relationships": [
+                {
+                  "id": "cr_4o65wf7m32",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "type": "association",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_2lcntq2e4w",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_6uzxhm64fs",
+                  "type": "association",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_6347bv5uu0",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "color": "",
+                  "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna6"
+                },
+                {
+                  "id": "cr_6djfnqm77g",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "if_qiyj495rgb",
+                  "type": "use",
+                  "label": "Pro některé případy se volá rovnou služba EZCA nikoliv přes IDRR",
+                  "color": ""
+                },
+                {
+                  "id": "cr_4bgkawz6im",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "if_b63cfl50hk",
+                  "type": "use",
+                  "label": "Technicky sice přes IDRR, ale odesílání eŽádanky se děje speciálními službami výměnné sítě",
+                  "color": "Gray"
+                },
+                {
+                  "id": "cr_ukz7w4wl7u",
+                  "sourceId": "co_6uzxhm64fs",
+                  "targetId": "if_b63cfl50hk",
+                  "type": "use",
+                  "label": "Sice jde technicky přes IDRR, ale u eŽádanek jsou speciální funkce přímo z výměnné sítě pro obě strany žádanky",
+                  "color": "Gray"
+                },
+                {
+                  "id": "cr_9hbqbofcl6",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_p9j2vgl3ey",
+                  "type": "use",
+                  "label": "lékový záznam pacienta, ale především předepsání léku vydaného nikoliv vnitřní lékárnou",
+                  "color": ""
+                },
+                {
+                  "id": "cr_kakh02haqx",
+                  "sourceId": "co_95egkqyzxw",
+                  "targetId": "co_p9j2vgl3ey",
+                  "type": "use",
+                  "label": "vydání léků ve veřejné lékarně na základě ereceptu",
+                  "color": ""
+                },
+                {
+                  "id": "cr_tf9qmlnc1d",
+                  "sourceId": "if_b63cfl50hk",
+                  "targetId": "co_on7fbx5mif",
+                  "type": "association",
+                  "label": "",
+                  "color": "DarkBlue"
+                },
+                {
+                  "id": "cr_e0432ebh0b",
+                  "sourceId": "if_gmvcxwnrks",
+                  "targetId": "if_1vosttymnt",
+                  "type": "use",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_7krkst359f",
+                  "sourceId": "co_ulcq9702fu",
+                  "targetId": "if_gmvcxwnrks",
+                  "type": "provide",
+                  "label": "",
+                  "color": ""
+                },
+                {
+                  "id": "cr_lxszcmszte",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "color": "",
+                  "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna"
+                },
+                {
+                  "id": "cr_zwjrh07vos",
+                  "sourceId": "co_i9e1q83243",
+                  "targetId": "if_1vosttymnt",
+                  "color": "",
+                  "sharedRef": "rel_Kmenoveregistry_provide_RozhraniIDRR"
+                },
+                {
+                  "id": "cr_1xj0bm1bdw",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "color": "",
+                  "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna2"
+                },
+                {
+                  "id": "cr_mtlnqmb6dy",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "color": "",
+                  "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna3"
+                },
+                {
+                  "id": "cr_dtxlwlvc92",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "color": "",
+                  "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna4"
+                },
+                {
+                  "id": "cr_lw8xq5ek00",
+                  "sourceId": "co_kvc0ow8vbq",
+                  "targetId": "co_cvd2d9k4yh",
+                  "color": "",
+                  "sharedRef": "rel_ISPZS_use_ISvnitrnilekarna5"
+                }
+              ]
+            },
+            "settings": {
+              "theme": "",
+              "skinparam": "",
+              "header": "",
+              "footer": "",
+              "title": ""
+            }
+          }
+        }
+      ],
+      "done": {
+        "co_cvd2d9k4yh": true
+      },
+      "status": "approved",
+      "hidden": {}
+    },
+    {
+      "id": "dg_5evyyqv6ht",
+      "name": "Základní data v centrálních komponentách EZ",
+      "type": "class",
+      "folderId": null,
+      "created": "2026-05-31T13:35:24.641Z",
+      "modified": "2026-05-31T13:43:39.052Z",
+      "settings": {
+        "theme": "",
+        "skinparam": "",
+        "header": "",
+        "footer": "",
+        "title": ""
+      },
+      "model": {
+        "classes": [
+          {
+            "id": "cl_efl12fkmv2",
+            "alias": "Pacient",
+            "stereotypeExtra": "",
+            "packageId": "pk_6n7a96w9bv",
+            "sharedRef": "Pacientdata"
+          },
+          {
+            "id": "cl_tleym1mfk1",
+            "name": "Identifikační údaje pacienta",
+            "alias": "Identifikacniudajepacienta",
+            "stereotype": "struct",
+            "stereotypeExtra": "",
+            "attributes": [
+              {
+                "id": "at_d7q69as006",
+                "visibility": "+",
+                "name": "Kmenový identifikátor pacienta",
+                "type": "",
+                "defaultValue": "",
+                "isStatic": true,
+                "isAbstract": false
+              },
+              {
+                "id": "at_2adfwwzdco",
+                "visibility": "+",
+                "name": "Osobní identifikační údaje",
+                "type": "",
+                "defaultValue": "",
+                "isStatic": false,
+                "isAbstract": false
+              },
+              {
+                "id": "at_hbjlbjsjbu",
+                "visibility": "+",
+                "name": "Číslo pojištěnce",
+                "type": "",
+                "defaultValue": "",
+                "isStatic": false,
+                "isAbstract": false
+              },
+              {
+                "id": "at_qz4bnjzlqo",
+                "visibility": "#",
+                "name": "Vazba na identitu v ROB",
+                "type": "",
+                "defaultValue": "",
+                "isStatic": false,
+                "isAbstract": false
+              },
+              {
+                "id": "at_lkkpknwnrp",
+                "visibility": "-",
+                "name": "Vazba na identity v EU",
+                "type": "",
+                "defaultValue": "",
+                "isStatic": false,
+                "isAbstract": false
+              }
+            ],
+            "methods": [],
+            "values": [],
+            "packageId": "pk_6n7a96w9bv"
+          }
+        ],
+        "relationships": [
+          {
+            "id": "rel_0ktyzf74vq",
+            "sourceClassId": "cl_efl12fkmv2",
+            "targetClassId": "cl_tleym1mfk1",
+            "type": "composition",
+            "sourceCardinality": "",
+            "targetCardinality": "",
+            "label": "",
+            "direction": "forward"
+          }
+        ],
+        "packages": [
+          {
+            "id": "pk_6n7a96w9bv",
+            "name": "Kmenový registr",
+            "alias": "Kmenovyregistr",
+            "packageType": "package",
+            "parentId": null
+          }
+        ]
+      },
+      "versions": [],
+      "status": "",
+      "hidden": {}
+    },
+    {
+      "id": "dg_y58crp4tpk",
+      "name": "Průběh vyřazování zdravotnické dokumentace",
+      "type": "activity",
+      "folderId": null,
+      "created": "2026-07-13T10:24:07.976Z",
+      "modified": "2026-09-18T11:49:27.268Z",
+      "settings": {
+        "theme": "",
+        "skinparam": "",
+        "header": "",
+        "footer": "",
+        "title": ""
+      },
+      "model": {
+        "children": [
+          {
+            "id": "n_yq5rk0btpk",
+            "type": "start"
+          },
+          {
+            "id": "n_1ac6vn8wsm",
+            "type": "action",
+            "text": "Pro dokumentaci, jíž uplynula lhůta pro uchování",
+            "swimlane": "",
+            "color": "",
+            "note": "",
+            "stereotype": "input"
+          },
+          {
+            "id": "n_6xt2f9fkqq",
+            "type": "action",
+            "text": "Provede Posouzení potřebnosti",
+            "swimlane": "Poskytovatel",
+            "color": "",
+            "note": "",
+            "stereotype": "task"
+          },
+          {
+            "id": "n_3g16pnwvjn",
+            "type": "if",
+            "condition": "Výsledek posouzení potřebnosti",
+            "branches": [
+              {
+                "id": "br_hx8kralvjn",
+                "label": "Potřebuje pro poskytování služeb pacientovi",
+                "children": [
+                  {
+                    "id": "n_0vz1l66h4j",
+                    "type": "action",
+                    "text": "Stanoví dobu dalšího posouzení",
+                    "swimlane": "Poskytovatel",
+                    "color": "",
+                    "note": "",
+                    "stereotype": "task"
+                  },
+                  {
+                    "id": "n_r3a0r2l2is",
+                    "type": "action",
+                    "text": "akce provede záznam a dál v procesu ignoruje",
+                    "swimlane": "Poskytovatel",
+                    "color": "",
+                    "note": "",
+                    "stereotype": "output"
+                  }
+                ]
+              },
+              {
+                "id": "br_gpgcq4cvjn",
+                "label": "Nadále nepotřebuje",
+                "children": [
+                  {
+                    "id": "n_zk5k5xoig6",
+                    "type": "action",
+                    "text": "Zařadí do seznamu vyřazované dokumentace",
+                    "swimlane": "Poskytovatel",
+                    "color": "",
+                    "note": "",
+                    "stereotype": ""
+                  },
+                  {
+                    "id": "n_haj32r1wvv",
+                    "type": "action",
+                    "text": "Sestaví seznam",
+                    "swimlane": "Poskytovatel",
+                    "color": "",
+                    "note": "",
+                    "stereotype": "task"
+                  },
+                  {
+                    "id": "n_ukuv6k2tw4",
+                    "type": "action",
+                    "text": "Zašle seznam archivu k výběru archiválií",
+                    "swimlane": "Poskytovatel",
+                    "color": "",
+                    "note": "",
+                    "stereotype": "output"
+                  },
+                  {
+                    "id": "n_wiue9eg01s",
+                    "type": "action",
+                    "text": "Posoudí seznam a určí archiválie",
+                    "swimlane": "Archiv",
+                    "color": "",
+                    "note": "",
+                    "stereotype": ""
+                  },
+                  {
+                    "id": "n_ordm56obb9",
+                    "type": "if",
+                    "condition": "Určení",
+                    "branches": [
+                      {
+                        "id": "br_riolx76bb9",
+                        "label": "Nebude archiválie",
+                        "children": [
+                          {
+                            "id": "n_qf8a6crc18",
+                            "type": "action",
+                            "text": "K dokumentaci se nevyjádří",
+                            "swimlane": "Archiv",
+                            "color": "",
+                            "note": "",
+                            "stereotype": ""
+                          }
+                        ]
+                      },
+                      {
+                        "id": "br_s3319njbb9",
+                        "label": "Je archiválie",
+                        "children": [
+                          {
+                            "id": "n_32q02umqt9",
+                            "type": "action",
+                            "text": "Vyznačí dokumentaci k předání",
+                            "swimlane": "Archiv",
+                            "color": "",
+                            "note": "",
+                            "stereotype": "task"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "n_b1gtpk0g3x",
+                    "type": "action",
+                    "text": "Zašle seznam s uvedením výběru",
+                    "swimlane": "Archiv",
+                    "color": "",
+                    "note": "",
+                    "stereotype": "output"
+                  },
+                  {
+                    "id": "n_iuxvjttkp6",
+                    "type": "action",
+                    "text": "Podle vyjádření archivu",
+                    "swimlane": "Poskytovatel",
+                    "color": "",
+                    "note": "",
+                    "stereotype": "input"
+                  },
+                  {
+                    "id": "n_t45a34n95p",
+                    "type": "if",
+                    "condition": "Pro dokumentaci, která",
+                    "branches": [
+                      {
+                        "id": "br_sstaoj195p",
+                        "label": "Je archiválie",
+                        "children": [
+                          {
+                            "id": "n_lyr3kmp3d2",
+                            "type": "action",
+                            "text": "Připraví k předání archivu",
+                            "swimlane": "Poskytovatel",
+                            "color": "",
+                            "note": "",
+                            "stereotype": "task"
+                          },
+                          {
+                            "id": "n_c9lx3rc9gc",
+                            "type": "action",
+                            "text": "Předá všechny archiválie archivu",
+                            "swimlane": "Poskytovatel",
+                            "color": "",
+                            "note": "",
+                            "stereotype": "output"
+                          },
+                          {
+                            "id": "n_i5hy7z5rz0",
+                            "type": "action",
+                            "text": "Uloží protokol od archivu",
+                            "swimlane": "Poskytovatel",
+                            "color": "",
+                            "note": "",
+                            "stereotype": "input"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "br_2wyrgvw95p",
+                        "label": "ne",
+                        "children": [
+                          {
+                            "id": "n_774sl1v60j",
+                            "type": "action",
+                            "text": "Provede zničení nepředané dokumentace",
+                            "swimlane": "Poskytovatel",
+                            "color": "",
+                            "note": "",
+                            "stereotype": ""
+                          },
+                          {
+                            "id": "n_e7bie74pq1",
+                            "type": "split",
+                            "branches": [
+                              {
+                                "id": "br_5lydenypq1",
+                                "children": [
+                                  {
+                                    "id": "n_h94ukmn4ye",
+                                    "type": "action",
+                                    "text": "Fyzicky znehodnotí a zničí",
+                                    "swimlane": "Poskytovatel",
+                                    "color": "Red",
+                                    "note": "",
+                                    "stereotype": "procedure"
+                                  },
+                                  {
+                                    "id": "n_57c9u8f8jz",
+                                    "type": "action",
+                                    "text": "Sepíše protokol o zničení",
+                                    "swimlane": "Poskytovatel",
+                                    "color": "",
+                                    "note": "",
+                                    "stereotype": "task"
+                                  }
+                                ],
+                                "label": "U listinné"
+                              },
+                              {
+                                "id": "br_pw2br0kpq1",
+                                "children": [
+                                  {
+                                    "id": "n_p2i2kijy7r",
+                                    "type": "action",
+                                    "text": "Vyvolá funkci ISPZS pro vymazání",
+                                    "swimlane": "Poskytovatel",
+                                    "color": "Red",
+                                    "note": "",
+                                    "stereotype": "procedure"
+                                  },
+                                  {
+                                    "id": "n_joevqkwf97",
+                                    "type": "action",
+                                    "text": "Vygeneruje v ISPZS protokol o výmazu",
+                                    "swimlane": "Poskytovatel",
+                                    "color": "",
+                                    "note": "",
+                                    "stereotype": "output"
+                                  }
+                                ],
+                                "label": "U elektronické"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "swimlanes": [
+          {
+            "id": "sw_h4b90i3133",
+            "name": "Poskytovatel"
+          },
+          {
+            "id": "sw_w098n2f133",
+            "name": "Archiv"
+          }
+        ]
+      },
+      "done": {
+        "n_yq5rk0btpk": true,
+        "n_r3a0r2l2is": true,
+        "n_0vz1l66h4j": true,
+        "br_hx8kralvjn": true
+      },
+      "versions": [
+        {
+          "id": "vr_q826mc5mg4",
+          "label": "v1 asi fakt hotový a můźe jít ven",
+          "timestamp": "2026-09-18T11:49:27.268Z",
+          "snapshot": {
+            "model": {
+              "children": [
+                {
+                  "id": "n_yq5rk0btpk",
+                  "type": "start"
+                },
+                {
+                  "id": "n_1ac6vn8wsm",
+                  "type": "action",
+                  "text": "Pro dokumentaci, jíž uplynula lhůta pro uchování",
+                  "swimlane": "",
+                  "color": "",
+                  "note": "",
+                  "stereotype": "input"
+                },
+                {
+                  "id": "n_6xt2f9fkqq",
+                  "type": "action",
+                  "text": "Provede Posouzení potřebnosti",
+                  "swimlane": "Poskytovatel",
+                  "color": "",
+                  "note": "",
+                  "stereotype": "task"
+                },
+                {
+                  "id": "n_3g16pnwvjn",
+                  "type": "if",
+                  "condition": "Výsledek posouzení potřebnosti",
+                  "branches": [
+                    {
+                      "id": "br_hx8kralvjn",
+                      "label": "Potřebuje pro poskytování služeb pacientovi",
+                      "children": [
+                        {
+                          "id": "n_0vz1l66h4j",
+                          "type": "action",
+                          "text": "Stanoví dobu dalšího posouzení",
+                          "swimlane": "Poskytovatel",
+                          "color": "",
+                          "note": "",
+                          "stereotype": "task"
+                        },
+                        {
+                          "id": "n_r3a0r2l2is",
+                          "type": "action",
+                          "text": "akce provede záznam a dál v procesu ignoruje",
+                          "swimlane": "Poskytovatel",
+                          "color": "",
+                          "note": "",
+                          "stereotype": "output"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "br_gpgcq4cvjn",
+                      "label": "Nadále nepotřebuje",
+                      "children": [
+                        {
+                          "id": "n_zk5k5xoig6",
+                          "type": "action",
+                          "text": "Zařadí do seznamu vyřazované dokumentace",
+                          "swimlane": "Poskytovatel",
+                          "color": "",
+                          "note": "",
+                          "stereotype": ""
+                        },
+                        {
+                          "id": "n_haj32r1wvv",
+                          "type": "action",
+                          "text": "Sestaví seznam",
+                          "swimlane": "Poskytovatel",
+                          "color": "",
+                          "note": "",
+                          "stereotype": "task"
+                        },
+                        {
+                          "id": "n_ukuv6k2tw4",
+                          "type": "action",
+                          "text": "Zašle seznam archivu k výběru archiválií",
+                          "swimlane": "Poskytovatel",
+                          "color": "",
+                          "note": "",
+                          "stereotype": "output"
+                        },
+                        {
+                          "id": "n_wiue9eg01s",
+                          "type": "action",
+                          "text": "Posoudí seznam a určí archiválie",
+                          "swimlane": "Archiv",
+                          "color": "",
+                          "note": "",
+                          "stereotype": ""
+                        },
+                        {
+                          "id": "n_ordm56obb9",
+                          "type": "if",
+                          "condition": "Určení",
+                          "branches": [
+                            {
+                              "id": "br_riolx76bb9",
+                              "label": "Nebude archiválie",
+                              "children": [
+                                {
+                                  "id": "n_qf8a6crc18",
+                                  "type": "action",
+                                  "text": "K dokumentaci se nevyjádří",
+                                  "swimlane": "Archiv",
+                                  "color": "",
+                                  "note": "",
+                                  "stereotype": ""
+                                }
+                              ]
+                            },
+                            {
+                              "id": "br_s3319njbb9",
+                              "label": "Je archiválie",
+                              "children": [
+                                {
+                                  "id": "n_32q02umqt9",
+                                  "type": "action",
+                                  "text": "Vyznačí dokumentaci k předání",
+                                  "swimlane": "Archiv",
+                                  "color": "",
+                                  "note": "",
+                                  "stereotype": "task"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "id": "n_b1gtpk0g3x",
+                          "type": "action",
+                          "text": "Zašle seznam s uvedením výběru",
+                          "swimlane": "Archiv",
+                          "color": "",
+                          "note": "",
+                          "stereotype": "output"
+                        },
+                        {
+                          "id": "n_iuxvjttkp6",
+                          "type": "action",
+                          "text": "Podle vyjádření archivu",
+                          "swimlane": "Poskytovatel",
+                          "color": "",
+                          "note": "",
+                          "stereotype": "input"
+                        },
+                        {
+                          "id": "n_t45a34n95p",
+                          "type": "if",
+                          "condition": "Pro dokumentaci, která",
+                          "branches": [
+                            {
+                              "id": "br_sstaoj195p",
+                              "label": "Je archiválie",
+                              "children": [
+                                {
+                                  "id": "n_lyr3kmp3d2",
+                                  "type": "action",
+                                  "text": "Připraví k předání archivu",
+                                  "swimlane": "Poskytovatel",
+                                  "color": "",
+                                  "note": "",
+                                  "stereotype": "task"
+                                },
+                                {
+                                  "id": "n_c9lx3rc9gc",
+                                  "type": "action",
+                                  "text": "Předá všechny archiválie archivu",
+                                  "swimlane": "Poskytovatel",
+                                  "color": "",
+                                  "note": "",
+                                  "stereotype": "output"
+                                },
+                                {
+                                  "id": "n_i5hy7z5rz0",
+                                  "type": "action",
+                                  "text": "Uloží protokol od archivu",
+                                  "swimlane": "Poskytovatel",
+                                  "color": "",
+                                  "note": "",
+                                  "stereotype": "input"
+                                }
+                              ]
+                            },
+                            {
+                              "id": "br_2wyrgvw95p",
+                              "label": "ne",
+                              "children": [
+                                {
+                                  "id": "n_774sl1v60j",
+                                  "type": "action",
+                                  "text": "Provede zničení nepředané dokumentace",
+                                  "swimlane": "Poskytovatel",
+                                  "color": "",
+                                  "note": "",
+                                  "stereotype": ""
+                                },
+                                {
+                                  "id": "n_e7bie74pq1",
+                                  "type": "split",
+                                  "branches": [
+                                    {
+                                      "id": "br_5lydenypq1",
+                                      "children": [
+                                        {
+                                          "id": "n_h94ukmn4ye",
+                                          "type": "action",
+                                          "text": "Fyzicky znehodnotí a zničí",
+                                          "swimlane": "Poskytovatel",
+                                          "color": "Red",
+                                          "note": "",
+                                          "stereotype": "procedure"
+                                        },
+                                        {
+                                          "id": "n_57c9u8f8jz",
+                                          "type": "action",
+                                          "text": "Sepíše protokol o zničení",
+                                          "swimlane": "Poskytovatel",
+                                          "color": "",
+                                          "note": "",
+                                          "stereotype": "task"
+                                        }
+                                      ],
+                                      "label": "U listinné"
+                                    },
+                                    {
+                                      "id": "br_pw2br0kpq1",
+                                      "children": [
+                                        {
+                                          "id": "n_p2i2kijy7r",
+                                          "type": "action",
+                                          "text": "Vyvolá funkci ISPZS pro vymazání",
+                                          "swimlane": "Poskytovatel",
+                                          "color": "Red",
+                                          "note": "",
+                                          "stereotype": "procedure"
+                                        },
+                                        {
+                                          "id": "n_joevqkwf97",
+                                          "type": "action",
+                                          "text": "Vygeneruje v ISPZS protokol o výmazu",
+                                          "swimlane": "Poskytovatel",
+                                          "color": "",
+                                          "note": "",
+                                          "stereotype": "output"
+                                        }
+                                      ],
+                                      "label": "U elektronické"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "swimlanes": [
+                {
+                  "id": "sw_h4b90i3133",
+                  "name": "Poskytovatel"
+                },
+                {
+                  "id": "sw_w098n2f133",
+                  "name": "Archiv"
+                }
+              ]
+            },
+            "settings": {
+              "theme": "",
+              "skinparam": "",
+              "header": "",
+              "footer": "",
+              "title": ""
+            }
+          }
+        }
+      ],
+      "status": "for_review",
+      "hidden": {}
+    }
+  ],
+  "sharedElements": [
+    {
+      "name": "Pacient",
+      "stereotype": "entity",
+      "attributes": [],
+      "methods": [
+        {
+          "id": "me_ka1adt2w58",
+          "visibility": "+",
+          "name": "je veden v KRP",
+          "returnType": "",
+          "parameters": [],
+          "isStatic": true,
+          "isAbstract": false
+        },
+        {
+          "id": "me_va9ntyjl0y",
+          "visibility": "+",
+          "name": "vyměňují se o něm údaje",
+          "returnType": "",
+          "parameters": [],
+          "isStatic": false,
+          "isAbstract": false
+        },
+        {
+          "id": "me_2yd3f2tvq0",
+          "visibility": "+",
+          "name": "ztotožněn v ROB",
+          "returnType": "",
+          "parameters": [
+            {
+              "name": "AIFO",
+              "type": ""
+            }
+          ],
+          "isStatic": false,
+          "isAbstract": false
+        }
+      ],
+      "values": [],
+      "alias": "Pacientdata",
+      "kind": "entity",
+      "stereotypeExtra": "Subjekt"
+    },
+    {
+      "name": "ISPZS",
+      "alias": "ISPZS",
+      "kind": "comp_component"
+    },
+    {
+      "name": "IS vnitřní lékárna",
+      "alias": "ISvnitrnilekarna",
+      "kind": "comp_component"
+    },
+    {
+      "name": "IS veřejné lékárny",
+      "alias": "isverejnelekarny",
+      "kind": "comp_component"
+    },
+    {
+      "name": "IS pro laboratoře",
+      "alias": "ISprolaboratore",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Kmenové registry",
+      "alias": "Kmenoveregistry",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Registr oprávnění",
+      "alias": "Registropravneni",
+      "kind": "comp_component"
+    },
+    {
+      "name": "NEHRDR",
+      "alias": "NEHRDR",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Dočasné úložiště zpráv",
+      "alias": "Docasneulozistezprav",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Rozhraní IDRR",
+      "alias": "RozhraniIDRR",
+      "kind": "comp_interface"
+    },
+    {
+      "name": "Výměnná síť",
+      "alias": "rozhrVymennasit",
+      "kind": "comp_interface"
+    },
+    {
+      "name": "Žurnál činností",
+      "alias": "isZurnalcinnosti",
+      "stereotype": "component",
+      "kind": "comp_component"
+    },
+    {
+      "name": "EZ karta",
+      "alias": "EZkarta",
+      "stereotype": "component",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Portál elektronického zdravotnictví",
+      "alias": "portalez",
+      "stereotype": "component",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Národní zdravotnický informační systém",
+      "alias": "Narodnizdravotnickyinformacnisystem",
+      "stereotype": "component",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Rozhraní Portálu EZ",
+      "alias": "RozhraniPortaluEZ",
+      "kind": "comp_interface"
+    },
+    {
+      "name": "Rozhraní NZIS2",
+      "alias": "RozhraniNZIS2",
+      "kind": "comp_interface"
+    },
+    {
+      "name": "EZCA EID",
+      "alias": "EZCaEID",
+      "stereotype": "component",
+      "kind": "comp_component"
+    },
+    {
+      "name": "Služby EZCA EID",
+      "alias": "SluzbyEZCAEID",
+      "kind": "comp_interface"
+    },
+    {
+      "sourceAlias": "EZCaEID",
+      "targetAlias": "SluzbyEZCAEID",
+      "type": "provide",
+      "kind": "comp_relationship",
+      "alias": "rel_ISPZS_use_ISvnitrnilekarna"
+    },
+    {
+      "sourceAlias": "Kmenoveregistry",
+      "targetAlias": "RozhraniIDRR",
+      "type": "provide",
+      "kind": "comp_relationship",
+      "alias": "rel_Kmenoveregistry_provide_RozhraniIDRR"
+    },
+    {
+      "sourceAlias": "Registropravneni",
+      "targetAlias": "RozhraniIDRR",
+      "type": "provide",
+      "kind": "comp_relationship",
+      "alias": "rel_ISPZS_use_ISvnitrnilekarna2"
+    },
+    {
+      "sourceAlias": "NEHRDR",
+      "targetAlias": "ISvnitrnilekarna",
+      "type": "provide",
+      "kind": "comp_relationship",
+      "alias": "rel_ISPZS_use_ISvnitrnilekarna3"
+    },
+    {
+      "sourceAlias": "rozhrVymennasit",
+      "targetAlias": "RozhraniIDRR",
+      "type": "use",
+      "kind": "comp_relationship",
+      "alias": "rel_ISPZS_use_ISvnitrnilekarna4"
+    },
+    {
+      "sourceAlias": "portalez",
+      "targetAlias": "RozhraniIDRR",
+      "type": "provide",
+      "kind": "comp_relationship",
+      "alias": "rel_ISPZS_use_ISvnitrnilekarna5"
+    },
+    {
+      "sourceAlias": "ISPZS",
+      "targetAlias": "RozhraniIDRR",
+      "type": "use",
+      "kind": "comp_relationship",
+      "alias": "rel_ISPZS_use_ISvnitrnilekarna6",
+      "label": "Povinné využívání centrálních služeb přes IDRR"
+    }
+  ],
+  "ghPath": "egdilna/diginemocnice/ez.pup"
+}
