@@ -1,0 +1,41 @@
+{
+  "title": "DigiNemocnice.cz",
+  "tagline": "O digitalizaci nejen nemocnic",
+  "language": "cs",
+  "color": "red",
+  "home": "uvod",
+  "menu_links": [
+    {
+      "label": "Původní web/wiki",
+      "page": ""
+    }
+  ],
+  "footer_links": [],
+  "copyright": {
+    "name": "",
+    "url": "",
+    "year": 2026
+  },
+  "sidebar": [
+    "hledani",
+    "sidebar",
+    "sekce",
+    "obsah",
+    "stitky",
+    "kalendar",
+    "odkazy",
+    "komentare"
+  ],
+  "folders": {
+    "pages": "stranky",
+    "media": "obrazky"
+  },
+  "sidebar_file": "sidebar.md",
+  "pager": true,
+  "expand_sections": true,
+  "edit_link": false,
+  "github": {
+    "repo": "egdilna/diginemocnice",
+    "branch": "main"
+  }
+}
