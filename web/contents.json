@@ -6,6 +6,11 @@
       "emoji": "🏠",
       "file": "stranky/uvod.md",
       "type": "uvod"
+    },
+    {
+      "id": "puvodni",
+      "title": "Původní wiki",
+      "file": "puvodni-wiki.md"
     }
   ]
 }
