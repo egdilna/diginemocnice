@@ -1,0 +1,37 @@
+{
+  "title": "DigiNemocnice.cz",
+  "tagline": "O digitalizaci nejen pro nemocnice",
+  "language": "cs",
+  "color": "red",
+  "home": "uvod",
+  "menu_links": [],
+  "footer_links": [],
+  "copyright": {
+    "name": "KC Diginemocnice",
+    "url": "https://www.diginemocnice.cz",
+    "year": "2024-2026"
+  },
+  "sidebar": [
+    "hledani",
+    "sidebar",
+    "sekce",
+    "stitky",
+    "kalendar",
+    "obsah",
+    "odkazy",
+    "komentare"
+  ],
+  "folders": {
+    "pages": "",
+    "media": ""
+  },
+  "sidebar_file": "sidebar.md",
+  "pager": true,
+  "expand_sections": true,
+  "edit_link": false,
+  "github": {
+    "repo": "egdilna/diginemocnice",
+    "branch": "main",
+    "folder": "web"
+  }
+}
