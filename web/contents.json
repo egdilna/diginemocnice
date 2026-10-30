@@ -1,16 +1,26 @@
 {
   "pages": [
     {
-      "id": "uvod",
-      "title": "Úvod",
+      "id": "index",
+      "title": "Homepage",
       "emoji": "🏠",
-      "file": "stranky/uvod.md",
-      "type": "uvod"
+      "file": "index.md",
+      "type": "uvod",
+      "children": [
+        {
+          "id": "puvodni",
+          "title": "Původní wiki",
+          "file": "puvodni-wiki.md",
+          "perex": "Kde najdete předchozí wiki/web?"
+        }
+      ],
+      "perex": "Vítejte na novém webu diginemocnice.cz"
     },
     {
-      "id": "puvodni",
-      "title": "Původní wiki",
-      "file": "puvodni-wiki.md"
+      "id": "znalosti",
+      "title": "Znalosti",
+      "file": "znalosti.md",
+      "type": "rozcestnik"
     }
   ]
 }
