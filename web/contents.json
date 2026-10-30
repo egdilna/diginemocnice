@@ -11,7 +11,8 @@
           "id": "puvodni",
           "title": "Původní wiki",
           "file": "puvodni-wiki.md",
-          "perex": "Kde najdete předchozí wiki/web?"
+          "perex": "Kde najdete předchozí wiki/web?",
+          "type": "informace"
         }
       ],
       "perex": "Vítejte na novém webu diginemocnice.cz"

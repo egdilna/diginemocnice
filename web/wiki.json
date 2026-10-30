@@ -3,7 +3,7 @@
   "tagline": "O digitalizaci nejen pro nemocnice",
   "language": "cs",
   "color": "red",
-  "home": "uvod",
+  "home": "index",
   "menu_links": [],
   "footer_links": [],
   "copyright": {
@@ -29,6 +29,22 @@
   "pager": true,
   "expand_sections": true,
   "edit_link": false,
+  "page_types": {
+    "informace": {
+      "label": "Informace",
+      "emoji": "ℹ️",
+      "layout": "stranka",
+      "show_label": true,
+      "template": "{dnes}\n\nInformace na webu",
+      "toc": false
+    },
+    "stranka-2": {
+      "label": "Stránka",
+      "emoji": "",
+      "layout": "stranka",
+      "pager": false
+    }
+  },
   "github": {
     "repo": "egdilna/diginemocnice",
     "branch": "main",
