@@ -20,6 +20,25 @@
       "id": "znalosti",
       "title": "Znalosti",
       "file": "znalosti.md",
+      "children": [
+        {
+          "id": "legislativa",
+          "title": "Legislativa",
+          "emoji": "📄",
+          "file": "legislativa.md",
+          "children": [
+            {
+              "id": "legislativni-knihovna",
+              "title": "Legislativní knihovna",
+              "file": "legislativni-knihovna.md",
+              "perex": "Naše legislativní knihovna se vším důležitý ke zdravotnické legislatiě",
+              "tags": [
+                "dopsat"
+              ]
+            }
+          ]
+        }
+      ],
       "type": "rozcestnik"
     }
   ]
