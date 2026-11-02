@@ -9,7 +9,8 @@
    "nazev": "eZdravotnictví",
    "popis": "",
    "predpisy": [
-    "2011/372"
+    "2011/372",
+    "2021/325"
    ]
   }
  ],
@@ -79,9 +80,57 @@
     "2028-01-01"
    ],
    "zkontrolovano": "2026-10-30T10:50:36.260Z"
+  },
+  "2021/325": {
+   "pridano": "2026-11-02T05:40:18.776Z",
+   "zneni": {
+    "2026-04-01": {
+     "soubory": [
+      "predpisy/2021-325/2026-04-01-1.json"
+     ],
+     "pocet": 652,
+     "stazeno": "2026-11-02T05:40:19.238Z"
+    }
+   },
+   "stitky": [],
+   "budouci": true,
+   "citace": "325/2021 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o elektronizaci zdravotnictví",
+   "datumVydani": "ze dne 18. srpna 2021",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2021-09-08",
+    "2022-01-01",
+    "2022-02-01",
+    "2023-01-01",
+    "2023-07-01",
+    "2024-01-01",
+    "2024-11-01",
+    "2025-01-01",
+    "2026-01-01",
+    "2026-04-01"
+   ],
+   "zkontrolovano": "2026-11-02T05:40:18.863Z"
   }
  },
- "skupiny": [],
+ "skupiny": [
+  {
+   "id": "s-mvwme85hjoq8",
+   "nazev": "EZ ehealth pro poskytovatele",
+   "popis": ""
+  },
+  {
+   "id": "s-mvwmcyu18gkx",
+   "nazev": "EZ EZD a dokumentace",
+   "popis": ""
+  },
+  {
+   "id": "s-mvwp7jn4d9yp",
+   "nazev": "EZ klíčové věci",
+   "popis": ""
+  }
+ ],
  "vyznaceni": [],
  "skupinyKomentaru": [
   {
@@ -387,5 +436,8 @@
   }
  ],
  "stitky": [],
- "stitkyUstanoveni": []
+ "stitkyUstanoveni": [],
+ "poradi": [
+  "2011/372"
+ ]
 }
