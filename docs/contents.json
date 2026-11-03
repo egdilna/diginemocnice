@@ -56,6 +56,12 @@
               "tags": [
                 "Diagram"
               ]
+            },
+            {
+              "id": "propojeni-systemu-poskytovatele-na-systemy-centralnich-sluzeb-ez",
+              "title": "Propojení systémů poskytovatele na systémy centrálních služeb EZ",
+              "file": "propojeni-systemu-poskytovatele-na-systemy-csez.md",
+              "managed": true
             }
           ],
           "aliases": [
@@ -66,6 +72,19 @@
         }
       ],
       "type": "rozcestnik"
+    },
+    {
+      "id": "statni-nemocnice",
+      "title": "Státní nemocnice",
+      "file": "statni-nemocnice.md",
+      "children": [
+        {
+          "id": "obecne-role-nemocnice",
+          "title": "Obecné role nemocnice",
+          "file": "tabulka-obecne-role-nemocnice-vsechny.md",
+          "managed": true
+        }
+      ]
     }
   ]
 }
