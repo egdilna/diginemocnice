@@ -130,6 +130,11 @@
             },
             {
               "ref": "legislativni-ramec-ez"
+            },
+            {
+              "id": "elektronicka-zdravotnicka-dokumentace",
+              "title": "Elektronická zdravotnická dokumentace",
+              "file": "elektronicka-zdravotnicka-dokumentace.md"
             }
           ],
           "aliases": [
