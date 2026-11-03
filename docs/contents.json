@@ -169,7 +169,8 @@
         {
           "id": "odkazy",
           "title": "Odkazy",
-          "file": "odkazy.md"
+          "file": "odkazy.md",
+          "multisection": true
         }
       ],
       "type": "rozcestnik"
