@@ -82,6 +82,12 @@
                   "file": "vyhlaska-o-zdravotnicke-dokumentaci.md"
                 }
               ]
+            },
+            {
+              "id": "legislativni-ramec-ez",
+              "title": "Legislativní rámec EZ",
+              "file": "legislativni-ramec-ez.md",
+              "managed": true
             }
           ]
         },
@@ -115,6 +121,9 @@
               "title": "Centrální služby elektronického zdravotnictví",
               "file": "centralni-sluzby-ez.md",
               "managed": true
+            },
+            {
+              "ref": "legislativni-ramec-ez"
             }
           ],
           "aliases": [
@@ -122,12 +131,6 @@
             "elektronické zdravotnictví",
             "elektronizaci zdravotnictví"
           ]
-        },
-        {
-          "id": "legislativni-ramec-ez",
-          "title": "Legislativní rámec EZ",
-          "file": "legislativni-ramec-ez.md",
-          "managed": true
         }
       ],
       "type": "rozcestnik"
@@ -137,6 +140,10 @@
       "title": "Poskytovatelé",
       "file": "poskytovatele.md",
       "type": "rozcestnik"
+    },
+    {
+      "ref": "archimate-model-ehealthuposkytovatele",
+      "title": "Architektonický model EH i pro poskytovatele"
     },
     {
       "id": "statni-nemocnice",
