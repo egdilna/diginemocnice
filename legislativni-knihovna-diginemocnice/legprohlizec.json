@@ -10,7 +10,8 @@
    "popis": "",
    "predpisy": [
     "2011/372",
-    "2021/325"
+    "2021/325",
+    "2024/444"
    ]
   }
  ],
@@ -112,6 +113,30 @@
     "2026-04-01"
    ],
    "zkontrolovano": "2026-11-02T05:40:18.863Z"
+  },
+  "2024/444": {
+   "pridano": "2026-11-03T11:31:45.969Z",
+   "zneni": {
+    "2025-01-01": {
+     "soubory": [
+      "predpisy/2024-444/2025-01-01-1.json"
+     ],
+     "pocet": 583,
+     "stazeno": "2026-11-03T11:31:46.576Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "444/2024 Sb.",
+   "typ": "VYHLÁŠKA",
+   "nazev": "o zdravotnické dokumentaci",
+   "datumVydani": "ze dne 19. prosince 2024",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2024-12-20",
+    "2025-01-01"
+   ],
+   "zkontrolovano": "2026-11-03T11:31:46.174Z"
   }
  },
  "skupiny": [
@@ -938,6 +963,7 @@
  "stitky": [],
  "stitkyUstanoveni": [],
  "poradi": [
-  "2011/372"
+  "2011/372",
+  "2021/325"
  ]
 }
