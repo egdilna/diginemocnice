@@ -70,18 +70,18 @@
                   "file": "zakon-o-zdravotnich-sluzbach.md"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "id": "444-2024-sb",
-          "title": "444/2024 Sb.",
-          "file": "444-2024-sb.md",
-          "children": [
+            },
             {
-              "id": "vyhlaska-o-zdravotnicke-dokumentaci",
-              "title": "Vyhláška o zdravotnické dokumentaci",
-              "file": "vyhlaska-o-zdravotnicke-dokumentaci.md"
+              "id": "444-2024-sb",
+              "title": "444/2024 Sb.",
+              "file": "444-2024-sb.md",
+              "children": [
+                {
+                  "id": "vyhlaska-o-zdravotnicke-dokumentaci",
+                  "title": "Vyhláška o zdravotnické dokumentaci",
+                  "file": "vyhlaska-o-zdravotnicke-dokumentaci.md"
+                }
+              ]
             }
           ]
         },
@@ -110,6 +110,13 @@
             "elektronické zdravotnictví",
             "elektronizaci zdravotnictví"
           ]
+        },
+        {
+          "id": "archimate-model-ehealthuposkytovatele",
+          "title": "ArchiMate model ehealthuposkytovatele",
+          "file": "archimate-model-ehealthuposkytovatele.md",
+          "managed": true,
+          "perex": "Veřejný otevřený model architektury v rámci ehealth i z pohledu poskytovatele"
         }
       ],
       "type": "rozcestnik"
