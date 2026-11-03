@@ -135,13 +135,19 @@
               "id": "elektronicka-zdravotnicka-dokumentace",
               "title": "Elektronická zdravotnická dokumentace",
               "file": "elektronicka-zdravotnicka-dokumentace.md"
+            },
+            {
+              "id": "ezdravotnictvi",
+              "title": "eZdravotnictví",
+              "file": "ezdravotnictvi.md"
             }
           ],
           "aliases": [
             "ezdravotnictví",
             "elektronické zdravotnictví",
             "elektronizaci zdravotnictví"
-          ]
+          ],
+          "sort_children": true
         }
       ],
       "type": "rozcestnik"
@@ -154,6 +160,11 @@
         {
           "ref": "archimate-model-ehealthuposkytovatele",
           "title": "Architektonický model EH i pro poskytovatele"
+        },
+        {
+          "id": "poskytovatel-zdravotnich-sluzeb",
+          "title": "Poskytovatel zdravotních služeb",
+          "file": "poskytovatel-zdravotnich-sluzeb.md"
         }
       ],
       "type": "rozcestnik"
