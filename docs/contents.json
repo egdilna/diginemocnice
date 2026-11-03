@@ -74,6 +74,18 @@
           ]
         },
         {
+          "id": "444-2024-sb",
+          "title": "444/2024 Sb.",
+          "file": "444-2024-sb.md",
+          "children": [
+            {
+              "id": "vyhlaska-o-zdravotnicke-dokumentaci",
+              "title": "Vyhláška o zdravotnické dokumentaci",
+              "file": "vyhlaska-o-zdravotnicke-dokumentaci.md"
+            }
+          ]
+        },
+        {
           "id": "elektronizace-zdravotnictvi",
           "title": "Elektronizace zdravotnictví",
           "file": "elektronizace-zdravotnictvi.md",
