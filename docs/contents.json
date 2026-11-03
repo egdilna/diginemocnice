@@ -13,6 +13,12 @@
           "file": "puvodni-wiki.md",
           "perex": "Kde najdete předchozí wiki/web?",
           "type": "informace"
+        },
+        {
+          "id": "co-je-projekt-diginemocnice",
+          "title": "Co je projekt DigiNemocnice",
+          "file": "co-je-projekt-diginemocnice.md",
+          "type": "informace"
         }
       ],
       "perex": "Vítejte na novém webu diginemocnice.cz"
@@ -157,6 +163,11 @@
           "title": "Obecné role nemocnice",
           "file": "tabulka-obecne-role-nemocnice-vsechny.md",
           "managed": true
+        },
+        {
+          "id": "cile-nemocnice-vhodne-do-motivacni-architektury-a-ik",
+          "title": "Cíle nemocnice vhodné do motivační architektury a IK",
+          "file": "cile-nemocnice-vhodne-do-motivacni-architektury-a-ik.md"
         }
       ]
     },
