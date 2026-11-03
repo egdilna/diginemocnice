@@ -103,6 +103,18 @@
               "title": "Propojení systémů poskytovatele na systémy centrálních služeb EZ",
               "file": "propojeni-systemu-poskytovatele-na-systemy-csez.md",
               "managed": true
+            },
+            {
+              "id": "autorizace-zdravotnicke-dokumentace",
+              "title": "Autorizace zdravotnické dokumentace",
+              "file": "autorizace-zdravotnicke-dokumentace.md",
+              "managed": true
+            },
+            {
+              "id": "centralni-sluzby-elektronickeho-zdravotnictvi",
+              "title": "Centrální služby elektronického zdravotnictví",
+              "file": "centralni-sluzby-ez.md",
+              "managed": true
             }
           ],
           "aliases": [
@@ -112,31 +124,18 @@
           ]
         },
         {
-          "id": "archimate-model-ehealthuposkytovatele",
-          "title": "ArchiMate model ehealthuposkytovatele",
-          "file": "archimate-model-ehealthuposkytovatele.md",
-          "managed": true,
-          "perex": "Veřejný otevřený model architektury v rámci ehealth i z pohledu poskytovatele"
-        },
-        {
-          "id": "autorizace-zdravotnicke-dokumentace",
-          "title": "Autorizace zdravotnické dokumentace",
-          "file": "autorizace-zdravotnicke-dokumentace.md",
-          "managed": true
-        },
-        {
-          "id": "centralni-sluzby-elektronickeho-zdravotnictvi",
-          "title": "Centrální služby elektronického zdravotnictví",
-          "file": "centralni-sluzby-ez.md",
-          "managed": true
-        },
-        {
           "id": "legislativni-ramec-ez",
           "title": "Legislativní rámec EZ",
           "file": "legislativni-ramec-ez.md",
           "managed": true
         }
       ],
+      "type": "rozcestnik"
+    },
+    {
+      "id": "poskytovatele",
+      "title": "Poskytovatelé",
+      "file": "poskytovatele.md",
       "type": "rozcestnik"
     },
     {
@@ -151,6 +150,21 @@
           "managed": true
         }
       ]
+    },
+    {
+      "id": "nastroje",
+      "title": "Nástroje",
+      "file": "nastroje.md",
+      "children": [
+        {
+          "id": "archimate-model-ehealthuposkytovatele",
+          "title": "ArchiMate model ehealthuposkytovatele",
+          "file": "archimate-model-ehealthuposkytovatele.md",
+          "managed": true,
+          "perex": "Veřejný otevřený model architektury v rámci ehealth i z pohledu poskytovatele"
+        }
+      ],
+      "type": "rozcestnik"
     }
   ]
 }
