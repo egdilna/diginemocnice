@@ -139,11 +139,13 @@
       "id": "poskytovatele",
       "title": "Poskytovatelé",
       "file": "poskytovatele.md",
+      "children": [
+        {
+          "ref": "archimate-model-ehealthuposkytovatele",
+          "title": "Architektonický model EH i pro poskytovatele"
+        }
+      ],
       "type": "rozcestnik"
-    },
-    {
-      "ref": "archimate-model-ehealthuposkytovatele",
-      "title": "Architektonický model EH i pro poskytovatele"
     },
     {
       "id": "statni-nemocnice",
