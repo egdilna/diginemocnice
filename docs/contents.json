@@ -58,6 +58,18 @@
                   "file": "zakon-o-elektronizaci-zdravotnictvi.md"
                 }
               ]
+            },
+            {
+              "id": "372-2011-sb",
+              "title": "372/2011 Sb.",
+              "file": "372-2011-sb.md",
+              "children": [
+                {
+                  "id": "zakon-o-zdravotnich-sluzbach",
+                  "title": "Zákon o zdravotních službách",
+                  "file": "zakon-o-zdravotnich-sluzbach.md"
+                }
+              ]
             }
           ]
         },
