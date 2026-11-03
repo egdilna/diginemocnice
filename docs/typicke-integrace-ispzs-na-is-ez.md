@@ -1,4 +1,4 @@
-[[Informační systém poskytovatele zdravotních služeb]] je pro poskytovatele hlavním systémem evidujícím veškeré zdravotní údaje a zdravotnickou dokumentaci. Jako takový nemůže fungovat samostatně bez povinných integrací na některé [[diginemocnice:klicove-systemy-elektronickeho-zdravotnictvi|]]. Propojení těchto systémů je nezbytným předpokladem pro splnění některých povinností podle zákona [[predpis:325/2021]] a částečně i zákona [[predpis:372/2011]] - viz [[diginemocnice:seznam-povinnosti-z-ezdravotnictvi-pro-poskytovatele|]]. 
+[[Informační systém poskytovatele zdravotních služeb]] je pro poskytovatele hlavním systémem evidujícím veškeré zdravotní údaje a zdravotnickou dokumentaci. Jako takový nemůže fungovat samostatně bez povinných integrací na některé [[diginemocnice:klicove-systemy-elektronickeho-zdravotnictvi|]]. Propojení těchto systémů je nezbytným předpokladem pro splnění některých povinností podle zákona [[325/2021 Sb.]] a částečně i zákona [[predpis:372/2011]] - viz [[diginemocnice:seznam-povinnosti-z-ezdravotnictvi-pro-poskytovatele|]]. 
 
 Nejdůležitějšími takovými integracemi jsou:
 

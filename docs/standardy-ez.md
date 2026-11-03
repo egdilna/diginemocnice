@@ -1,4 +1,4 @@
-Na základě zákona [[predpis:325/2021]] vyhlašuje [[subjekt:mzd]] a to konkrétně [[subjekt:ncez]] standardy, které jsou pro [[poskytovatel zdravotních služeb|poskytovatele]] závazné.
+Na základě zákona [[325/2021 Sb.]] vyhlašuje [[subjekt:mzd]] a to konkrétně [[subjekt:ncez]] standardy, které jsou pro [[poskytovatel zdravotních služeb|poskytovatele]] závazné.
 
 Jedná se o datové, technické a procesní standardy upravující jednak data zdravotnické dokumentace a jejich výměnu a jednak technická řešení a procesy související s digitalizací.
 

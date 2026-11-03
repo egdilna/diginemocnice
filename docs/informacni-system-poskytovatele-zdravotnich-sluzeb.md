@@ -4,7 +4,7 @@ Požadavky na tento informační systém stanovuje zejména [[325/2021 Sb.]] a [
 
 Zásadními oblastmi, na které se při rozvoji tohoto informačního systému musí klást důraz, jsou zejména [[diginemocnice:vymena-dat-v-ramci-ezdravotnictvi]], [[drafts:vedení zdravotnické dokumentace v ISPZS]], nebo [[autorizace zdravotnické dokumentace]]. Postupně se kupříkladu pro praktickou pomoc dodavatelům i poskytovatelům vytváří [[diginemocnice:navrh-pozadavky-ispzs-interoperabilita]].
 
-Jde o informační systém, který se musí propojit s některými systémy elektronického zdravotnictvó, aby poskytovatel splnil příslušné povinnosti. Tedy poskytovatel zajistí tyto [[diginemocnice:typicke-integrace-ispzs-na-is-ez|]].
+Jde o informační systém, který se musí propojit s některými systémy elektronického zdravotnictvó, aby poskytovatel splnil příslušné povinnosti. Tedy poskytovatel zajistí tyto [[Typické integrace ISPZS na IS EZ|]].
 
 
 
