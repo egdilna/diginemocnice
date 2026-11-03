@@ -1,3 +1,0 @@
-2026-10-30: Je čas pomalu opustit původní wiki koncept a začít používat naše vlastní pokročilé nástroje, které jsme taky pro tohle mimochodem dělali. Tak hurá, jdu na tom dělat...
-
-
