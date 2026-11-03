@@ -140,6 +140,16 @@
               "id": "ezdravotnictvi",
               "title": "eZdravotnictví",
               "file": "ezdravotnictvi.md"
+            },
+            {
+              "id": "zdravotnicka-dokumentace",
+              "title": "Zdravotnická dokumentace",
+              "file": "zdravotnicka-dokumentace.md"
+            },
+            {
+              "id": "standardy-ez",
+              "title": "Standardy EZ",
+              "file": "standardy-ez.md"
             }
           ],
           "aliases": [
@@ -148,6 +158,13 @@
             "elektronizaci zdravotnictví"
           ],
           "sort_children": true
+        },
+        {
+          "id": "zkratky",
+          "title": "Zkratky",
+          "file": "zkratky.md",
+          "type": "rozcestnik",
+          "multisection": true
         }
       ],
       "type": "rozcestnik"
@@ -165,6 +182,16 @@
           "id": "poskytovatel-zdravotnich-sluzeb",
           "title": "Poskytovatel zdravotních služeb",
           "file": "poskytovatel-zdravotnich-sluzeb.md"
+        },
+        {
+          "id": "informacni-system-poskytovatele-zdravotnich-sluzeb",
+          "title": "Informační systém poskytovatele zdravotních služeb",
+          "file": "informacni-system-poskytovatele-zdravotnich-sluzeb.md"
+        },
+        {
+          "id": "typicke-integrace-ispzs-na-is-ez",
+          "title": "Typické integrace ISPZS na IS EZ",
+          "file": "typicke-integrace-ispzs-na-is-ez.md"
         }
       ],
       "type": "rozcestnik"
