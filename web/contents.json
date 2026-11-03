@@ -43,6 +43,26 @@
               "file": "komentare-k-legislative-o-zdravotnicke-dokumentaci-v-zakone-372-2011.md"
             }
           ]
+        },
+        {
+          "id": "elektronizace-zdravotnictvi",
+          "title": "Elektronizace zdravotnictví",
+          "file": "elektronizace-zdravotnictvi.md",
+          "children": [
+            {
+              "id": "zakladni-data-v-cs-a-jejich-vyuziti",
+              "title": "Základní data v CS a jejich využití",
+              "file": "zakladni-data-v-cs-a-jejich-vyuziti.md",
+              "tags": [
+                "Diagram"
+              ]
+            }
+          ],
+          "aliases": [
+            "ezdravotnictví",
+            "elektronické zdravotnictví",
+            "elektronizaci zdravotnictví"
+          ]
         }
       ],
       "type": "rozcestnik"
