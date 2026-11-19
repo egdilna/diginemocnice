@@ -13,7 +13,8 @@
     "2021/325",
     "2024/444",
     "2025/264",
-    "2025/409"
+    "2025/409",
+    "2025/410"
    ]
   }
  ],
@@ -349,6 +350,30 @@
     "2025-11-01"
    ],
    "zkontrolovano": "2026-11-19T06:58:31.162Z"
+  },
+  "2025/410": {
+   "pridano": "2026-11-19T06:58:34.661Z",
+   "zneni": {
+    "2025-11-01": {
+     "soubory": [
+      "predpisy/2025-410/2025-11-01-1.json"
+     ],
+     "pocet": 259,
+     "stazeno": "2026-11-19T06:58:34.866Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "410/2025 Sb.",
+   "typ": "VYHLÁŠKA",
+   "nazev": "o bezpečnostních opatřeních poskytovatele regulované služby v režimu nižších povinností",
+   "datumVydani": "ze dne 26. září 2025",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2025-10-14",
+    "2025-11-01"
+   ],
+   "zkontrolovano": "2026-11-19T06:58:34.719Z"
   }
  },
  "skupiny": [
