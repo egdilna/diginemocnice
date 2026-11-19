@@ -175,6 +175,32 @@
     "2026-11-01"
    ],
    "zkontrolovano": "2026-11-19T06:58:09.161Z"
+  },
+  "2026/60": {
+   "pridano": "2026-11-19T06:58:14.088Z",
+   "zneni": {
+    "2026-05-27": {
+     "soubory": [
+      "predpisy/2026-60/2026-05-27-1.json"
+     ],
+     "pocet": 134,
+     "stazeno": "2026-11-19T06:58:14.286Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "60/2026 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o správě dat, o řízeném přístupu k datům a o změně některých souvisejících zákonů (zákon o správě dat a o řízeném přístupu k datům)",
+   "datumVydani": "ze dne 15. dubna 2026",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2026-05-12",
+    "2026-05-27",
+    "2028-01-01",
+    "2029-01-01"
+   ],
+   "zkontrolovano": "2026-11-19T06:58:14.148Z"
   }
  },
  "skupiny": [
