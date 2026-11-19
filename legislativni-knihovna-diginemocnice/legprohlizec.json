@@ -11,7 +11,8 @@
    "predpisy": [
     "2011/372",
     "2021/325",
-    "2024/444"
+    "2024/444",
+    "2025/264"
    ]
   }
  ],
@@ -299,6 +300,30 @@
     "2027-01-01"
    ],
    "zkontrolovano": "2026-11-19T06:58:22.245Z"
+  },
+  "2025/264": {
+   "pridano": "2026-11-19T06:58:27.417Z",
+   "zneni": {
+    "2025-11-01": {
+     "soubory": [
+      "predpisy/2025-264/2025-11-01-1.json"
+     ],
+     "pocet": 852,
+     "stazeno": "2026-11-19T06:58:27.862Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "264/2025 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o kybernetické bezpečnosti",
+   "datumVydani": "ze dne 11. června 2025",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2025-08-04",
+    "2025-11-01"
+   ],
+   "zkontrolovano": "2026-11-19T06:58:27.475Z"
   }
  },
  "skupiny": [
