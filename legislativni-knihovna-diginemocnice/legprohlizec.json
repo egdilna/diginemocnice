@@ -137,6 +137,44 @@
     "2025-01-01"
    ],
    "zkontrolovano": "2026-11-03T11:31:46.174Z"
+  },
+  "2020/12": {
+   "pridano": "2026-11-19T06:58:09.104Z",
+   "zneni": {
+    "2026-11-01": {
+     "soubory": [
+      "predpisy/2020-12/2026-11-01-1.json"
+     ],
+     "pocet": 883,
+     "stazeno": "2026-11-19T06:58:09.720Z"
+    }
+   },
+   "stitky": [],
+   "budouci": false,
+   "citace": "12/2020 Sb.",
+   "typ": "ZÁKON",
+   "nazev": "o právu na digitální služby a o změně některých zákonů",
+   "datumVydani": "ze dne 11. prosince 2019",
+   "vzdalenaZneni": [
+    "0000-00-00",
+    "2020-01-17",
+    "2020-02-01",
+    "2020-08-01",
+    "2021-01-01",
+    "2021-07-10",
+    "2022-01-31",
+    "2022-02-01",
+    "2022-07-01",
+    "2023-01-01",
+    "2023-04-01",
+    "2024-01-20",
+    "2024-02-01",
+    "2025-01-01",
+    "2025-02-08",
+    "2025-11-01",
+    "2026-11-01"
+   ],
+   "zkontrolovano": "2026-11-19T06:58:09.161Z"
   }
  },
  "skupiny": [
@@ -160,7 +198,7 @@
   {
    "id": "v-mvwmcyu1mua4",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_53",
+   "klic": "par_53",
    "citace": "§ 53",
    "zneni": "2026-07-01",
    "text": "Zdravotnická dokumentace je soubor informací vedených, zpracovávaných a uchovávaných poskytovatelem za účelem poskytování zdravotních služeb konkrétnímu pacientovi, a to bez ohledu na to, zda byly získány od pacienta, od jiného poskytovatele nebo jiných osob nebo vlastní činností poskytovatele.\nZa zdravotnickou dokumentaci se nepovažují informace, které poskytovatel získal v souvislosti s poskytováním zdravotních služeb, a to i ze zdravotnické dokumentace jím zpracovávané, pokud účelem jejich zpracování není poskytování zdravotních služeb konkrétnímu pacientovi, ale výhradně jiný účel.\nV rámci zpracování osobních údajů ve zdravotnické dokumentaci lze využívat rodné číslo pacienta.",
@@ -176,7 +214,7 @@
   {
    "id": "v-mvwmfqc6has4",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_54",
+   "klic": "par_54",
    "citace": "§ 54",
    "zneni": "2026-07-01",
    "text": "Poskytovatel je povinen vést, zpracovávat a uchovávat zdravotnickou dokumentaci, nejde-li o poskytování lékárenské péče v lékárně, poskytování zdravotních výkonů v rámci preventivní péče mimo zdravotnické zařízení podle § 11a s výjimkou očkování, zdravotních služeb alespoň částečně hrazených z veřejného zdravotního pojištění.",
@@ -192,7 +230,7 @@
   {
    "id": "v-mvwn2o3epfrr",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55",
+   "klic": "par_55",
    "citace": "§ 55",
    "zneni": "2026-07-01",
    "text": "Zdravotnická dokumentace je vedena v podobě listinné, elektronické nebo v kombinaci obou těchto podob.\nZdravotnická dokumentace musí být vedena a zpracovávána průkazně, pravdivě, srozumitelně a čitelně.",
@@ -208,7 +246,7 @@
   {
    "id": "v-mvwn4udqs0f2",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a",
+   "klic": "par_55a",
    "citace": "§ 55a",
    "zneni": "2026-07-01",
    "text": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.\nPoskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.\nPoskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.\nOpravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
@@ -224,7 +262,7 @@
   {
    "id": "v-mvwn6v7fhlyp",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_1",
+   "klic": "par_55a/odst_1",
    "citace": "§ 55a odst. 1",
    "zneni": "2026-07-01",
    "text": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.",
@@ -240,7 +278,7 @@
   {
    "id": "v-mvwn8t3n1ppy",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_2",
+   "klic": "par_55a/odst_2",
    "citace": "§ 55a odst. 2",
    "zneni": "2026-07-01",
    "text": "Poskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.",
@@ -256,7 +294,7 @@
   {
    "id": "v-mvwn9xv3hgxp",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_3",
+   "klic": "par_55a/odst_3",
    "citace": "§ 55a odst. 3",
    "zneni": "2026-07-01",
    "text": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.",
@@ -272,7 +310,7 @@
   {
    "id": "v-mvwnb0034278",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_4",
+   "klic": "par_55a/odst_4",
    "citace": "§ 55a odst. 4",
    "zneni": "2026-07-01",
    "text": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.",
@@ -288,7 +326,7 @@
   {
    "id": "v-mvwnd5854e4j",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_5",
+   "klic": "par_55a/odst_5",
    "citace": "§ 55a odst. 5",
    "zneni": "2026-07-01",
    "text": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.",
@@ -304,7 +342,7 @@
   {
    "id": "v-mvwnec25swja",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_6",
+   "klic": "par_55a/odst_6",
    "citace": "§ 55a odst. 6",
    "zneni": "2026-07-01",
    "text": "Poskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.",
@@ -320,7 +358,7 @@
   {
    "id": "v-mvwnf7nojjqn",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_7",
+   "klic": "par_55a/odst_7",
    "citace": "§ 55a odst. 7",
    "zneni": "2026-07-01",
    "text": "Opravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
@@ -336,7 +374,7 @@
   {
    "id": "v-mvwngafxvg6o",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55b",
+   "klic": "par_55b",
    "citace": "§ 55b",
    "zneni": "2026-07-01",
    "text": "Zpracovává-li poskytovatel údaje ze zdravotnické dokumentace pro účely vědy a výzkumu, anonymizuje je tak, aby nebyla seznatelná identita pacienta. Takto vzniklé informace se nepovažují za zdravotnickou dokumentaci.",
@@ -352,7 +390,7 @@
   {
    "id": "v-mvwnhnd5lg8p",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55c",
+   "klic": "par_55c",
    "citace": "§ 55c",
    "zneni": "2026-07-01",
    "text": "Informační systém, ve kterém je vedena zdravotnická dokumentace v elektronické podobě, musí umožnit převedení zdravotnické dokumentace do výstupního datového formátu stanoveného standardem elektronického zdravotnictví podle zákona o elektronizaci zdravotnictví.",
@@ -368,7 +406,7 @@
   {
    "id": "v-mvwnj2rkwr44",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55d",
+   "klic": "par_55d",
    "citace": "§ 55d",
    "zneni": "2026-07-01",
    "text": "Poskytovatel je povinen zpracovat písemná pravidla pro zpracování zdravotnické dokumentace, jejichž součástí jsou vhodná technická a organizační opatření, aby zajistil a byl schopen doložit, že zpracování zdravotnické dokumentace je prováděno podle tohoto zákona a je v souladu s ochranou osobních údajů podle jiných právních předpisů.",
@@ -384,7 +422,7 @@
   {
    "id": "v-mvwo6thou43l",
    "predpis": "2021/325",
-   "klic": "norma/cast_1/par_4",
+   "klic": "par_4",
    "citace": "§ 4",
    "zneni": "2026-04-01",
    "text": "Poskytovatel zdravotních služeb je jako oprávněná osoba povinen dodržovat standardy elektronického zdravotnictví vydané ministerstvem podle § 38 odst. 2 písm. c); standardy elektronického zdravotnictví se považují za dodržené, pokud je namísto nich postupováno podle jiných právních předpisů, využívat kmenové údaje a řídit se jimi za účelem stanoveným tímto zákonem, ve svém informačním systému evidovat identifikátory zdravotnických pracovníků, kteří u něj vykonávají zdravotnické povolání v pracovněprávním nebo obdobném vztahu, a identifikátory pacientů, kterým poskytuje nebo poskytoval zdravotní služby, a ve svém informačním systému zaznamenávat činnosti všech pověřených pracovníků přihlášených do jeho informačního systému, který využívá Integrované datové rozhraní.",
@@ -399,7 +437,7 @@
   {
    "id": "v-mvwp7jn41dwq",
    "predpis": "2021/325",
-   "klic": "norma/cast_1/par_2",
+   "klic": "par_2",
    "citace": "§ 2",
    "zneni": "2026-04-01",
    "text": "Elektronickým zdravotnictvím se pro účely tohoto zákona rozumí poskytování a využívání služeb a informačních systémů Integrovaného datového rozhraní zdravotnictví (dále jen „Integrované datové rozhraní“), služeb napojených na Integrované datové rozhraní a informačních systémů poskytovatelů zdravotních služeb sloužících k vedení nebo předávání zdravotnické dokumentace v elektronické podobě, včetně systémů umožňujících dálkový přístup pro pacienta, podle tohoto zákona.\nIdentifikátorem pacienta se rozumí jedinečný a bezvýznamový klientský identifikátor fyzické osoby sloužící pro identifikaci pacienta v elektronickém zdravotnictví při poskytování zdravotních služeb a ve zdravotnické dokumentaci.\nIdentifikátorem zdravotnického pracovníka se rozumí jedinečný bezvýznamový identifikátor sloužící pro identifikaci zdravotnického pracovníka v elektronickém zdravotnictví při poskytování zdravotních služeb a ve zdravotnické dokumentaci.\nKmenovým údajem se rozumí údaj vedený v kmenových zdravotnických registrech.\nSlužbami napojenými na Integrované datové rozhraní se rozumí služby využívající centrální služby elektronického zdravotnictví na základě jiného právního předpisu2).\nStandardy elektronického zdravotnictví se rozumí standardy definující strukturu, obsah a formát datových souborů, datových zpráv a datových rozhraní, jejich zabezpečení, klasifikace, nomenklatury a terminologie pro jejich použití pro využívání služeb elektronického zdravotnictví, informační systémy využívající služby elektronického zdravotnictví, vedení a předávání zdravotnické dokumentace v elektronické podobě, předávání údajů do Národního zdravotnického informačního systému podle zákona o zdravotních službách.",
@@ -415,7 +453,7 @@
   {
    "id": "v-mvwpaz6h3pc6",
    "predpis": "2021/325",
-   "klic": "norma/cast_1/par_2/odst_6",
+   "klic": "par_2/odst_6",
    "citace": "§ 2 odst. 6",
    "zneni": "2026-04-01",
    "text": "Standardy elektronického zdravotnictví se rozumí standardy definující strukturu, obsah a formát datových souborů, datových zpráv a datových rozhraní, jejich zabezpečení, klasifikace, nomenklatury a terminologie pro jejich použití pro využívání služeb elektronického zdravotnictví, informační systémy využívající služby elektronického zdravotnictví, vedení a předávání zdravotnické dokumentace v elektronické podobě, předávání údajů do Národního zdravotnického informačního systému podle zákona o zdravotních službách.",
@@ -432,7 +470,7 @@
   {
    "id": "v-mvwpfl6d734o",
    "predpis": "2021/325",
-   "klic": "norma/cast_1/par_3",
+   "klic": "par_3",
    "citace": "§ 3",
    "zneni": "2026-04-01",
    "text": "Pro účely tohoto zákona se rozumí zapisující osobou právnická, fyzická nebo podnikající fyzická osoba, organizační složka státu nebo organizační složka územního samosprávného celku zapisující údaje do kmenových zdravotnických registrů, oprávněnou osobou právnická, fyzická nebo podnikající fyzická osoba, organizační složka státu nebo organizační složka územního samosprávného celku, která je oprávněna využívat služby Integrovaného datového rozhraní v rozsahu podle tohoto zákona, pověřeným pracovníkem fyzická osoba, která je v pracovněprávním nebo obdobném vztahu k oprávněné osobě a která má přidělena oprávněnou osobou přístupová práva do informačního systému oprávněné osoby využívajícího Integrované datové rozhraní, třetí osobou právnická, fyzická nebo podnikající fyzická osoba, které pacient udělil souhlas k výkonu práv v jeho zastoupení podle tohoto zákona nebo podle jiných právních předpisů.",
@@ -448,7 +486,7 @@
   {
    "id": "v-mvwpjzfwpxdn",
    "predpis": "2021/325",
-   "klic": "norma/cast_1/par_2/odst_4",
+   "klic": "par_2/odst_4",
    "citace": "§ 2 odst. 4",
    "zneni": "2026-04-01",
    "text": "Kmenovým údajem se rozumí údaj vedený v kmenových zdravotnických registrech.",
@@ -464,7 +502,7 @@
   {
    "id": "v-mvxjn3noxt71",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56",
+   "klic": "par_56",
    "citace": "§ 56",
    "zneni": "2026-07-01",
    "text": "Zdravotnická dokumentace o utajeném porodu podle § 37 je vedena v rozsahu zdravotních služeb souvisejících s těhotenstvím a utajeným porodem. Odděleně od zdravotnické dokumentace je vedeno jméno, popřípadě jména, příjmení ženy, které jsou poskytovány v souvislosti s těhotenstvím a utajeným porodem zdravotní služby, písemná žádost o utajení porodu, datum narození ženy a datum porodu.\nPo ukončení hospitalizace ženy, která utajeně porodila, poskytovatel doplní zdravotnickou dokumentaci o údaje uvedené v odstavci 1, vloží ji do vhodného obalu, který zapečetí a označí bezpečnostním kódem, který bude předán též pacientce. Otevření takto zapečetěné zdravotnické dokumentace je možné jedině na základě rozhodnutí soudu; to neplatí, požádá-li o otevření zdravotnické dokumentace žena, která utajeně porodila.\nV případě zdravotnické dokumentace vedené v elektronické podobě se zdravotnická dokumentace převede do listinné podoby a postupuje se podle odstavce 2; současně se elektronická podoba zdravotnické dokumentace odstraní z informačního systému.",
@@ -480,7 +518,7 @@
   {
    "id": "v-mvxjsbh9x5vd",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_65",
+   "klic": "par_65",
    "citace": "§ 65",
    "zneni": "2026-07-01",
    "text": "Do zdravotnické dokumentace vedené o pacientovi mohou v přítomnosti zaměstnance pověřeného poskytovatelem nahlížet, pořizovat si její výpisy nebo kopie pacient, zákonný zástupce, opatrovník pacienta nebo jiná osoba, která je na základě rozhodnutí soudu oprávněná pacienta zastupovat70) v právním jednání vztahujícím se k poskytování zdravotních služeb; do záznamů autorizovaných psychologických metod a popisu léčby psychoterapeutickými prostředky mohou tyto osoby nahlížet nebo si pořizovat výpisy nebo kopie pouze v rozsahu záznamu popisu příznaků onemocnění, diagnózy, popisu terapeutického přístupu a interpretace výsledků testů, osoby určené pacientem, zákonným zástupcem nebo opatrovníkem pacienta, pěstoun nebo jiná pečující osoba; v případě záznamů autorizovaných psychologických metod a popisu léčby psychoterapeutickými prostředky se postupuje podle písmene a), osoby blízké zemřelému pacientovi v rozsahu stanoveném v § 33 odst. 4; postupy podle písmene a), b) nebo c) nesmí narušit poskytování zdravotních služeb.\nDo zdravotnické dokumentace vedené o pacientovi mohou bez jeho souhlasu nahlížet, jestliže je to v zájmu pacienta nebo jestliže je to potřebné k naplnění účelů plynoucích z jejich pověření nebo k výkonu působnosti svěřené podle tohoto zákona nebo jiných právních předpisů, a to v nezbytném rozsahu, pracovník poskytovatele a osoba v obdobném postavení k poskytovateli, jsou-li osobou se způsobilostí k výkonu zdravotnického povolání nebo jiným odborným pracovníkem a podílí-li se na poskytování zdravotních služeb pacientovi, nebo osobou plnící další úkoly podle tohoto zákona nebo jiných právních předpisů64), osoby podílející se na výkonu působnosti příslušného správního orgánu v souvislosti s přezkoumáním lékařského posudku podle jiného právního předpisu, osoby se způsobilostí k výkonu zdravotnického povolání pověřené příslušným správním orgánem vypracováním odborného stanoviska k návrhu na přezkoumání lékařského posudku, osoby, které se podílejí na výkonu působnosti správních orgánů a které jsou oprávněné k výkonu kontroly v rozsahu jejich pověření podle tohoto zákona nebo jiných právních předpisů, osobami se způsobilostí k výkonu zdravotnického povolání pověřenými a přizvanými ke kontrole v rozsahu jejich pověření podle tohoto zákona nebo jiných právních předpisů, pověřené k vyřízení stížnosti podle části osmé tohoto zákona v souvislosti s touto stížností, ustavené jako nezávislý odborník nebo jmenované členem nezávislé odborné komise podle § 94 odst. 3, nebo pověřené příslušným správním orgánem, který převzal podle tohoto zákona zdravotnickou dokumentaci, pořizováním výpisů nebo kopií zdravotnické dokumentace pro zajištění návaznosti zdravotních služeb o pacienta, osoby se způsobilostí k výkonu zdravotnického povolání pověřené zdravotními pojišťovnami k provádění činností v rozsahu stanoveném zákonem o veřejném zdravotním pojištění, zdravotničtí pracovníci příslušní podle jiných právních předpisů k posuzování zdravotního stavu pro účely sociálního zabezpečení, zejména nemocenského nebo důchodového pojištění, státní sociální podpory, zaměstnanosti, sociálně-právní ochrany dětí, sociálních služeb, dávek pro osoby se zdravotním postižením a pomoci v hmotné nouzi, a to včetně pověřených lékařských zdravotnických pracovníků Ministerstva práce a sociálních věcí za účelem plnění jeho koncepční, kontrolní a metodické činnosti, osoby Státním ústavem pro kontrolu léčiv pověřené a přizvané ke kontrole podle tohoto zákona nebo jiných právních předpisů v rozsahu stanoveném těmito právními předpisy, osoby podílející se na evidenci údajů nebo na kontrole sdělování údajů do Národního zdravotnického informačního systému podle tohoto zákona, soudní znalci ve zdravotnických oborech a osoby se způsobilostí k výkonu zdravotnického povolání, které byly pověřeny vypracováním znaleckého posudku znaleckým ústavem nebo znaleckou kanceláří30), poskytovatelem nebo zdravotnickým pracovníkem, v rozsahu nezbytném pro vypracování znaleckého posudku zadaného orgánem činným v trestním řízení, obhajobou nebo zmocněncem v trestním řízení nebo soudem, zdravotničtí pracovníci způsobilí k ověřování podmínek vzniku nemocí z povolání pověření k této činnosti Státním úřadem pro jadernou bezpečnost, jde-li o podezření na vznik nemoci z povolání v souvislosti s prací v podmínkách ionizujícího záření, osoby se způsobilostí k výkonu zdravotnického povolání, které jsou zaměstnanci orgánů ochrany veřejného zdraví, při výkonu státního zdravotního dozoru, osoby se způsobilostí k výkonu zdravotnického povolání provádějící hodnocení kvality a bezpečí podle tohoto zákona a osoby se způsobilostí k výkonu zdravotnického povolání provádějící externí klinické audity lékařského ozáření podle zákona o specifických zdravotních službách, veřejný ochránce práv, ochránce práv dětí, jejich zástupce a jimi pověření zaměstnanci Kanceláře veřejného ochránce práv a ochránce práv dětí v souvislosti s plněním úkolů při výkonu jim svěřené působnosti podle jiného zákona tak, aby byla zajištěna ochrana citlivých údajů třetích osob, členové delegace Evropského výboru pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání nebo členové delegace Podvýboru pro prevenci mučení a jiného krutého, nelidského či ponižujícího zacházení nebo trestání, a to v rozsahu nezbytném pro splnění úkolu vyplývajícího z mezinárodních smluv, kterými je Česká republika vázána a které upravují činnost výboru nebo podvýboru32), inspektoři oprávnění k provádění inspekcí souvisejících s klinickým hodnocením humánních léčivých přípravků v souladu s přímo použitelným předpisem Evropské unie upravujícím podrobná pravidla pro provádění inspekčních postupů správné klinické praxe55), jde-li o pacientský souhrn nebo část zdravotnické dokumentace jinou než pacientský souhrn, pracovníci poskytovatele jiného státu Evropské unie prostřednictvím příslušného národního kontaktního místa státu Evropské unie, a to za účelem poskytnutí zdravotních služeb pacientovi, který se nachází v péči poskytovatele jiného státu Evropské unie a o němž jsou pacientský souhrn nebo část zdravotnické dokumentace jiná než pacientský souhrn, vedeny, pokud pacient, popřípadě jiná k tomu oprávněná osoba, nevyslovil nesouhlas podle § 56c odst. 2 nebo 3, státní zástupci při výkonu dozoru nad dodržováním právních předpisů při výkonu ústavní výchovy a ochranné výchovy74), pověřený člen nebo zaměstnanec komory v rámci výkonu disciplinární pravomoci podle zákona o České lékařské komoře, České stomatologické komoře a České lékárnické komoře, osoby provádějící monitoring nebo audit klinického hodnocení humánních léčivých přípravků podle přímo použitelného předpisu Evropské unie75) upravujícího klinická hodnocení humánních léčivých přípravků a členové etické komise, která vykonává dohled nad klinickým hodnocením léčivého přípravku, klinickou zkouškou zdravotnického prostředku nebo studií funkční způsobilosti diagnostického zdravotnického prostředku in vitro. Osoby uvedené v písmenech b) až o), q) až s) si mohou pořizovat výpisy nebo kopie zdravotnické dokumentace v rozsahu nezbytném pro splnění účelu nahlížení.\nOsoby získávající způsobilost k výkonu povolání zdravotnického pracovníka nebo jiného odborného pracovníka a zdravotničtí pracovníci uvedení v § 46 odst. 2 mohou do zdravotnické dokumentace vedené o pacientovi nahlížet v rozsahu nezbytně nutném pro zajištění výuky; to neplatí, jestliže pacient nahlížení prokazatelně zakázal.",
@@ -495,7 +533,7 @@
   {
    "id": "v-mvxjycdeiy5z",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56a",
+   "klic": "par_56a",
    "citace": "§ 56a",
    "zneni": "2026-07-01",
    "text": "Pacientský souhrn je samostatnou částí zdravotnické dokumentace vedené o pacientovi, ve kterém se zaznamenávají základní údaje vedené ve zdravotnické dokumentaci o zdravotním stavu pacienta a jemu poskytnutých zdravotních službách Účelem vedení pacientského souhrnu je poskytnutí základních údajů o zdravotním stavu pacienta v rozsahu vymezeném podle prováděcího právního předpisu podle § 69, a to pro potřeby poskytnutí zdravotních služeb podle odstavce 3. O vedení pacientského souhrnu rozhoduje poskytovatel.\nPoskytovatel, který vede pacientský souhrn, zajistí zpracování pacientského souhrnu a jeho vložení do zdravotnické dokumentace vedené o pacientovi, jde-li o lůžkovou péči, při příjmu pacienta do lůžkové péče; pacientský souhrn se aktualizuje při ukončení hospitalizace, ambulantní péči, při příjmu pacienta do ambulantní péče; pacientský souhrn se aktualizuje při každém dalším poskytnutí zdravotní péče, pokud došlo ke změně základních údajů vedených v pacientském souhrnu, ohlášení vedení pacientského souhrnu v souladu s § 69c Národnímu kontaktnímu místu pro elektronické zdravotnictví (dále jen „Národní kontaktní místo“), předání pacientského souhrnu k zajištění postupu podle odstavce 3 Národnímu kontaktnímu místu, na základě požadavku jiného poskytovatele nebo právnické nebo fyzické osoby uvedené v odstavci 3.\nPacientský souhrn lze předat k poskytnutí zdravotních služeb poskytovateli, v jehož péči se pacient, o němž je pacientský souhrn veden, nachází a který prostřednictvím Národního kontaktního místa o pacientský souhrn požádá, nebo právnické nebo fyzické osobě, která má v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci obdobné postavení poskytovatele (dále jen „poskytovatel jiného státu Evropské unie“), v jejíž péči se pacient, o němž je pacientský souhrn veden, nachází a která o pacientský souhrn prostřednictvím příslušného národního kontaktního místa jiného členského státu Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederace (dále jen „národní kontaktní místo státu Evropské unie“) požádá.",
@@ -512,7 +550,7 @@
   {
    "id": "v-mvxk25xw6rt3",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56b",
+   "klic": "par_56b",
    "citace": "§ 56b",
    "zneni": "2026-07-01",
    "text": "Poskytovatel, který vede zdravotnickou dokumentaci o pacientovi v elektronické podobě, může za účelem zajištění návaznosti zdravotní péče prostřednictvím Národního kontaktního místa předat poskytovateli, v jehož péči se pacient, o němž je zdravotnická dokumentace vedena, nachází, tuto zdravotnickou dokumentaci nebo její část jinou než pacientský souhrn, nebo poskytovateli jiného státu Evropské unie, v jehož péči se pacient, o němž je tato zdravotnická dokumentace vedena, nachází, její jinou část než pacientský souhrn, o níž tak stanoví prováděcí právní předpis podle § 69, pokud o to poskytovatel uvedený v písmenu a) prostřednictvím Národního kontaktního místa nebo v písmenu b) prostřednictvím národního kontaktního místa státu Evropské unie požádá.\nPři ohlášení vedení zdravotnické dokumentace o pacientovi v elektronické podobě nebo její části jiné než pacientský souhrn za účelem postupu podle odstavce 1 a při předávání Národnímu kontaktnímu místu se postupuje podle § 56a odst. 2 písm. b) a c) obdobně.",
@@ -529,7 +567,7 @@
   {
    "id": "v-mvxk41tumaeo",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56b/odst_1/pism_a/bod_2",
+   "klic": "par_56b/odst_1/pism_a/bod_2",
    "citace": "§ 56b odst. 1 písm. a) bod 2",
    "zneni": "2026-07-01",
    "text": "Poskytovatel, který vede zdravotnickou dokumentaci o pacientovi v elektronické podobě, může za účelem zajištění návaznosti zdravotní péče prostřednictvím Národního kontaktního místa předat poskytovateli, v jehož péči se pacient, o němž je zdravotnická dokumentace vedena, nachází, její část jinou než pacientský souhrn, nebo pokud o to poskytovatel uvedený v písmenu a) prostřednictvím Národního kontaktního místa nebo v písmenu b) prostřednictvím národního kontaktního místa státu Evropské unie požádá.",
@@ -546,7 +584,7 @@
   {
    "id": "v-mvxk6c858v71",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56b/odst_1/pism_b",
+   "klic": "par_56b/odst_1/pism_b",
    "citace": "§ 56b odst. 1 písm. b)",
    "zneni": "2026-07-01",
    "text": "Poskytovatel, který vede zdravotnickou dokumentaci o pacientovi v elektronické podobě, může za účelem zajištění návaznosti zdravotní péče prostřednictvím Národního kontaktního místa předat poskytovateli jiného státu Evropské unie, v jehož péči se pacient, o němž je tato zdravotnická dokumentace vedena, nachází, její jinou část než pacientský souhrn, o níž tak stanoví prováděcí právní předpis podle § 69, pokud o to poskytovatel uvedený v písmenu a) prostřednictvím Národního kontaktního místa nebo v písmenu b) prostřednictvím národního kontaktního místa státu Evropské unie požádá.",
@@ -563,7 +601,7 @@
   {
    "id": "v-mvxkaetvgy6e",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56d/odst_1",
+   "klic": "par_56d/odst_1",
    "citace": "§ 56d odst. 1",
    "zneni": "2026-07-01",
    "text": "Z požadavku o pacientský souhrn, zdravotnickou dokumentaci vedenou o pacientovi v elektronické podobě nebo její část jinou než pacientský souhrn podaného prostřednictvím Národního kontaktního místa musí být zřejmé, který poskytovatel nebo poskytovatel jiného státu Evropské unie a který jejich zdravotnický pracovník o příslušný dokument vedený o pacientovi nacházejícím se v jeho péči, žádá. Požadavek podle věty první musí dále obsahovat takové údaje pacienta, na základě kterých ho lze jednoznačně identifikovat.",
@@ -579,7 +617,7 @@
   {
    "id": "v-mvxkdu0u45ez",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_65/odst_2",
+   "klic": "par_65/odst_2",
    "citace": "§ 65 odst. 2",
    "zneni": "2026-07-01",
    "text": "Do zdravotnické dokumentace vedené o pacientovi mohou bez jeho souhlasu nahlížet, jestliže je to v zájmu pacienta nebo jestliže je to potřebné k naplnění účelů plynoucích z jejich pověření nebo k výkonu působnosti svěřené podle tohoto zákona nebo jiných právních předpisů, a to v nezbytném rozsahu, pracovník poskytovatele a osoba v obdobném postavení k poskytovateli, jsou-li osobou se způsobilostí k výkonu zdravotnického povolání nebo jiným odborným pracovníkem a podílí-li se na poskytování zdravotních služeb pacientovi, nebo osobou plnící další úkoly podle tohoto zákona nebo jiných právních předpisů64), osoby podílející se na výkonu působnosti příslušného správního orgánu v souvislosti s přezkoumáním lékařského posudku podle jiného právního předpisu, osoby se způsobilostí k výkonu zdravotnického povolání pověřené příslušným správním orgánem vypracováním odborného stanoviska k návrhu na přezkoumání lékařského posudku, osoby, které se podílejí na výkonu působnosti správních orgánů a které jsou oprávněné k výkonu kontroly v rozsahu jejich pověření podle tohoto zákona nebo jiných právních předpisů, osobami se způsobilostí k výkonu zdravotnického povolání pověřenými a přizvanými ke kontrole v rozsahu jejich pověření podle tohoto zákona nebo jiných právních předpisů, pověřené k vyřízení stížnosti podle části osmé tohoto zákona v souvislosti s touto stížností, ustavené jako nezávislý odborník nebo jmenované členem nezávislé odborné komise podle § 94 odst. 3, nebo pověřené příslušným správním orgánem, který převzal podle tohoto zákona zdravotnickou dokumentaci, pořizováním výpisů nebo kopií zdravotnické dokumentace pro zajištění návaznosti zdravotních služeb o pacienta, osoby se způsobilostí k výkonu zdravotnického povolání pověřené zdravotními pojišťovnami k provádění činností v rozsahu stanoveném zákonem o veřejném zdravotním pojištění, zdravotničtí pracovníci příslušní podle jiných právních předpisů k posuzování zdravotního stavu pro účely sociálního zabezpečení, zejména nemocenského nebo důchodového pojištění, státní sociální podpory, zaměstnanosti, sociálně-právní ochrany dětí, sociálních služeb, dávek pro osoby se zdravotním postižením a pomoci v hmotné nouzi, a to včetně pověřených lékařských zdravotnických pracovníků Ministerstva práce a sociálních věcí za účelem plnění jeho koncepční, kontrolní a metodické činnosti, osoby Státním ústavem pro kontrolu léčiv pověřené a přizvané ke kontrole podle tohoto zákona nebo jiných právních předpisů v rozsahu stanoveném těmito právními předpisy, osoby podílející se na evidenci údajů nebo na kontrole sdělování údajů do Národního zdravotnického informačního systému podle tohoto zákona, soudní znalci ve zdravotnických oborech a osoby se způsobilostí k výkonu zdravotnického povolání, které byly pověřeny vypracováním znaleckého posudku znaleckým ústavem nebo znaleckou kanceláří30), poskytovatelem nebo zdravotnickým pracovníkem, v rozsahu nezbytném pro vypracování znaleckého posudku zadaného orgánem činným v trestním řízení, obhajobou nebo zmocněncem v trestním řízení nebo soudem, zdravotničtí pracovníci způsobilí k ověřování podmínek vzniku nemocí z povolání pověření k této činnosti Státním úřadem pro jadernou bezpečnost, jde-li o podezření na vznik nemoci z povolání v souvislosti s prací v podmínkách ionizujícího záření, osoby se způsobilostí k výkonu zdravotnického povolání, které jsou zaměstnanci orgánů ochrany veřejného zdraví, při výkonu státního zdravotního dozoru, osoby se způsobilostí k výkonu zdravotnického povolání provádějící hodnocení kvality a bezpečí podle tohoto zákona a osoby se způsobilostí k výkonu zdravotnického povolání provádějící externí klinické audity lékařského ozáření podle zákona o specifických zdravotních službách, veřejný ochránce práv, ochránce práv dětí, jejich zástupce a jimi pověření zaměstnanci Kanceláře veřejného ochránce práv a ochránce práv dětí v souvislosti s plněním úkolů při výkonu jim svěřené působnosti podle jiného zákona tak, aby byla zajištěna ochrana citlivých údajů třetích osob, členové delegace Evropského výboru pro zabránění mučení a nelidskému či ponižujícímu zacházení nebo trestání nebo členové delegace Podvýboru pro prevenci mučení a jiného krutého, nelidského či ponižujícího zacházení nebo trestání, a to v rozsahu nezbytném pro splnění úkolu vyplývajícího z mezinárodních smluv, kterými je Česká republika vázána a které upravují činnost výboru nebo podvýboru32), inspektoři oprávnění k provádění inspekcí souvisejících s klinickým hodnocením humánních léčivých přípravků v souladu s přímo použitelným předpisem Evropské unie upravujícím podrobná pravidla pro provádění inspekčních postupů správné klinické praxe55), jde-li o pacientský souhrn nebo část zdravotnické dokumentace jinou než pacientský souhrn, pracovníci poskytovatele jiného státu Evropské unie prostřednictvím příslušného národního kontaktního místa státu Evropské unie, a to za účelem poskytnutí zdravotních služeb pacientovi, který se nachází v péči poskytovatele jiného státu Evropské unie a o němž jsou pacientský souhrn nebo část zdravotnické dokumentace jiná než pacientský souhrn, vedeny, pokud pacient, popřípadě jiná k tomu oprávněná osoba, nevyslovil nesouhlas podle § 56c odst. 2 nebo 3, státní zástupci při výkonu dozoru nad dodržováním právních předpisů při výkonu ústavní výchovy a ochranné výchovy74), pověřený člen nebo zaměstnanec komory v rámci výkonu disciplinární pravomoci podle zákona o České lékařské komoře, České stomatologické komoře a České lékárnické komoře, osoby provádějící monitoring nebo audit klinického hodnocení humánních léčivých přípravků podle přímo použitelného předpisu Evropské unie75) upravujícího klinická hodnocení humánních léčivých přípravků a členové etické komise, která vykonává dohled nad klinickým hodnocením léčivého přípravku, klinickou zkouškou zdravotnického prostředku nebo studií funkční způsobilosti diagnostického zdravotnického prostředku in vitro. Osoby uvedené v písmenech b) až o), q) až s) si mohou pořizovat výpisy nebo kopie zdravotnické dokumentace v rozsahu nezbytném pro splnění účelu nahlížení.",
@@ -595,7 +633,7 @@
   {
    "id": "v-mvxle0htj61p",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_65/odst_3",
+   "klic": "par_65/odst_3",
    "citace": "§ 65 odst. 3",
    "zneni": "2026-07-01",
    "text": "Osoby získávající způsobilost k výkonu povolání zdravotnického pracovníka nebo jiného odborného pracovníka a zdravotničtí pracovníci uvedení v § 46 odst. 2 mohou do zdravotnické dokumentace vedené o pacientovi nahlížet v rozsahu nezbytně nutném pro zajištění výuky; to neplatí, jestliže pacient nahlížení prokazatelně zakázal.",
@@ -611,7 +649,7 @@
   {
    "id": "v-mvxlycpmdf0h",
    "predpis": "2021/325",
-   "klic": "norma/cast_1/par_3/pism_a",
+   "klic": "par_3/pism_a",
    "citace": "§ 3 písm. a)",
    "zneni": "2026-04-01",
    "text": "Pro účely tohoto zákona se rozumí zapisující osobou právnická, fyzická nebo podnikající fyzická osoba, organizační složka státu nebo organizační složka územního samosprávného celku zapisující údaje do kmenových zdravotnických registrů,",
@@ -628,7 +666,7 @@
   {
    "id": "v-mvxm11yno962",
    "predpis": "2021/325",
-   "klic": "norma/cast_1/par_3/pism_c",
+   "klic": "par_3/pism_c",
    "citace": "§ 3 písm. c)",
    "zneni": "2026-04-01",
    "text": "Pro účely tohoto zákona se rozumí pověřeným pracovníkem fyzická osoba, která je v pracovněprávním nebo obdobném vztahu k oprávněné osobě a která má přidělena oprávněnou osobou přístupová práva do informačního systému oprávněné osoby využívajícího Integrované datové rozhraní,",
@@ -648,6 +686,21 @@
    "id": "sk-diginemocnice-372-2011",
    "nazev": "Komentáře k novým ustanovením o zdravotnické dokumentaci v zákoně 372/2011",
    "popis": "Komentáře k dopadům nového rámce vedení zdravotnické dokumentace, který zavádí zákon č. 240/2024 Sb.\n\nAutoři: DigiNemocnice, KCDZ, Michal Rada, Simona Synková.\n\nNejde o oficiální komentář gestora zákona (Ministerstva zdravotnictví). Dokument vypracovali odborníci z EGdílny v rámci projektu DigiNemocnice jako metodickou výkladovou pomůcku a konzultovali ho s MZd, které nemělo připomínky."
+  },
+  {
+   "id": "sk-mvi2lxfdt078",
+   "nazev": "Komentáře pro AI",
+   "popis": ""
+  },
+  {
+   "id": "sk-mvpfx38fmi0t",
+   "nazev": "technická realizace",
+   "popis": ""
+  },
+  {
+   "id": "sk-mvi2alz38wrl",
+   "nazev": "Výklady a komentáře",
+   "popis": ""
   }
  ],
  "komentare": [
@@ -668,7 +721,7 @@
   {
    "id": "k-diginemocnice-372-02",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_53/odst_1",
+   "klic": "par_53/odst_1",
    "citace": "§ 53 odst. 1",
    "zneni": "2026-07-01",
    "textUst": "Zdravotnická dokumentace je soubor informací vedených, zpracovávaných a uchovávaných poskytovatelem za účelem poskytování zdravotních služeb konkrétnímu pacientovi, a to bez ohledu na to, zda byly získány od pacienta, od jiného poskytovatele nebo jiných osob nebo vlastní činností poskytovatele.",
@@ -682,7 +735,7 @@
   {
    "id": "k-diginemocnice-372-03",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_53/odst_3",
+   "klic": "par_53/odst_3",
    "citace": "§ 53 odst. 3",
    "zneni": "2026-07-01",
    "textUst": "V rámci zpracování osobních údajů ve zdravotnické dokumentaci lze využívat rodné číslo pacienta.",
@@ -696,7 +749,7 @@
   {
    "id": "k-diginemocnice-372-04",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_54",
+   "klic": "par_54",
    "citace": "§ 54",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel je povinen vést, zpracovávat a uchovávat zdravotnickou dokumentaci, nejde-li o poskytování lékárenské péče v lékárně, poskytování zdravotních výkonů v rámci preventivní péče mimo zdravotnické zařízení podle § 11a s výjimkou očkování, zdravotních služeb alespoň částečně hrazených z veřejného zdravotního pojištění.",
@@ -710,7 +763,7 @@
   {
    "id": "k-diginemocnice-372-05",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_54/pism_a",
+   "klic": "par_54/pism_a",
    "citace": "§ 54 písm. a)",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel je povinen vést, zpracovávat a uchovávat zdravotnickou dokumentaci, nejde-li o poskytování lékárenské péče v lékárně,",
@@ -724,7 +777,7 @@
   {
    "id": "k-diginemocnice-372-06",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55/odst_1",
+   "klic": "par_55/odst_1",
    "citace": "§ 55 odst. 1",
    "zneni": "2026-07-01",
    "textUst": "Zdravotnická dokumentace je vedena v podobě listinné, elektronické nebo v kombinaci obou těchto podob.",
@@ -738,7 +791,7 @@
   {
    "id": "k-diginemocnice-372-07",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55/odst_2",
+   "klic": "par_55/odst_2",
    "citace": "§ 55 odst. 2",
    "zneni": "2026-07-01",
    "textUst": "Zdravotnická dokumentace musí být vedena a zpracovávána průkazně, pravdivě, srozumitelně a čitelně.",
@@ -752,7 +805,7 @@
   {
    "id": "k-diginemocnice-372-08",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a",
+   "klic": "par_55a",
    "citace": "§ 55a",
    "zneni": "2026-07-01",
    "textUst": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.\nPoskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.\nPoskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.\nOpravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
@@ -766,7 +819,7 @@
   {
    "id": "k-diginemocnice-372-09",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_1",
+   "klic": "par_55a/odst_1",
    "citace": "§ 55a odst. 1",
    "zneni": "2026-07-01",
    "textUst": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.",
@@ -780,7 +833,7 @@
   {
    "id": "k-diginemocnice-372-10",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_2",
+   "klic": "par_55a/odst_2",
    "citace": "§ 55a odst. 2",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.",
@@ -794,7 +847,7 @@
   {
    "id": "k-diginemocnice-372-11",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_3",
+   "klic": "par_55a/odst_3",
    "citace": "§ 55a odst. 3",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.",
@@ -808,7 +861,7 @@
   {
    "id": "k-diginemocnice-372-12",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_4",
+   "klic": "par_55a/odst_4",
    "citace": "§ 55a odst. 4",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.",
@@ -822,7 +875,7 @@
   {
    "id": "k-diginemocnice-372-13",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_4/pism_a",
+   "klic": "par_55a/odst_4/pism_a",
    "citace": "§ 55a odst. 4 písm. a)",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo",
@@ -836,7 +889,7 @@
   {
    "id": "k-diginemocnice-372-14",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_4/pism_b",
+   "klic": "par_55a/odst_4/pism_b",
    "citace": "§ 55a odst. 4 písm. b)",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.",
@@ -850,7 +903,7 @@
   {
    "id": "k-diginemocnice-372-15",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_5",
+   "klic": "par_55a/odst_5",
    "citace": "§ 55a odst. 5",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.",
@@ -864,7 +917,7 @@
   {
    "id": "k-diginemocnice-372-16",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_6",
+   "klic": "par_55a/odst_6",
    "citace": "§ 55a odst. 6",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.",
@@ -878,7 +931,7 @@
   {
    "id": "k-diginemocnice-372-17",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55a/odst_7",
+   "klic": "par_55a/odst_7",
    "citace": "§ 55a odst. 7",
    "zneni": "2026-07-01",
    "textUst": "Opravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
@@ -892,7 +945,7 @@
   {
    "id": "k-diginemocnice-372-18",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55b",
+   "klic": "par_55b",
    "citace": "§ 55b",
    "zneni": "2026-07-01",
    "textUst": "Zpracovává-li poskytovatel údaje ze zdravotnické dokumentace pro účely vědy a výzkumu, anonymizuje je tak, aby nebyla seznatelná identita pacienta. Takto vzniklé informace se nepovažují za zdravotnickou dokumentaci.",
@@ -906,7 +959,7 @@
   {
    "id": "k-diginemocnice-372-19",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55c",
+   "klic": "par_55c",
    "citace": "§ 55c",
    "zneni": "2026-07-01",
    "textUst": "Informační systém, ve kterém je vedena zdravotnická dokumentace v elektronické podobě, musí umožnit převedení zdravotnické dokumentace do výstupního datového formátu stanoveného standardem elektronického zdravotnictví podle zákona o elektronizaci zdravotnictví.",
@@ -920,7 +973,7 @@
   {
    "id": "k-diginemocnice-372-20",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_55d",
+   "klic": "par_55d",
    "citace": "§ 55d",
    "zneni": "2026-07-01",
    "textUst": "Poskytovatel je povinen zpracovat písemná pravidla pro zpracování zdravotnické dokumentace, jejichž součástí jsou vhodná technická a organizační opatření, aby zajistil a byl schopen doložit, že zpracování zdravotnické dokumentace je prováděno podle tohoto zákona a je v souladu s ochranou osobních údajů podle jiných právních předpisů.",
@@ -934,7 +987,7 @@
   {
    "id": "k-diginemocnice-372-21",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56/odst_3",
+   "klic": "par_56/odst_3",
    "citace": "§ 56 odst. 3",
    "zneni": "2026-07-01",
    "textUst": "V případě zdravotnické dokumentace vedené v elektronické podobě se zdravotnická dokumentace převede do listinné podoby a postupuje se podle odstavce 2; současně se elektronická podoba zdravotnické dokumentace odstraní z informačního systému.",
@@ -948,7 +1001,7 @@
   {
    "id": "k-mvxjpmcnf7gv",
    "predpis": "2011/372",
-   "klic": "norma/cast_6/hlava_1/par_56",
+   "klic": "par_56",
    "citace": "§ 56",
    "zneni": "2026-07-01",
    "textUst": "Zdravotnická dokumentace o utajeném porodu podle § 37 je vedena v rozsahu zdravotních služeb souvisejících s těhotenstvím a utajeným porodem. Odděleně od zdravotnické dokumentace je vedeno jméno, popřípadě jména, příjmení ženy, které jsou poskytovány v souvislosti s těhotenstvím a utajeným porodem zdravotní služby, písemná žádost o utajení porodu, datum narození ženy a datum porodu.\nPo ukončení hospitalizace ženy, která utajeně porodila, poskytovatel doplní zdravotnickou dokumentaci o údaje uvedené v odstavci 1, vloží ji do vhodného obalu, který zapečetí a označí bezpečnostním kódem, který bude předán též pacientce. Otevření takto zapečetěné zdravotnické dokumentace je možné jedině na základě rozhodnutí soudu; to neplatí, požádá-li o otevření zdravotnické dokumentace žena, která utajeně porodila.\nV případě zdravotnické dokumentace vedené v elektronické podobě se zdravotnická dokumentace převede do listinné podoby a postupuje se podle odstavce 2; současně se elektronická podoba zdravotnické dokumentace odstraní z informačního systému.",
@@ -960,10 +1013,57 @@
    "upraveno": "2026-11-01T08:05:54.407Z"
   }
  ],
- "stitky": [],
+ "stitky": [
+  {
+   "id": "t-mvi3wumvioru",
+   "nazev": "co se nesmí",
+   "popis": ""
+  },
+  {
+   "id": "t-mvi27i0vidi6",
+   "nazev": "důležité ustanovení",
+   "popis": ""
+  },
+  {
+   "id": "t-mwhkp6hsl1yw",
+   "nazev": "kb",
+   "popis": ""
+  },
+  {
+   "id": "t-mvhxurfpbqno",
+   "nazev": "klíčové povinnosti eg",
+   "popis": ""
+  },
+  {
+   "id": "t-mvth7p1ivefa",
+   "nazev": "kurz eg",
+   "popis": ""
+  },
+  {
+   "id": "t-mvth5ciudw8q",
+   "nazev": "kurz jak na ais",
+   "popis": ""
+  },
+  {
+   "id": "t-mwhks7ftak4z",
+   "nazev": "kybernetická bezpečnost",
+   "popis": ""
+  },
+  {
+   "id": "t-mvi3x0b7x0t7",
+   "nazev": "na co si dávat pozor",
+   "popis": ""
+  },
+  {
+   "id": "t-mvhxlvdnt9wr",
+   "nazev": "spisová služba",
+   "popis": ""
+  }
+ ],
  "stitkyUstanoveni": [],
  "poradi": [
   "2011/372",
-  "2021/325"
+  "2021/325",
+  "2024/444"
  ]
 }
