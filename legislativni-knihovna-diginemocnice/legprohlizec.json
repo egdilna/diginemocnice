@@ -152,7 +152,10 @@
      "stazeno": "2026-11-19T06:58:09.720Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "12/2020 Sb.",
    "typ": "ZÁKON",
@@ -190,7 +193,10 @@
      "stazeno": "2026-11-19T06:58:14.286Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "60/2026 Sb.",
    "typ": "ZÁKON",
@@ -216,7 +222,10 @@
      "stazeno": "2026-11-19T06:58:17.795Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "111/2009 Sb.",
    "typ": "ZÁKON",
@@ -314,7 +323,10 @@
      "stazeno": "2026-11-19T06:58:27.862Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwhkp6hsl1yw",
+    "t-mwhks7ftak4z"
+   ],
    "budouci": false,
    "citace": "264/2025 Sb.",
    "typ": "ZÁKON",
@@ -325,7 +337,8 @@
     "2025-08-04",
     "2025-11-01"
    ],
-   "zkontrolovano": "2026-11-19T06:58:27.475Z"
+   "zkontrolovano": "2026-11-19T06:58:27.475Z",
+   "popis": "Nový ZKB. Samotný zákon jen stanovuje rámec a podrobnosti jednotlivých povinností jsou v prováděcích vyhláškách."
   },
   "2025/409": {
    "pridano": "2026-11-19T06:58:31.099Z",
@@ -338,7 +351,9 @@
      "stazeno": "2026-11-19T06:58:31.415Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwhks7ftak4z"
+   ],
    "budouci": false,
    "citace": "409/2025 Sb.",
    "typ": "VYHLÁŠKA",
@@ -349,7 +364,8 @@
     "2025-10-14",
     "2025-11-01"
    ],
-   "zkontrolovano": "2026-11-19T06:58:31.162Z"
+   "zkontrolovano": "2026-11-19T06:58:31.162Z",
+   "popis": "Konkrétní rámec pro vyšší povinnosti"
   },
   "2025/410": {
    "pridano": "2026-11-19T06:58:34.661Z",
@@ -362,7 +378,9 @@
      "stazeno": "2026-11-19T06:58:34.866Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mwhks7ftak4z"
+   ],
    "budouci": false,
    "citace": "410/2025 Sb.",
    "typ": "VYHLÁŠKA",
@@ -373,7 +391,8 @@
     "2025-10-14",
     "2025-11-01"
    ],
-   "zkontrolovano": "2026-11-19T06:58:34.719Z"
+   "zkontrolovano": "2026-11-19T06:58:34.719Z",
+   "popis": "Konkrétní rámec pro nižší povinnosti"
   },
   "2004/499": {
    "pridano": "2026-11-19T06:58:37.947Z",
@@ -386,7 +405,11 @@
      "stazeno": "2026-11-19T06:58:38.570Z"
     }
    },
-   "stitky": [],
+   "stitky": [
+    "t-mvhxlvdnt9wr",
+    "t-mvth5ciudw8q",
+    "t-mvth7p1ivefa"
+   ],
    "budouci": false,
    "citace": "499/2004 Sb.",
    "typ": "ZÁKON",
@@ -454,7 +477,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:32:16.729Z",
-   "upraveno": "2026-10-31T16:46:53.186Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwmfqc6has4",
@@ -470,7 +493,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:34:25.686Z",
-   "upraveno": "2026-10-31T16:36:30.428Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwn2o3epfrr",
@@ -486,7 +509,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:52:15.866Z",
-   "upraveno": "2026-10-31T16:52:15.866Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwn4udqs0f2",
@@ -502,7 +525,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:53:57.325Z",
-   "upraveno": "2026-10-31T16:53:57.325Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwn6v7fhlyp",
@@ -518,7 +541,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:55:31.707Z",
-   "upraveno": "2026-10-31T16:55:31.707Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwn8t3n1ppy",
@@ -534,7 +557,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:57:02.291Z",
-   "upraveno": "2026-10-31T16:57:02.291Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwn9xv3hgxp",
@@ -550,7 +573,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:57:55.119Z",
-   "upraveno": "2026-10-31T16:57:55.119Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwnb0034278",
@@ -566,7 +589,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T16:58:44.547Z",
-   "upraveno": "2026-10-31T16:58:44.547Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwnd5854e4j",
@@ -582,7 +605,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:00:24.628Z",
-   "upraveno": "2026-10-31T17:00:24.628Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwnec25swja",
@@ -598,7 +621,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:01:20.140Z",
-   "upraveno": "2026-10-31T17:01:20.140Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwnf7nojjqn",
@@ -614,7 +637,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:02:01.092Z",
-   "upraveno": "2026-10-31T17:02:01.092Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwngafxvg6o",
@@ -630,7 +653,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:02:51.357Z",
-   "upraveno": "2026-10-31T17:02:51.357Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwnhnd5lg8p",
@@ -646,7 +669,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:03:54.761Z",
-   "upraveno": "2026-10-31T17:03:54.761Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwnj2rkwr44",
@@ -662,7 +685,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:05:01.376Z",
-   "upraveno": "2026-10-31T17:05:01.376Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwo6thou43l",
@@ -677,7 +700,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:23:29.100Z",
-   "upraveno": "2026-10-31T17:23:29.100Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwp7jn41dwq",
@@ -693,7 +716,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:52:02.608Z",
-   "upraveno": "2026-10-31T17:52:02.608Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwpaz6h3pc6",
@@ -710,7 +733,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:54:42.713Z",
-   "upraveno": "2026-10-31T17:54:42.713Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwpfl6d734o",
@@ -726,7 +749,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-10-31T17:58:17.845Z",
-   "upraveno": "2026-10-31T17:58:17.845Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvwpjzfwpxdn",
@@ -742,7 +765,7 @@
    ],
    "poznamka": "Tohle je důležité, protože v zákoně se o kmenových údajích a o souvisejících povinnostech hovoří docela dost. A důležité i je, že třeba narozdíl od základních registrů, kde se to dělí na údaje referenční a nereferenční, tady jde o veškeré údaje.",
    "vytvoreno": "2026-10-31T18:01:42.956Z",
-   "upraveno": "2026-10-31T18:01:42.956Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxjn3noxt71",
@@ -758,7 +781,7 @@
    ],
    "poznamka": "Trochu pozor na to, tohle je trochu v rozporu s mechanismy vedení EZD",
    "vytvoreno": "2026-11-01T08:03:56.866Z",
-   "upraveno": "2026-11-01T08:03:56.866Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxjsbh9x5vd",
@@ -773,7 +796,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-01T08:08:00.284Z",
-   "upraveno": "2026-11-01T08:08:00.284Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxjycdeiy5z",
@@ -790,7 +813,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-01T08:12:41.376Z",
-   "upraveno": "2026-11-01T08:12:41.376Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxk25xw6rt3",
@@ -807,7 +830,7 @@
    ],
    "poznamka": "Pozor na to, že fakticky existuje více NKM, jedno z nich jsou fakticky služby v IDRR, dalším je NCpeH vůči EU.",
    "vytvoreno": "2026-11-01T08:15:39.666Z",
-   "upraveno": "2026-11-01T08:15:39.666Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxk41tumaeo",
@@ -824,7 +847,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-01T08:17:07.650Z",
-   "upraveno": "2026-11-01T08:17:07.650Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxk6c858v71",
@@ -841,7 +864,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-01T08:18:54.437Z",
-   "upraveno": "2026-11-01T08:18:54.437Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxkaetvgy6e",
@@ -857,7 +880,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-01T08:22:04.435Z",
-   "upraveno": "2026-11-01T08:22:04.435Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxkdu0u45ez",
@@ -873,7 +896,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-01T08:24:44.093Z",
-   "upraveno": "2026-11-01T08:24:44.093Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxle0htj61p",
@@ -889,7 +912,7 @@
    ],
    "poznamka": "",
    "vytvoreno": "2026-11-01T08:52:52.097Z",
-   "upraveno": "2026-11-01T08:52:52.097Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxlycpmdf0h",
@@ -906,7 +929,7 @@
    ],
    "poznamka": "Zapisující osobou je z podstaty věci každý poskytovatel zdravotních služeb",
    "vytvoreno": "2026-11-01T09:08:41.049Z",
-   "upraveno": "2026-11-01T09:08:41.049Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
   },
   {
    "id": "v-mvxm11yno962",
@@ -923,7 +946,265 @@
    ],
    "poznamka": "Zdravotnický pracovník jednající jménem poskytovatele je typicky v této roli",
    "vytvoreno": "2026-11-01T09:10:47.086Z",
-   "upraveno": "2026-11-01T09:10:47.086Z"
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "id": "v-mwn4jbzohop2",
+   "predpis": "2021/325",
+   "klic": "par_4/pism_b",
+   "citace": "§ 4 písm. b)",
+   "zneni": "2026-04-01",
+   "text": "Poskytovatel zdravotních služeb je jako oprávněná osoba povinen využívat kmenové údaje a řídit se jimi za účelem stanoveným tímto zákonem,",
+   "nazev": "Povinné využívání údajů z kmenových registrů vždy",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwmcyu18gkx",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "To znamená nejen údaje o pacientech, ale i o poskytovatelích a pracovnících a všechny údaje označené za kmenové a centrálně poskytované. Je to ekvivalent povinnosti využívání údajů pro úřadu v zákoně 111/2009",
+   "vytvoreno": "2026-11-19T05:43:07.379Z",
+   "upraveno": "2026-11-19T05:43:07.379Z"
+  },
+  {
+   "id": "v-mwn4lb8khuu2",
+   "predpis": "2021/325",
+   "klic": "par_4/pism_a",
+   "citace": "§ 4 písm. a)",
+   "zneni": "2026-04-01",
+   "text": "Poskytovatel zdravotních služeb je jako oprávněná osoba povinen dodržovat standardy elektronického zdravotnictví vydané ministerstvem podle § 38 odst. 2 písm. c); standardy elektronického zdravotnictví se považují za dodržené, pokud je namísto nich postupováno podle jiných právních předpisů,",
+   "nazev": "Povinné dodržování všech standardů EZ",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwmcyu18gkx"
+   ],
+   "poznamka": "Nejen datové, ale i procení, bezpečnostní a provozně technické",
+   "vytvoreno": "2026-11-19T05:44:39.716Z",
+   "upraveno": "2026-11-19T05:44:39.716Z"
+  },
+  {
+   "id": "v-mwn4qq1sbmxb",
+   "predpis": "2021/325",
+   "klic": "par_4/pism_c",
+   "citace": "§ 4 písm. c)",
+   "zneni": "2026-04-01",
+   "text": "Poskytovatel zdravotních služeb je jako oprávněná osoba povinen ve svém informačním systému evidovat identifikátory zdravotnických pracovníků, kteří u něj vykonávají zdravotnické povolání v pracovněprávním nebo obdobném vztahu, a identifikátory pacientů, kterým poskytuje nebo poskytoval zdravotní služby, a",
+   "nazev": "Vše přes identifikátory i uvnitř ISPZS",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwmcyu18gkx",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T05:48:52.192Z",
+   "upraveno": "2026-11-19T05:48:52.192Z"
+  },
+  {
+   "id": "v-mwn4x7iuac8w",
+   "predpis": "2021/325",
+   "klic": "par_5",
+   "citace": "§ 5",
+   "zneni": "2026-04-01",
+   "text": "Oprávněné osoby a zapisující osoby, s výjimkou pacienta, jsou povinny určit pověřené pracovníky a ověřit jejich totožnost, a to před přidělením přístupových údajů do svých informačních systémů využívajících Integrované datové rozhraní; je-li pověřeným pracovníkem zdravotnický pracovník, ověřit jeho údaje v Kmenovém registru zdravotnických pracovníků, a přidělovat, měnit a rušit jim přístupové údaje do svého informačního systému v souladu s provozní dokumentací Integrovaného datového rozhraní podle § 10 a zajistit, aby jejich informační systémy určené k využívání Integrovaného datového rozhraní s ním byly plně kompatibilní a odpovídaly specifikaci uveřejněné v provozní dokumentaci Integrovaného datového rozhraní podle § 10.",
+   "nazev": "Další povinnosti poskytovatelů a ostatních kromě pacienta",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T05:53:54.774Z",
+   "upraveno": "2026-11-19T05:53:54.774Z"
+  },
+  {
+   "id": "v-mwn4zfg834rc",
+   "predpis": "2021/325",
+   "klic": "par_5/pism_a/bod_1",
+   "citace": "§ 5 písm. a) bod 1",
+   "zneni": "2026-04-01",
+   "text": "Oprávněné osoby a zapisující osoby, s výjimkou pacienta, jsou povinny určit pověřené pracovníky a ověřit jejich totožnost, a to před přidělením přístupových údajů do svých informačních systémů využívajících Integrované datové rozhraní; je-li pověřeným pracovníkem zdravotnický pracovník, ověřit jeho údaje v Kmenovém registru zdravotnických pracovníků, a",
+   "nazev": "Ověření identity a KRZP před nástupem k poskytovateli",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "A to z kmenového registru podle povinnosti využívání kmenových údajůCertifikátem se myslí certifikát vydaný správcem IDRR, nikoliv jiný a je to podmíněno řádnou registrací ISPZS.Digitalizace ostatníEG a klientiEG AIS ZREG kurzyEG spisová službaEG Správa datEZ ehealth pro poskytovateleEZ EZD a dokumentaceEZ klíčové věciPH VSČR LOSOOSSFDI výkon",
+   "vytvoreno": "2026-11-19T05:55:38.360Z",
+   "upraveno": "2026-11-19T06:55:23.078Z"
+  },
+  {
+   "id": "v-mwn54cs0r9t5",
+   "predpis": "2021/325",
+   "klic": "par_5/pism_a/bod_2",
+   "citace": "§ 5 písm. a) bod 2",
+   "zneni": "2026-04-01",
+   "text": "Oprávněné osoby a zapisující osoby, s výjimkou pacienta, jsou povinny určit pověřené pracovníky a přidělovat, měnit a rušit jim přístupové údaje do svého informačního systému v souladu s provozní dokumentací Integrovaného datového rozhraní podle § 10 a",
+   "nazev": "Přidělování oprávnění do ISPZS a přístupů do IDRR",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T05:59:28.176Z",
+   "upraveno": "2026-11-19T05:59:28.176Z"
+  },
+  {
+   "id": "v-mwn5ayx1frt9",
+   "predpis": "2021/325",
+   "klic": "par_5/pism_b",
+   "citace": "§ 5 písm. b)",
+   "zneni": "2026-04-01",
+   "text": "Oprávněné osoby a zapisující osoby, s výjimkou pacienta, jsou povinny zajistit, aby jejich informační systémy určené k využívání Integrovaného datového rozhraní s ním byly plně kompatibilní a odpovídaly specifikaci uveřejněné v provozní dokumentaci Integrovaného datového rozhraní podle § 10.",
+   "nazev": "ISPZS zcela kompativilní a v souladu s provozní dokumentací IDRR a SEZ",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T06:04:36.803Z",
+   "upraveno": "2026-11-19T06:04:36.803Z"
+  },
+  {
+   "id": "v-mwn5g3dcn86l",
+   "predpis": "2021/325",
+   "klic": "par_7",
+   "citace": "§ 7",
+   "zneni": "2026-04-01",
+   "text": "Integrované datové rozhraní je informační systém veřejné správy, jehož vzájemně propojené součásti tvoří tyto informační systémy a služby: kmenové zdravotnické registry, služby vytvářející důvěru, centrální služby elektronického zdravotnictví a žurnál činností.\nSprávcem Integrovaného datového rozhraní je ministerstvo, provozovatelem je Ústav zdravotnických informací a statistiky České republiky (dále jen „statistický ústav“). Statistický ústav je pro potřeby vedení kmenových zdravotnických registrů zpracovatelem osobních údajů podle právních předpisů upravujících zpracování osobních údajů5).\nIntegrované datové rozhraní bezúplatně zabezpečuje oprávněným osobám bezprostřední sdělení identifikátoru zdravotnického pracovníka vedeného v Kmenovém registru zdravotnických pracovníků podle § 21 odst. 1 písm. a), identifikátoru pacienta vedeného v Kmenovém registru pacientů podle § 23 odst. 1 písm. a) a identifikačního čísla osoby (dále jen „identifikační číslo“) poskytovatele zdravotních služeb vedeného v Kmenovém registru poskytovatelů zdravotních služeb podle § 19 odst. 1 písm. a), nepřetržitý přístup oprávněných osob, s výjimkou pacienta, ke službám vytvářejícím důvěru podle § 26 odst. 1, nepřetržitý přístup oprávněných osob k údajům vedeným v kmenových zdravotnických registrech podle § 16 odst. 1, přístup pacientů ke všem údajům o nich vedeným v Integrovaném datovém rozhraní a přístup poskytovatele zdravotních služeb do Kmenového registru poskytovatelů zdravotních služeb za účelem zápisu podle § 19 odst. 3 písm. b), poskytovatele zdravotních služeb do Kmenového registru pacientů za účelem zápisu podle § 23 odst. 2 písm. c) a pacienta za účelem zápisu podle § 23 odst. 2 písm. d).",
+   "nazev": "Deklarace a součásti IDRR obecně",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T06:08:35.856Z",
+   "upraveno": "2026-11-19T06:08:35.856Z"
+  },
+  {
+   "id": "v-mwn5tbwpazgs",
+   "predpis": "2021/325",
+   "klic": "par_8/odst_1",
+   "citace": "§ 8 odst. 1",
+   "zneni": "2026-04-01",
+   "text": "Ministerstvo prostřednictvím kmenových zdravotnických registrů v Integrovaném datovém rozhraní zpracovává kmenové údaje poskytovatele zdravotních služeb a osoby usazené nebo se sídlem v jiném členském státě Evropské unie, Evropského hospodářského prostoru nebo Švýcarské konfederaci (dále jen „jiný členský stát“) poskytující zdravotní služby na území České republiky bez oprávnění k poskytování zdravotních služeb podle zákona o zdravotních službách (dále jen „osoba usazená nebo se sídlem v jiném členském státě poskytující zdravotní služby“) v rozsahu vedeném v Kmenovém registru poskytovatelů zdravotních služeb podle § 19 odst. 1 a 2, zdravotnického pracovníka v rozsahu vedeném v Kmenovém registru zdravotnických pracovníků podle § 21 odst. 1 a pacienta v rozsahu vedeném v Kmenovém registru pacientů podle § 23 odst. 1.",
+   "nazev": "Deklarace k vedení údajů v kmenových registrech",
+   "skupiny": [
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T06:18:53.449Z",
+   "upraveno": "2026-11-19T06:18:53.449Z"
+  },
+  {
+   "id": "v-mwn5ue6epe52",
+   "predpis": "2021/325",
+   "klic": "par_8/odst_2",
+   "citace": "§ 8 odst. 2",
+   "zneni": "2026-04-01",
+   "text": "Ministerstvo jako správce Integrovaného datového rozhraní eviduje v žurnálu činností podle § 37 činnosti provedené oprávněnými a zapisujícími osobami v Integrovaném datovém rozhraní.",
+   "nazev": "Deklarace vedení údajů v Žurnálu činností",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T06:19:43.046Z",
+   "upraveno": "2026-11-19T06:19:43.046Z"
+  },
+  {
+   "id": "v-mwn6dq8pkx7h",
+   "predpis": "2021/325",
+   "klic": "par_11/odst_1/pism_c",
+   "citace": "§ 11 odst. 1 písm. c)",
+   "zneni": "2026-04-01",
+   "text": "K Integrovanému datovému rozhraní přistupuje oprávněná nebo zapisující osoba, s výjimkou pacienta a třetí osoby, která je zdravotnickým pracovníkem, prostřednictvím osobních přístupových certifikátů pro zajištění přístupu zdravotnických pracovníků k Integrovanému datovému rozhraní.",
+   "nazev": "Zdravotnická pracovník se může hlásit do IDRR svým certifikátem přes ISPZS i jinudy",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T06:34:45.145Z",
+   "upraveno": "2026-11-19T06:34:45.145Z"
+  },
+  {
+   "id": "v-mwn6hgclmpn2",
+   "predpis": "2021/325",
+   "klic": "par_11/odst_1/pism_b",
+   "citace": "§ 11 odst. 1 písm. b)",
+   "zneni": "2026-04-01",
+   "text": "K Integrovanému datovému rozhraní přistupuje oprávněná nebo zapisující osoba, s výjimkou pacienta a třetí osoby, která je fyzickou osobou, pomocí vzdáleného přístupu s využitím prostředků elektronické identifikace podle zákona o elektronické identifikaci6) prostřednictvím Portálu elektronického zdravotnictví,",
+   "nazev": "Poskytovatel jako fyzická osoba může do IDRR i přes portál a ZEID",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T06:37:38.948Z",
+   "upraveno": "2026-11-19T06:37:38.948Z"
+  },
+  {
+   "id": "v-mwn6jlw3xfdp",
+   "predpis": "2021/325",
+   "klic": "par_11/odst_1/pism_a",
+   "citace": "§ 11 odst. 1 písm. a)",
+   "zneni": "2026-04-01",
+   "text": "K Integrovanému datovému rozhraní přistupuje oprávněná nebo zapisující osoba, s výjimkou pacienta a třetí osoby, která je právnickou nebo podnikající fyzickou osobou, prostřednictvím svého informačního systému, který byl vybaven resortním systémovým certifikátem pro přístup k Integrovanému datovému rozhraní automatizovaně nebo prostřednictvím pověřeného pracovníka,",
+   "nazev": "poskytovatel s více pracovníky přistupuje k IDRR výhradně řádným ISPZS",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwmcyu18gkx",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "Certifikátem se myslí certifikát vydaný správcem IDRR, nikoliv jiný a je to podmíněno řádnou registrací ISPZS.Digitalizace ostatníEG a klientiEG AIS ZREG kurzyEG spisová službaEG Správa datEZ ehealth pro poskytovateleEZ EZD a dokumentaceEZ klíčové věciPH VSČR LOSOOSSFDI výkon",
+   "vytvoreno": "2026-11-19T06:39:19.442Z",
+   "upraveno": "2026-11-19T06:56:06.624Z"
+  },
+  {
+   "id": "v-mwn6mauuhy3b",
+   "predpis": "2021/325",
+   "klic": "par_11/odst_2",
+   "citace": "§ 11 odst. 2",
+   "zneni": "2026-04-01",
+   "text": "Pověřený pracovník přistupuje k Integrovanému datovému rozhraní prostřednictvím informačního systému oprávněné nebo zapisující osoby, která mu přidělila přístupové údaje do svého informačního systému.",
+   "nazev": "Zdravotnický pracovník za poskytovatele přistupuje do IDRR výhradně přes ISPZS poskytovatele",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwmcyu18gkx",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "Tady jen pozor, musí být před tím řádně svázán s poskytovatelem",
+   "vytvoreno": "2026-11-19T06:41:25.110Z",
+   "upraveno": "2026-11-19T06:41:25.110Z"
+  },
+  {
+   "id": "v-mwn6r050sbd7",
+   "predpis": "2021/325",
+   "klic": "par_12",
+   "citace": "§ 12",
+   "zneni": "2026-04-01",
+   "text": "Pacient a třetí osoba přistupují k Integrovanému datovému rozhraní pomocí vzdáleného přístupu s využitím elektronické identifikace podle zákona o elektronické identifikaci⁶⁾ prostřednictvím Portálu elektronického zdravotnictví.\nPacient a třetí osoba jsou v souvislosti s využitím Integrovaného datového rozhraní povinni prokázat svoji totožnost.",
+   "nazev": "Přístup pacienta a dalších osob k IDRR",
+   "skupiny": [
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "Jen pozor na to, že toto neplatí v případě orgánů veřejné moci, které i v tomto případě povinně postupují výhradně podle zákona o základních registrech a tedy propojeným datovým fondem.",
+   "vytvoreno": "2026-11-19T06:45:04.500Z",
+   "upraveno": "2026-11-19T06:45:04.500Z"
+  },
+  {
+   "id": "v-mwn6svat3l4f",
+   "predpis": "2021/325",
+   "klic": "par_13",
+   "citace": "§ 13",
+   "zneni": "2026-04-01",
+   "text": "Identifikátor zdravotnického pracovníka přiděluje ministerstvo při zápisu zdravotnického pracovníka do Kmenového registru zdravotnických pracovníků.\nIdentifikátor pacienta přiděluje ministerstvo při zápisu pacienta do Kmenového registru pacientů.\nKaždý zdravotnický pracovník je identifikován pouze jedním identifikátorem zdravotnického pracovníka. Každý pacient je identifikován pouze jedním identifikátorem pacienta. Identifikátor zdravotnického pracovníka nesmí být shodný s identifikátorem pacienta.\nIdentifikátor zdravotnického pracovníka a identifikátor pacienta nelze po přidělení měnit, pokud tento zákon nestanoví jinak.",
+   "nazev": "Identifikátory přidělují kmenové registry",
+   "skupiny": [
+    "s-mvwme85hjoq8",
+    "s-mvwp7jn4d9yp"
+   ],
+   "poznamka": "",
+   "vytvoreno": "2026-11-19T06:46:31.541Z",
+   "upraveno": "2026-11-19T06:46:31.541Z"
   }
  ],
  "skupinyKomentaru": [
@@ -958,7 +1239,8 @@
    "textUst": "",
    "text": "Tato úprava je významně měněna zákonem č. 240/2024 Sb. Při přepracovávání textu došlo k určitému zmatku v číslování uvnitř jednotlivých hlav, avšak zásadní je nové znění, které tato novela přináší.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -972,7 +1254,8 @@
    "textUst": "Zdravotnická dokumentace je soubor informací vedených, zpracovávaných a uchovávaných poskytovatelem za účelem poskytování zdravotních služeb konkrétnímu pacientovi, a to bez ohledu na to, zda byly získány od pacienta, od jiného poskytovatele nebo jiných osob nebo vlastní činností poskytovatele.",
    "text": "Nová definice zdravotnické dokumentace představuje zásadní změnu, která redefinuje pojem „dokumentace“ tak, že se primárně zaměřuje na samotné informace, nikoliv na jejich formu. Způsoby vedení a formy dokumentace jsou podrobněji upraveny v dalších částech. Klíčovým aspektem této změny je, že povinnosti se nyní vztahují především na obsahovou stránku dokumentace. V elektronické podobě jde o naprostý definiční i praktický přelom, zatímco v listinné formě se zachovává důraz na fyzické dokumenty obsahující informace.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -986,7 +1269,8 @@
    "textUst": "V rámci zpracování osobních údajů ve zdravotnické dokumentaci lze využívat rodné číslo pacienta.",
    "text": "Je nutné dávat pozor na toto ustanovení a jeho faktický význam. Využívání rodného čísla je zde zmíněno v rámci zpracování osobních údajů a to především za účelem zpětné kompatibility s vedením zdravotnické dokumentace před nástupem povinností podle zákona č. 325/2021 Sb., o elektronizaci zdravotnictví. Ten totiž ukládá poskytovatelům využívat údaje z kmenových registrů a především využívat jako identifikátor pacienta právě kmenový identifikátor pacienta ze Kmenového registru pacientů jako centrálního autoritativního systému. Aby bylo možné párování dokumentace obsahující rodné číslo s identitou pacienta na základě jeho kmenového identifikátoru, je zde toto ustanovení. Rozhodně to neznamená, že má být rodné číslo primárním či snad dokonce jediným identifikátorem pacienta. Navíc rodné číslo se nebude využívat při výměně zdravotnické dokumentace a elektronických zdravotních záznamů (EHR) uvnitř ČR mezi poskytovateli. I tam se totiž využije kmenový identifikátor pacienta a jeho údaje ze Kmenového registru pacientů.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1000,7 +1284,8 @@
    "textUst": "Poskytovatel je povinen vést, zpracovávat a uchovávat zdravotnickou dokumentaci, nejde-li o poskytování lékárenské péče v lékárně, poskytování zdravotních výkonů v rámci preventivní péče mimo zdravotnické zařízení podle § 11a s výjimkou očkování, zdravotních služeb alespoň částečně hrazených z veřejného zdravotního pojištění.",
    "text": "V tomto paragrafu se obecně ukládá povinnost ke zdravotnické dokumentaci. Uvedené výjimky nejsou z faktického hlediska zajímavé. Je nutno si uvědomit, že každý poskytovatel musí řešit veškerou zdravotnickou dokumentaci u jeho pacientů včetně podrobností uvedených dále v zákoně a také včetně podrobností uvedených v zákoně č. 325/2021 Sb., o elektronizaci zdravotnictví.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1014,7 +1299,8 @@
    "textUst": "Poskytovatel je povinen vést, zpracovávat a uchovávat zdravotnickou dokumentaci, nejde-li o poskytování lékárenské péče v lékárně,",
    "text": "Zde je třeba dbát na absolutní pochopení. Toto se týká pouze poskytování služeb v lékárně, tedy nikoliv třeba vydávání předepsaných léčiv v rámci poskytovatele pro ambulantní či lůžkovou péči. Toto ustanovení je takto zahrnuto proto, že evidenci související s výdejem předepsaného léčiva v lékárně upravuje jiný právní předpis. Vedení těchto informací jako součást zdravotnické dokumentace, která se vztahuje na zákazníka lékárny jako pacienta, by tedy bylo duplicitní a postrádalo by smysl.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1028,7 +1314,8 @@
    "textUst": "Zdravotnická dokumentace je vedena v podobě listinné, elektronické nebo v kombinaci obou těchto podob.",
    "text": "V předchozích ustanoveních byla zavedena obecná definice zdravotnické dokumentace. Zde navazuje řešení její formy. Na listinnou i elektronickou formu se sice obecně pohlíží stejně, avšak povinnosti a zejména technické způsoby vedení dokumentace v těchto formách jsou odlišné. Platí ale, že lze obě formy kombinovat, přičemž do jaké míry je to vhodné a efektivní je ponecháno na poskytovateli. Obecně platí v souladu se zákonem č. 325/2021 Sb., o elektronizaci zdravotnictví, že se vede zdravotnická dokumentace v elektronické podobě a především se v některých případech v elektronické podobě sdílí a vyměňuje. Ovšem je nesmysl chtít a očekávat, že dojde k digitalizaci dosud listinné dokumentace, což nedává smysl a hlavně je to často nerealizovatelné. Je třeba si uvědomit, že pokud poskytovatel přistoupí k digitalizaci dosavadní listinné formy do elektronické zdravotnické dokumentace, nejde jen o prosté skenování a digitalizaci, ale zejména o převod obsahu do záznamů zdravotnické dokumentace v elektronické podobě podle příslušných standardů vyhlášených ministerstvem, respektive Národním centrem pro elektronizaci zdravotnictví. To v naprosté většině nedává smysl, proto je zde i přes elektronizaci zachována možnost vést dokumentaci kombinovaně v obou formách.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1042,7 +1329,8 @@
    "textUst": "Zdravotnická dokumentace musí být vedena a zpracovávána průkazně, pravdivě, srozumitelně a čitelně.",
    "text": "Tohle není pouze rétorické cvičení. Poskytovatel se může velice snadno dostat do situace, kdy toto bude muset prokazovat a zodpovídat se z toho. Toto je obecná povinnost stanovující základní požadavky na bezpečnost a důvěryhodnost dokumentace. Opět platí, že pro každou formu vedení dokumentace je jejich řešení odlišné. U elektronické formy jde o požadavky na informační systém, které jsou specifikovány dále. U listinné podoby jde o faktickou autorizaci pravdivosti a úplnosti dokumentace v čase, což je uvedeno také dále. Navíc v listinné podobě pochopitelně musí být zajištěna i fyzická bezpečnost ukládání a nakládání s dokumentací, což díky technickým požadavkům na systém u elektronické formy odpadá.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1056,7 +1344,8 @@
    "textUst": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.\nPoskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.\nPoskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.\nPoskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.\nOpravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
    "text": "Zavádí se nový mechanismus ověření existence a obsahu zdravotnické dokumentace v čase, kterým je takzvaná autorizace záznamu. Opět je nutno připomenout, že nejde o autorizaci dokumentu v minulém pojetí dokumentace jako sady dokumentů, ale jedná se o autorizaci záznamu jako základní jednotky vedení zdravotnické dokumentace. Pro listinnou i elektronickou formu jsou v jednotlivých odstavcích uvedené podrobnosti autorizace, čímž se významně modernizuje faktické naplnění prověření průkaznosti obsahu dokumentace. I zde je v elektronické formě běžná autorizace snazší, složitější je následně při vytváření výstupu z dokumentace a to zejména pro výměnu s jiným poskytovatelem, či pacientem. U listinné formy se mění jedna zásadní věc, a to je autorizace nad každým záznamem, nikoliv nad dokumentem. To souvisí s tím, že nové pojetí dokumentace nevyžaduje pro každou věc tisknout samostatné dokumenty a těmi se pak zabývat. Jelikož více záznamů může být součástí listinného dokumentu a výstupu, řeší se autorizace tak, aby se v případě více obsahových záznamů nemusely rozdělovat do dokumentů a mohly se i v listinné podobě vést průběžně a kontinuálně. Pozor ale na to, kdy je autorizace nutná. Zjednodušeně řečeno u listinné formy je nutná vždy, zatímco u elektronické formy jen tehdy, opouští-li poskytovatele.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1070,7 +1359,8 @@
    "textUst": "Každý záznam do zdravotnické dokumentace vedené v elektronické podobě musí být opatřen identifikátorem záznamu, který je vždy unikátní a je ve formátu stanoveném standardem elektronického zdravotnictví vydaným podle zákona o elektronizaci zdravotnictví.",
    "text": "Toto se týká pouze záznamů v elektronické zdravotnické dokumentaci (EZD) a nikoliv listinné formy, byť na listinném ztvárnění záznamu z EZD by měl být identifikátor také uveden. Poskytovatel musí v systému zavést službu opatření záznamu jednoznačným identifikátorem, který se bude skládat z identifikace poskytovatele, identifikace typu záznamu a identifikace daného záznamu. Technické podrobnopsti pro skládání kódů identifikátoru bude stanovovat příslušný standard NCEZ, podle kterého bude muset poskytovatel zajistit fungování ve svém systému. Bude také nutné tento identifikátor použít při výměně elektronické zdravotnické dokumentace a elektronického záznamu EHR podle zákona č .325/2021 Sb., o elektronizaci zdravotnictví.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1084,7 +1374,8 @@
    "textUst": "Poskytovatel jednotlivé záznamy ve zdravotnické dokumentaci autorizuje.",
    "text": "Zde je uvedena obecná povinnost autorizace pro listinné i elektronické záznamy. Další odstavce pak určují podrobnosti podle formy záznamu.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1098,7 +1389,8 @@
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v listinné podobě nebo její části vedené v listinné podobě autorizuje tak, že je opatří uvedením data a času provedení záznamu, podpisem zdravotnického pracovníka nebo jiného odborného pracovníka, který zdravotní službu poskytl a svým podpisem potvrdil správnost záznamu, a uvedením jeho jména, popřípadě jmen, a příjmení.",
    "text": "Pokud je záznam veden v listinné podobě a je jedno zda například v sešitu, v příslušném archu a nebo na papírovém samostatném dokumentu, musí být autorizován vhodnými prostředky. V tomto případě musí být autorizován identifikací poskytovatele, identifikací času, identifikací konkrétního pracovníka a jeho podpisem. Oproti předchozímu stavu se nic nemění, kromě postupů souvisejících s tím, že na jednom fyzickém dokumentu či nosiči může být více záznamů.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1112,7 +1404,8 @@
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.",
    "text": "Toto ustanovení určuje, jak se provádí autorizace záznamu, respektive výstupu z elektronické zdravotnické dokumentace. Nově se tedy tímto způsobem neautorizují všechny uchovávané záznamy v informačním systému, což je rozebráno dále, ale jen výstupy. Výstupem se rozumí záznam zdravotnické dokumentace, nebo část zdravotnické dokumentace, tj. může obsahovat více záznamů, kterou poskytovatel předává jakékoliv jiné osobě. Je jedno, zda ji v rámci výměny dokumentace podle zákona č. 325/2021 Sb., o elektronizaci zdravotnictví předává jinému poskytovateli, nebo ji třeba předává samotnému pacientovi. Technicky jde o autorizaci obdobným způsobem, jako při validaci digitálního dokumentu podle zákona č. 250/2017 Sb., tedy využití příslušných elektronických validačních prvků, jako je podpis, pečeť poskytovatele a časové razítko. Rozdíl je pouze v povinném využívání validačních prvků vystavených Ministerstvem zdravotnictví v rámci služeb elektronické identifikace poskytovatelů a pracovníků IDRREID.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1126,7 +1419,8 @@
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným časovým elektronickým razítkem a zaručenou elektronickou pečetí založenou na certifikátu pro elektronickou pečeť vydaném ministerstvem nebo uznávanou elektronickou pečetí poskytovatele, nebo",
    "text": "Toto nastává v případě autorizace poskytovatelem.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1140,7 +1434,8 @@
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které předává jiné osobě, autorizuje tak, že je opatří resortním elektronickým časovým razítkem nebo kvalifikovaným elektronickým časovým razítkem a zaručeným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, založeným na certifikátu pro elektronický podpis vydaném ministerstvem obsahujícím identifikaci poskytovatele, nebo uznávaným elektronickým podpisem zdravotnického pracovníka, který je vyhotovil, pokud je podpis založen na kvalifikovaném certifikátu pro elektronický podpis obsahujícím identifikaci poskytovatele.",
    "text": "Toto nastává v případě autorizace zdravotnickým pracovníkem jménem poskytovatele.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1154,7 +1449,8 @@
    "textUst": "Poskytovatel záznamy ve zdravotnické dokumentaci vedené v elektronické podobě nebo její části vedené v elektronické podobě, které nepředává jiné osobě, autorizuje způsobem určeným tímto poskytovatelem, který zajišťuje, že z autorizace lze určit, která osoba potvrdila jeho správnost, a to s uvedením data a času provedení tohoto záznamu.",
    "text": "Zde se jedná o nejzásadnější a největší změnu k vedení elektronické zdravotnické dokumentace. U záznamů zdravotnické dokumentace, jež nejsou (nebo zatím nejsou) výstupem z dokumentace a nejsou tedy předávány mimo poskytovatele, poskytovatel tyto záznamy uchovává v informačním systému a tento systém zaručí jejich důvěryhodnost vlastní autorizací. Technické řešení je tedy na poskytovateli. Samozřejmě ale musí splňovat požadavky uvedené v tomto zákoně a v zákoně č. 325/2021 Sb., o elektronizaci zdravotnictví. Důležité je, že záznamy se nemusí ukládat do digitálních dokumentů, které se pak nemusí podepisovat a opatřovat validačními prvky. To se děje až v tu chvíli, kdy se vytváří výstup, který se dále předává, o čemž hovoří předchozí odstavec. Očekává se, že informační systém bude udržovat sebetransakčnost a důvěryhodnost vlastních záznamů a jejich obsahu, o čemž se pak ještě hovoří dále v zákoně. Nejde jen o technickou důvěryhodnost, tedy transakčnost záznamu, ale také o autorizaci z pohledu zhotovitele daného záznamu, tedy konkrétního pracovníka. Toto znamená, že systém bude muset udržovat u každého záznamu také metadata o tom, kdy a kdo jej vytvořil. Vzhledem k tomu, že záznam nelze nikdy upravit a ani smazat, viz ustanovení dalšího odstavce o opravách záznamů, musí být zajištěno vedení metadat o vytvoření, a to včetně identifikace konkrétního pracovníka jednorázově při uložení záznamu. Co se týče identifikace zdravotnického pracovníka, je třeba dbát i na povinnosti uvedené v zákoně č. 325/2021 Sb., o elektronizaci zdravotnictví, a proto je nutné využít jako identifikátor kmenový identifikátor zdravotnického pracovníka z Kmenového registru zdravotnických pracovníků. Jde tedy o technické a funní požadavky kladené na samotný informační systém.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1168,7 +1464,8 @@
    "textUst": "Poskytovatel není povinen autorizovat záznam ve zdravotnické dokumentaci, který je vytvořen automatizovaně zdravotnickým prostředkem nebo jiným přístrojem, pokud z takového záznamu nebo k němu připojené informace je zřejmé, že byl vytvořen zdravotnickým prostředkem nebo jiným přístrojem a v jakém datu a čase byl vytvořen.",
    "text": "Věcné jádro autorizace záznamu je vazba záznamu na jeho zhotovitele, tedy na konkrétního zdravotnického pracovníka, přestože jedná jménem poskytovatele. U automatizovaných záznamů taková vazba logicky nemůže existovat, a proto u nich není prováděna autorizace. To neznamerná, že by informační systém nezajišťoval bezpečnost, důvěryhodnost a transakčnost daného záznamu, pouze se v rámci jeho autorizace nepřipojí metadata o jeho zhotoviteli.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1182,7 +1479,8 @@
    "textUst": "Opravy a doplnění autorizovaného záznamu se provádí novým záznamem a musí se provádět tak, aby bylo možné zjistit obsah záznamu před opravou nebo doplněním. V doplnění nebo opravě záznamu ve zdravotnické dokumentaci na žádost pacienta se uvede poznámka, že jde o opravu nebo doplnění na žádost pacienta.",
    "text": "V elektronické podobě je jednou zaevidovaný záznam neměnný, a to za žádných okolností. Jeho metadata založená na identifikátoru záznamu jsou jedinečná, jediná a neměnná. Je-li potřeba opravy, či dokonce zrušení daného záznamu, provede se to v informačním systému novým záznamem, který je technicky svázán s původním záznamem. Systém pak rozlišuje, kdy je platný nový záznam a kdy naopak poskytne celou historii změn včetně původního záznamu. Při zápisu nového záznamu je nutné také zapsat stav před opravou a nesmí se zapomenout na vazbu přes identifikátor na původní záznam. Jinak zde platí vše, co u jakéhokoliv jiného záznamu.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1196,7 +1494,8 @@
    "textUst": "Zpracovává-li poskytovatel údaje ze zdravotnické dokumentace pro účely vědy a výzkumu, anonymizuje je tak, aby nebyla seznatelná identita pacienta. Takto vzniklé informace se nepovažují za zdravotnickou dokumentaci.",
    "text": "Narozdíl od pseudonymizace při vedení a předávání zdravotnické dokumentace, která je zajištěna vazbou na kmenový identifikátor pacienta, se při využívání údajů k jiným účelům provede jejich anonymizace. O tu se opět stará daný informační systém a bude u toho muset splnit příslušné technické požadavky. Anonymizace musí být taková, aby nebylo možné zpětné svázání s konkrétním pacientem či záznamem. Tedy kupříkladu nepostačí pouze anonymizace údajů o pacientovi, ale například se musí anonymizovat i jednoznačný identifikátor záznamu, aby anonymizovaná data nebylo nikdy možno zpětně přiřadit k existujícím záznamům vedeným v informačním systému poskytovatele.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1210,7 +1509,8 @@
    "textUst": "Informační systém, ve kterém je vedena zdravotnická dokumentace v elektronické podobě, musí umožnit převedení zdravotnické dokumentace do výstupního datového formátu stanoveného standardem elektronického zdravotnictví podle zákona o elektronizaci zdravotnictví.",
    "text": "Zejména pro účely předávání zdravotnické dokumentace (výstupu ze zdravotnické dokumentace) musí být umožněno si vyměňovat zdravotnickou dokumentaci v elektronické podobě v takovém standardizovaném formátu a rozsahu, aby s ní bylo možno u příjemce nadále pracovat. Příkladem je výměna s využitím výměnného formátu DASTA nebo závazné datové věty jednotlivých druhů elektronických zdravotnických záznamů (EHR). Informační systém poskytovatele musí při tvorbě výstupu zdravotnické dokumentace vygenerovat záznamy v těchto datových formátech a strukturách a nesmí se přitom zapomenout na autorizaci takových záznamů jako výstupů dle předchozích ustanovení. Výstupní formáty budou stanoveny jednotlivými standardy a budou závazné i při výměně dokumentace mezi poskytovateli a v některých případech i při výměně údajů s poskytovateli v rámci EU.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1224,7 +1524,8 @@
    "textUst": "Poskytovatel je povinen zpracovat písemná pravidla pro zpracování zdravotnické dokumentace, jejichž součástí jsou vhodná technická a organizační opatření, aby zajistil a byl schopen doložit, že zpracování zdravotnické dokumentace je prováděno podle tohoto zákona a je v souladu s ochranou osobních údajů podle jiných právních předpisů.",
    "text": "Každý poskytovatel je povinen mít dokumentaci s pravidly, která řeší technické požadavky na informační systém. Některé požadavky jsou obecné, například důvěryhodnost a bezpečnost, některé jsou podmíněně závazné, například formy autorizace, a některé jsou závazné, jako například dodržování požadavků stanovených ve standardech Národního centra pro elektronizaci zdravotnictví. S těmi všemi se musí prokazatelným způsobem poskytovatel vypořádat, a to právě v těchto pravidlech. V některých případech budou tato pravidla nebo jejich části podléhat také vyjádření útvaru hlavního architekta eHealt, tedy Národnímu centru pro elektronizaci zdravotnictví.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1238,7 +1539,8 @@
    "textUst": "V případě zdravotnické dokumentace vedené v elektronické podobě se zdravotnická dokumentace převede do listinné podoby a postupuje se podle odstavce 2; současně se elektronická podoba zdravotnické dokumentace odstraní z informačního systému.",
    "text": "Toto je nesystémový a velice specifický případ pro vedení elektronické zdravotnické dokumentace. Musí být dodrženy všechny povinnosti a požadavky na vedení elektronické zdravotnické dokumentace. Takže poskytovatel po převodu takové dokumentace do listinné podoby v systému automatizovaně provede úpravu stávajících záznamů, a to tak, aby nebylo možno jejich obsah svázaný s pacientkou zpětně zrekonstruovat. Samozřejmě o takovém kroku, a to bez předchozího stavu, musí být v systému učiněn záznam. Zákon hovoří o odstranění údajů, ale technicky se realizuje jejich smazáním a nahrazením automatizovanými informacemi o jejich shreddingu, což řeší také daný informační systém.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-10-29T08:16:46.409Z",
    "upraveno": "2026-10-29T08:16:46.409Z"
@@ -1252,10 +1554,346 @@
    "textUst": "Zdravotnická dokumentace o utajeném porodu podle § 37 je vedena v rozsahu zdravotních služeb souvisejících s těhotenstvím a utajeným porodem. Odděleně od zdravotnické dokumentace je vedeno jméno, popřípadě jména, příjmení ženy, které jsou poskytovány v souvislosti s těhotenstvím a utajeným porodem zdravotní služby, písemná žádost o utajení porodu, datum narození ženy a datum porodu.\nPo ukončení hospitalizace ženy, která utajeně porodila, poskytovatel doplní zdravotnickou dokumentaci o údaje uvedené v odstavci 1, vloží ji do vhodného obalu, který zapečetí a označí bezpečnostním kódem, který bude předán též pacientce. Otevření takto zapečetěné zdravotnické dokumentace je možné jedině na základě rozhodnutí soudu; to neplatí, požádá-li o otevření zdravotnické dokumentace žena, která utajeně porodila.\nV případě zdravotnické dokumentace vedené v elektronické podobě se zdravotnická dokumentace převede do listinné podoby a postupuje se podle odstavce 2; současně se elektronická podoba zdravotnické dokumentace odstraní z informačního systému.",
    "text": "Tohle je naprosto správná myšlenka, nicméně principielně to trochu koliduje s principy důvěryhodnosti a zachovatelnosti vedení elektronické zdravotnické dokumentace, na což teoreticky v rámci utajených porodů narazíte a v tuto chvíli to nemá příliš jednoduché řešení.",
    "skupiny": [
-    "sk-diginemocnice-372-2011"
+    "sk-diginemocnice-372-2011",
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
    ],
    "vytvoreno": "2026-11-01T08:05:54.407Z",
    "upraveno": "2026-11-01T08:05:54.407Z"
+  },
+  {
+   "id": "k-mvi2alz3cvvz",
+   "predpis": "2020/12",
+   "klic": "par_4/odst_1/pism_d",
+   "citace": "§ 4 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "textUst": "(1) Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím\n  d) informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "text": "Tím se myslí třeba portály, federované portály, frontend agendových informačních systémů určený pro klienty, ale i mobilní aplikace sloužící jako část ISVS pro klientské úkony a činnosti. Důležité správního filozofického hlediska je, že vždy se to realizuje alespoň prostřednictvím portálu občana, který je součástí portálu veřejné zprávy. To je důležité i v souvislosti s ostatními ustanovením tohoto zákona.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:01:47.967Z",
+   "upraveno": "2026-10-29T11:56:44.265Z"
+  },
+  {
+   "id": "k-mvi2lxfdyo0k",
+   "predpis": "2020/12",
+   "klic": "par_4/odst_1/pism_d",
+   "citace": "§ 4 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "textUst": "(1) Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím\n  d) informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "text": "Pro celý předpis platí, že portál rovná se informační systém veřejné správy podle tohoto ustanovení. Portál musí splňovat a přes portál či aplikaci se to realizuje dle tohoto písmene jako jedna z cest.",
+   "skupiny": [
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:10:36.025Z",
+   "upraveno": "2026-10-21T12:10:36.025Z"
+  },
+  {
+   "id": "k-mvi2tk1thoak",
+   "predpis": "2020/12",
+   "klic": "par_2a",
+   "citace": "§ 2a",
+   "zneni": "2025-11-01",
+   "textUst": "§ 2a Digitální a informační agentura\n  (1) Zřizuje se Digitální a informační agentura (dále jen „Agentura“) se sídlem v Praze.\n  (2) Agentura je ústředním správním úřadem pro elektronickou identifikaci a služby vytvářející důvěru a pro informační systémy veřejné správy.\n  (3) Agentura\n    a) plní koordinační úlohu v oblasti digitálních služeb a digitálních úkonů podle tohoto zákona,\n    b) plní koordinační úlohu pro informační technologie,\n    c) plní koordinační úlohu v oblasti evidence a sdílení dat,\n    d) zajišťuje systém podpory centrálních způsobů komunikace veřejné správy,\n    e) zajišťuje odborný rozvoj, školení, sdílení znalostí, osvětu a vzdělávání v oblasti své působnosti,\n    f) provozuje kompetenční centra.\n  (4) V čele Agentury je ředitel, kterého jmenuje a odvolává vláda na návrh člena vlády stojícího v čele Rady vlády pro informační společnost. Ředitel se považuje za služební orgán podle zákona o státní službě.\n  (5) Ředitel Agentury je oprávněn dávat státnímu zaměstnanci zařazenému k výkonu státní služby v Agentuře příkazy k výkonu státní služby podle zákona o státní službě.",
+   "text": "Tohle celé ustanovení nesouvisí s poskytováním digitálních služeb a je v zákoně vloženo jako věcně nekoncepční. Pro oblast EG a služeb ho tedy ignoruj, věcně ho pokud budeš potřebovat vědět vše o DIA přidruž k zákonu 365/2000.",
+   "skupiny": [
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:16:31.937Z",
+   "upraveno": "2026-10-21T12:16:31.937Z"
+  },
+  {
+   "id": "k-mvi2ykzge9vq",
+   "predpis": "2020/12",
+   "klic": "par_14/odst_3",
+   "citace": "§ 14 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "(3) Územní samosprávný celek při výkonu samostatné působnosti má právo, nikoli povinnost poskytovat digitální služby podle tohoto zákona.",
+   "text": "Ale pozor, je důležité si toto ustanovení přečíst pečlivě. Jde výhradně o digitální služby podle tohoto zákona (tedy o žádnou jinou jinak závaznou formu digitální komunikace a poskytování služeb) a výhradně pro služby výkonu samosprávy respektive v samostatné působnosti. Všechna ostatní ustanovení tohoto zákona se i na ně vztahují v plném rozsahu, stejně jako všechna ostatní ustanovení dalších EG zákonů.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:20:26.428Z",
+   "upraveno": "2026-10-21T12:20:26.428Z"
+  },
+  {
+   "id": "k-mvi30hck6fq0",
+   "predpis": "2020/12",
+   "klic": "par_14/odst_3",
+   "citace": "§ 14 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "(3) Územní samosprávný celek při výkonu samostatné působnosti má právo, nikoli povinnost poskytovat digitální služby podle tohoto zákona.",
+   "text": "Tohle věcně ignoruj, respektive jediné kde si výjimku uplatíš je samotná povinnost podle § 3 a 4, ostatní se plně vztahují a celý rozsah se plně vztahuje na činnosti a úkony v přenesené působnosti.",
+   "skupiny": [
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:21:55.028Z",
+   "upraveno": "2026-10-21T12:21:55.028Z"
+  },
+  {
+   "id": "k-mvi353c460af",
+   "predpis": "2020/12",
+   "klic": "par_14/odst_8",
+   "citace": "§ 14 odst. 8",
+   "zneni": "2025-11-01",
+   "textUst": "(8) Poskytování digitálních služeb je společným cílem všech orgánů veřejné moci, směřujícím k zajišťování veřejných potřeb.",
+   "text": "Tohle není jen prázdná proklamace. Každý, kdo by takový cíl konkrétně porušoval, může být postihován dle jiných právních předpisů a to i zcela konkrétně například v rámci zákona o ISVS apod. Zcela zásadní je splnění této obecné povinnosti i při obecněji zaměřených kontrolách kontrolních orgánů a NKÚ.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:25:30.148Z",
+   "upraveno": "2026-10-21T12:25:30.148Z"
+  },
+  {
+   "id": "k-mvi3b19nim2t",
+   "predpis": "2020/12",
+   "klic": "par_6",
+   "citace": "§ 6",
+   "zneni": "2025-11-01",
+   "textUst": "§ 6 Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu\n  (1) Stanoví-li právní předpis požadavek úředního ověření vlastnoručního podpisu nebo uznávaného elektronického podpisu, považuje se za splněný využitím elektronického podpisu na dokumentu nedílně spojeném\n    a) s kvalifikovaným elektronickým podpisem osoby oprávněné provádět ověřování pravosti podpisu, která postupem podle jiného právního předpisu8) ověřila, že podepisující dokument před ní podepsal nebo uznal podpis za vlastní, a kvalifikovaným elektronickým časovým razítkem, nebo\n    b) se záznamem informačního systému veřejné správy opatřeným kvalifikovanou elektronickou pečetí a kvalifikovaným elektronickým časovým razítkem jeho správce o provedení elektronické identifikace podepisujícího prostřednictvím kvalifikovaného systému elektronické identifikace s úrovní záruky vysoká.\n  (2) Stanoví-li právní předpis požadavek úředního ověření podpisu, považuje se za splněný využitím uznávaného elektronického podpisu, pokud lze s využitím údajů základního registru obyvatel (dále jen „registr obyvatel“) nebo portálu veřejné správy ověřit, že kvalifikovaný certifikát pro elektronický podpis, na jehož základě podepisující vytvořil uznávaný elektronický podpis na dokumentu, patří podepisujícímu.\n  (3) Ustanovení § 6 odst. 1 písm. b) a § 6 odst. 2 se nepoužijí pro plnou moc k právnímu jednání podle § 441 odst. 2 poslední věty občanského zákoníku.",
+   "text": "Nezapomínat ani na ustanovení § 8 Zákon č. 365/2000 Sb., o informačních systémech veřejné správy, které toto obecné ustanovení doplňuje o konkrétní technicko-právní realizaci v rámci ISVS.",
+   "skupiny": [
+    "sk-mvi2alz38wrl",
+    "sk-mvi2lxfdt078"
+   ],
+   "vytvoreno": "2026-10-21T12:30:07.403Z",
+   "upraveno": "2026-10-21T12:30:07.403Z"
+  },
+  {
+   "id": "k-mvi3dgpzeb6d",
+   "predpis": "2020/12",
+   "klic": "par_6/odst_3",
+   "citace": "§ 6 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "(3) Ustanovení § 6 odst. 1 písm. b) a § 6 odst. 2 se nepoužijí pro plnou moc k právnímu jednání podle § 441 odst. 2 poslední věty občanského zákoníku.",
+   "text": "Pozor, zajímavá je souvislost s využitím údajů z Registru zastupování a to i ve formě zavedení údajů o zmocnění a oprávnění plynoucích z plné moci.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:32:00.743Z",
+   "upraveno": "2026-10-21T12:32:00.743Z"
+  },
+  {
+   "id": "k-mvi417mmkdmx",
+   "predpis": "2016/134",
+   "klic": "par_211/odst_7",
+   "citace": "§ 211 odst. 7",
+   "zneni": "2025-04-03",
+   "textUst": "(7) Na komunikaci mezi zadavatelem a dodavatelem při zadávání veřejné zakázky se § 5 a 6 zákona o službách vytvářejících důvěru pro elektronické transakce neuplatní. Úkon učiněný prostřednictvím elektronického nástroje nebo datové schránky se považuje za podepsaný.",
+   "text": "To také znamená, že zadavatel toto nesmí požadovat a nepřihlíží k tomu a nepřipouští a to na obecné úrovni, což často zadavatel porušuje a tím dochází k porušení zákona i k porušování práv uchazečů a dodavatele.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T12:50:28.702Z",
+   "upraveno": "2026-10-21T12:50:28.702Z"
+  },
+  {
+   "id": "k-mvi4hwuo026j",
+   "predpis": "2004/499",
+   "klic": "par_65/odst_8",
+   "citace": "§ 65 odst. 8",
+   "zneni": "2025-01-01",
+   "textUst": "(8) Veřejnoprávní původci mohou ve svých spisových řádech upravit používání zvláštních technologických prostředků, kterými lze výlučně pro potřeby příslušného původce nahradit elektronický podpis, elektronickou pečeť, elektronické časové razítko nebo jiný elektronický prostředek obdobného účelu; tyto zvláštní technologické prostředky musí umožnit zjištění jakékoli následné změny dat v dokumentu a jednoznačně ověřit identitu osoby, která je k němu připojila.",
+   "text": "Takovým elektronickým prostředkem může být také informační systém, který splňuje základní znaky důvěryhodnosti podle občanského zákonníku i podle tohoto ustanovení a podle dalších zákonů, například podle zákona o finanční kontrole a tak dále. Každý takový informační systém nebo nástroj musí splňovat všechny tři aspekty uvedené ve větě druhé tohoto ustanovení a tedy musí umožňovat, Nespochybnitelnou identifikaci konkrétního uživatele, respektive fyzické osoby A okamžik, ve kterém došlo k nějaké akci, která by jinak byla stvrzená Například elektronickým podpisem nebo elektronickou pečetí, A také to, že data, na základě kterých tato akce byla učiněna, nebyla změněna. To neznamená, že se data nemohla později změnit, Ale že musí být jasně vyznačené, k jakému stavu dat A k jakému okamžiku k takové akci došlo. Stručně se tomu říká interní schvalování, Kdy mechanismus interního schvalování je vystavěn na důvěře v informační systém, Ve kterém je zaznamenán protokol o příslušném schvalování. Ať už se to jedná o schvalování formou paralelního či sériového workflowu, Nebo o jednorázové schvalování, Takzvaným tlačítkem schvaluji v uživatelském rozhraní informačního systému. Pokud jsou splněny všechny tři aspekty uvedené v tomto ustanovení, Je toto při nejmenším stejně důvěryhodné, Ale v rámci čtení jiných právních předpisů možná i důvěryhodnější Než využití elektronického podpisu. \n\nJe třeba si také uvědomit, že elektronický podpis a elektronická pečeč se musí využívat pro účely, pro které byly jednak zamýšleny zákonodárcem v jist nařízení EIDAS a jednak pro účely, pro které byly vydány jako prostředky pro takový podpis. A to interní schvalování není, neboť se tím nejedná jménem celé organizace veřejnoprávního původce, ale pouze jménem konkrétní fyzické osoby v nějaké roli. Z kombinací těchto aspektů plyne, že pro interní schvalování se elektronický podpis využívat nemá A nastupují technické prostředky, kterými jsou informační systémy splňující aspekty uvedené v tomto ustanovení zákona.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-21T13:03:27.888Z",
+   "upraveno": "2026-10-21T13:03:27.888Z"
+  },
+  {
+   "id": "k-mvpfx38gbti4",
+   "predpis": "2009/111",
+   "klic": "par_8/odst_5",
+   "citace": "§ 8 odst. 5",
+   "zneni": "2026-01-01",
+   "textUst": "(5) Správce agendového informačního systému používá vlastní identifikátory fyzických osob a právnických osob a za účelem komunikace s informačním systémem základních registrů nebo informačním systémem sdílené služby používá agendové identifikátory fyzických osob a identifikátory právnických osob vedené v registru osob.",
+   "text": "Vlastní identifikátor je persistentní k subjekti i napříč různými systémy správce, zatímco AIFO je persistentní napříč agendou a subjektem právě a jen pro jednu agendu.",
+   "skupiny": [
+    "sk-mvi2alz38wrl",
+    "sk-mvpfx38fmi0t"
+   ],
+   "vytvoreno": "2026-10-26T15:57:35.007Z",
+   "upraveno": "2026-10-26T15:57:35.007Z"
+  },
+  {
+   "id": "k-mvthtg1qohsh",
+   "predpis": "2020/12",
+   "klic": "par_4/odst_6",
+   "citace": "§ 4 odst. 6",
+   "zneni": "2025-11-01",
+   "textUst": "Vyhodnotí-li orgán veřejné moci po posouzení podmínek podle odstavce 5, že by mu umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo nepřiměřenou zátěž, zašle Agentuře žádost o vyjádření k tomuto závěru. V případě souhlasného vyjádření Agentury orgán veřejné moci vyznačí závěr v katalogu služeb. V případě nesouhlasného vyjádření Agentury a pokud orgán veřejné moci na závěru trvá, rozhodne o tom, zda by umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo orgánu veřejné moci nepřiměřenou zátěž, vláda.",
+   "text": "Tohle je takové zmateně ustanovení. Tady se jedná ve skutečnosti o to, zda nepřiměřená zátěž se týká konkrétního agendového informačního systému veřejné zprávy. Tedy zda se bude realizovat nějaké klientské portálové rozhraní tohoto systému. Ale ono je to vlastně úplně jedno, protože vždy se služba či úkon realizuje alespoň formulářem v rámci portálu občana tedy v rámci portálu veřejné zprávy, který ustanovení o realizaci prostřednictvím informačního systému veřejné zprávy samozřejmě také splňuje. Takže vlastně tohle ustanovení pro jednotlivé úřady nepřináší vůbec nic zásadně nového.",
+   "skupiny": [
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-29T12:01:48.926Z",
+   "upraveno": "2026-10-29T12:01:48.926Z"
+  },
+  {
+   "id": "k-mvvcc8t4gtcq",
+   "predpis": "2026/60",
+   "klic": "par_8/odst_1",
+   "citace": "§ 8 odst. 1",
+   "zneni": "2026-05-27",
+   "textUst": "Správce dat, který je ohlašovatelem agendy podle zákona o základních registrech, vytváří jako součást svého lokálního katalogu dat datový slovník agendy s popisem dat vedených v rámci agendy.",
+   "text": "Ohlašovatel agendy je zodpovědný za agendové slovníky a ostatní je v rámci standardizace přebírají. Tohle je jeden z klíčových mechanismů správy dat ve veřejné správě a je třeba na to myslet.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-10-30T19:04:00.664Z",
+   "upraveno": "2026-10-30T19:04:00.664Z"
+  },
+  {
+   "id": "k-mwdt8cc6bk5t",
+   "predpis": "2020/12",
+   "klic": "par_4/odst_3",
+   "citace": "§ 4 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "Orgány veřejné moci zveřejňují prostřednictvím Agentury elektronické formuláře, které po prokázání totožnosti uživatele služby s využitím elektronické identifikace zajistí automatizované doplnění údajů nezbytných pro poskytnutí digitální služby vedených v základním registru nebo agendovém informačním systému, které jsou orgánu veřejné moci zpřístupněné pro výkon agendy, nebo využívaných orgánem veřejné moci na základě souhlasu uživatele služby. Formát, strukturu a obsah formuláře stanoví orgán veřejné moci zveřejněním. Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel služby právo učinit digitální úkon podle své volby v jakémkoli výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu6).",
+   "text": "To lze splnit online formulářem na portálu OVM, online formulářovým nástrojem v portálu jako ISVS, nebo třeba i zjednodušeným formulářem přes EasyForms na PVS. Formulář musí vždy umožňovat vše tady uvedené.",
+   "skupiny": [
+    "sk-mvi2lxfdt078",
+    "sk-mvpfx38fmi0t"
+   ],
+   "vytvoreno": "2026-11-12T17:16:43.254Z",
+   "upraveno": "2026-11-12T17:16:43.254Z"
+  },
+  {
+   "id": "k-mwn4o6i7aq5g",
+   "predpis": "2021/325",
+   "klic": "par_4/pism_a",
+   "citace": "§ 4 písm. a)",
+   "zneni": "2026-04-01",
+   "textUst": "Poskytovatel zdravotních služeb je jako oprávněná osoba povinen dodržovat standardy elektronického zdravotnictví vydané ministerstvem podle § 38 odst. 2 písm. c); standardy elektronického zdravotnictví se považují za dodržené, pokud je namísto nich postupováno podle jiných právních předpisů,",
+   "text": "Poskytovatel dodržuje všechny vyhlášené standardy elektronického zdravotnictví. Kromě procesních (procesy dokumentace a správy) a bezpečnostních (bezpečnost u poskytovatele a bezpečnost propojení na centrální služby) jde především o datové a obsahové standardy záznamů a dokumentace (elektronická zdravotnická dokumentace). To dělá nejen při výměně EZD, ale i při jejím strukturování a ukládání v rámci svého informačního systému (ISPZS) v souladu s příslušnými ustanoveními zákona 372/2011.",
+   "skupiny": [
+    "sk-mvi2lxfdt078",
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T05:46:53.551Z",
+   "upraveno": "2026-11-19T05:46:53.551Z"
+  },
+  {
+   "id": "k-mwn4t4hi1xf6",
+   "predpis": "2021/325",
+   "klic": "par_4/pism_c",
+   "citace": "§ 4 písm. c)",
+   "zneni": "2026-04-01",
+   "textUst": "Poskytovatel zdravotních služeb je jako oprávněná osoba povinen ve svém informačním systému evidovat identifikátory zdravotnických pracovníků, kteří u něj vykonávají zdravotnické povolání v pracovněprávním nebo obdobném vztahu, a identifikátory pacientů, kterým poskytuje nebo poskytoval zdravotní služby, a",
+   "text": "V informačním systému musí být vždy zapsán příslušný identifikátor a obecně pro identifikaci v rámci výměny a dotazování se tento identifikátor využívá. Pozor ale na to, že nejde vždy stoprocentně o persistentní identifikátor a jde také o stykový identifikátor. Tedy ISPZS si vede vlastní technické unikátní identifikátory a identifikátory z kmenových registrů na ně váže.",
+   "skupiny": [
+    "sk-mvi2lxfdt078",
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T05:50:44.214Z",
+   "upraveno": "2026-11-19T05:50:44.214Z"
+  },
+  {
+   "id": "k-mwn4vte25omq",
+   "predpis": "2021/325",
+   "klic": "par_4/pism_d",
+   "citace": "§ 4 písm. d)",
+   "zneni": "2026-04-01",
+   "textUst": "Poskytovatel zdravotních služeb je jako oprávněná osoba povinen ve svém informačním systému zaznamenávat činnosti všech pověřených pracovníků přihlášených do jeho informačního systému, který využívá Integrované datové rozhraní.",
+   "text": "Pozor na to, že toto ustanovení je třeba opět číst v širším kontextu i ostatní legislativy, včetně zákona o zdravotních službách a zákona o kybernetické bezpečnosti a zákona o zpracování osobních údajů.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T05:52:49.802Z",
+   "upraveno": "2026-11-19T05:52:49.802Z"
+  },
+  {
+   "id": "k-mwn523aczc2d",
+   "predpis": "2021/325",
+   "klic": "par_5/pism_a/bod_1",
+   "citace": "§ 5 písm. a) bod 1",
+   "zneni": "2026-04-01",
+   "textUst": "Oprávněné osoby a zapisující osoby, s výjimkou pacienta, jsou povinny určit pověřené pracovníky a ověřit jejich totožnost, a to před přidělením přístupových údajů do svých informačních systémů využívajících Integrované datové rozhraní; je-li pověřeným pracovníkem zdravotnický pracovník, ověřit jeho údaje v Kmenovém registru zdravotnických pracovníků, a",
+   "text": "Tohle je trochu záludné, protože v kombinaci s ostatními ustanoveními to přináší docela zásadní potřeby a povinnosti. Je třeba ověřit identitu a to s využitím kmenového registru a služeb elektronické identifikace a také ověřit všechny související kmenové údaje, tedy žádné dokládání diplomů, žádné něco chceme po budoucím zaměstnanci. Hezky všechno elektronicky, z autoritativního zdroje (kmenové údaje a další systémy MZD) a auditovatelně a doložitelně.",
+   "skupiny": [
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T05:57:42.564Z",
+   "upraveno": "2026-11-19T05:57:42.564Z"
+  },
+  {
+   "id": "k-mwn5yxkfsqd4",
+   "predpis": "2021/325",
+   "klic": "par_10",
+   "citace": "§ 10",
+   "zneni": "2026-04-01",
+   "textUst": "Statistický ústav vytváří a zveřejňuje provozní dokumentaci Integrovaného datového rozhraní na Portálu elektronického zdravotnictví. Tato dokumentace stanoví postup, popis rozhraní a podmínky pro komunikaci oprávněných a zapisujících osob s Integrovaným datovým rozhraním, včetně jejich mobilních aplikací a portálových řešení určených pro pacienty, formu identifikátoru zdravotnického pracovníka, ve které je tento údaj z Kmenového registru zdravotnických pracovníků poskytován oprávněným osobám, formu identifikátoru pacienta, ve které je tento údaj z Kmenového registru pacientů poskytován oprávněným osobám, proces vydávání resortních certifikátů pro zaručené elektronické podpisy a resortních systémových a osobních certifikátů pro přístup k Integrovanému datovému rozhraní pro poskytovatele zdravotních služeb, popis služby zajišťující a poskytující resortní elektronická časová razítka a služby vzdáleného pečetění, postup, způsob, strukturu a formu zápisu osobních a dalších údajů do kmenových zdravotnických registrů, charakteristiku nástroje pro řízení identit pověřených pracovníků, včetně pravidel pro přidělování, změnu a rušení přístupových údajů pověřených pracovníků podle § 5 písm. a) bodu 2, popis služby zajišťující a poskytující komunikaci s informačními systémy oprávněných a zapisujících osob a propojení centrálních služeb elektronického zdravotnictví a popis služby zajišťující a poskytující komunikaci EZKarty s informačními systémy podle jiných právních předpisů.",
+   "text": "Tohle ustanovení je věcně neplatné a je v rozporu se zákonem, konkrétně se zákonem 365/2000, neboť podle tohoto zákona není přípustné přenést povinnosti správce ISVS na jinou osobu, včetně provozovatele. Tedy zodpovědným za veškeré povinnosti a činnosti správce je oproti tomuto ustanovení výhradně ministerstvo.",
+   "skupiny": [
+    "sk-mvi2lxfdt078",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T06:23:14.799Z",
+   "upraveno": "2026-11-19T06:23:14.799Z"
+  },
+  {
+   "id": "k-mwn65q9htzmu",
+   "predpis": "2021/325",
+   "klic": "par_11/odst_1/pism_a",
+   "citace": "§ 11 odst. 1 písm. a)",
+   "zneni": "2026-04-01",
+   "textUst": "K Integrovanému datovému rozhraní přistupuje oprávněná nebo zapisující osoba, s výjimkou pacienta a třetí osoby, která je právnickou nebo podnikající fyzickou osobou, prostřednictvím svého informačního systému, který byl vybaven resortním systémovým certifikátem pro přístup k Integrovanému datovému rozhraní automatizovaně nebo prostřednictvím pověřeného pracovníka,",
+   "text": "Tohle může být trochu nesrozumotelné, ale v praxi to znamená to, že veškeré funkce a operace v rámci povinného i nepovinného přístupu k IDRR se realizují výhradně přes řádně registrovaný ISPZS (informační systém poskytovatele zdravotních služeb) a to vždy řádně přihlášenou fyzickou osobou pracovníka a v kombinaci identity poskytovatele a identity pracovníka.",
+   "skupiny": [
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T06:28:31.925Z",
+   "upraveno": "2026-11-19T06:28:31.925Z"
+  },
+  {
+   "id": "k-mwn6csh67e4w",
+   "predpis": "2021/325",
+   "klic": "par_11/odst_1/pism_c",
+   "citace": "§ 11 odst. 1 písm. c)",
+   "zneni": "2026-04-01",
+   "textUst": "K Integrovanému datovému rozhraní přistupuje oprávněná nebo zapisující osoba, s výjimkou pacienta a třetí osoby, která je zdravotnickým pracovníkem, prostřednictvím osobních přístupových certifikátů pro zajištění přístupu zdravotnických pracovníků k Integrovanému datovému rozhraní.",
+   "text": "Tohle prakticky znamená, že prostřednictvím služeb daného ISPZS ale i mimo něj se zdravotnický pracovník hlásí do IDRR svým certifikátem tedy opět prostředkem vydaným v rámci IDRREID. Tohle platí třeba i pro případ, kdy se fyzická osoba zdravotnického pracovníka hlásí proto, aby ověřila svoje údaje v Kmenovém registru zdravotnického pracovníka.",
+   "skupiny": [
+    "sk-mvpfx38fmi0t",
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T06:34:01.386Z",
+   "upraveno": "2026-11-19T06:34:01.386Z"
+  },
+  {
+   "id": "k-mwn6o4su9z3b",
+   "predpis": "2021/325",
+   "klic": "par_11/odst_2",
+   "citace": "§ 11 odst. 2",
+   "zneni": "2026-04-01",
+   "textUst": "Pověřený pracovník přistupuje k Integrovanému datovému rozhraní prostřednictvím informačního systému oprávněné nebo zapisující osoby, která mu přidělila přístupové údaje do svého informačního systému.",
+   "text": "Tohle znamená, že si svážeme pracovníka s poskytovatelem přes identifikátory v kmenových registrech a pak zajistíme, aby tento zdravotnický pracovník, jedná-li naším jménem, tak činil v rámci ISPZS a jeho identifikace byla řádně propagována v rámci volání služeb rozhraní IDRR.",
+   "skupiny": [
+    "sk-mvpfx38fmi0t"
+   ],
+   "vytvoreno": "2026-11-19T06:42:50.574Z",
+   "upraveno": "2026-11-19T06:42:50.574Z"
+  },
+  {
+   "id": "k-mwn6xagmrfi7",
+   "predpis": "2021/325",
+   "klic": "par_13",
+   "citace": "§ 13",
+   "zneni": "2026-04-01",
+   "textUst": "Identifikátor zdravotnického pracovníka přiděluje ministerstvo při zápisu zdravotnického pracovníka do Kmenového registru zdravotnických pracovníků.\nIdentifikátor pacienta přiděluje ministerstvo při zápisu pacienta do Kmenového registru pacientů.\nKaždý zdravotnický pracovník je identifikován pouze jedním identifikátorem zdravotnického pracovníka. Každý pacient je identifikován pouze jedním identifikátorem pacienta. Identifikátor zdravotnického pracovníka nesmí být shodný s identifikátorem pacienta.\nIdentifikátor zdravotnického pracovníka a identifikátor pacienta nelze po přidělení měnit, pokud tento zákon nestanoví jinak.",
+   "text": "Tady je důležité to, že se nesměšují identifikátory napříč rolemi.",
+   "skupiny": [
+    "sk-mvi2alz38wrl"
+   ],
+   "vytvoreno": "2026-11-19T06:49:57.814Z",
+   "upraveno": "2026-11-19T06:50:34.404Z"
   }
  ],
  "stitky": [
@@ -1305,7 +1943,114 @@
    "popis": ""
   }
  ],
- "stitkyUstanoveni": [],
+ "stitkyUstanoveni": [
+  {
+   "predpis": "2004/499",
+   "klic": "par_63/odst_3",
+   "citace": "§ 63 odst. 3",
+   "zneni": "2025-01-01",
+   "textUst": "(3) Veřejnoprávní původci vykonávají spisovou službu v elektronické podobě v elektronických systémech spisové služby; vyžaduje-li to zvláštní povaha jejich působnosti, mohou vykonávat spisovou službu v listinné podobě nebo v elektronických systémech spisové služby odpovídajících požadavkům podle odstavce 4. Veřejnoprávní původci mohou využívat pouze elektronické systémy spisové služby, které splňují požadavky tohoto zákona, vyhlášky podle § 70 odst. 1 a národního standardu a u kterých je splnění těchto požadavků potvrzeno atestem. Ustanovení věty druhé se, pokud jde o potvrzování splnění požadavků atestem, nepoužije na elektronický systém spisové služby, který je součástí informačního systému pro nakládání s utajovanými informacemi34), a elektronický systém spisové služby využívaný obcemi neuvedenými v odstavci 1, školami, organizačními složkami obcí neuvedených v odstavci 1 a právnickými osobami zřízenými nebo založenými obcemi neuvedenými v odstavci 1.",
+   "stitky": [
+    "t-mvhxlvdnt9wr",
+    "t-mvhxurfpbqno"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "par_4/odst_1/pism_d",
+   "citace": "§ 4 odst. 1 písm. d)",
+   "zneni": "2025-11-01",
+   "textUst": "Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím informačního systému veřejné správy umožňujícího prokázání totožnosti uživatele služby s využitím elektronické identifikace5), autorizaci digitálního úkonu uživatelem služby a zpětné prokázání projevu vůle uživatele služby učinit digitální úkon, nebo",
+   "stitky": [
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvth7p1ivefa",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "predpis": "2016/134",
+   "klic": "par_211/odst_7",
+   "citace": "§ 211 odst. 7",
+   "zneni": "2025-04-03",
+   "textUst": "(7) Na komunikaci mezi zadavatelem a dodavatelem při zadávání veřejné zakázky se § 5 a 6 zákona o službách vytvářejících důvěru pro elektronické transakce neuplatní. Úkon učiněný prostřednictvím elektronického nástroje nebo datové schránky se považuje za podepsaný.",
+   "stitky": [
+    "t-mvi3wumvioru",
+    "t-mvi27i0vidi6",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "predpis": "2009/111",
+   "klic": "par_8/odst_5",
+   "citace": "§ 8 odst. 5",
+   "zneni": "2026-01-01",
+   "textUst": "(5) Správce agendového informačního systému používá vlastní identifikátory fyzických osob a právnických osob a za účelem komunikace s informačním systémem základních registrů nebo informačním systémem sdílené služby používá agendové identifikátory fyzických osob a identifikátory právnických osob vedené v registru osob.",
+   "stitky": [
+    "t-mvi3wumvioru",
+    "t-mvhxurfpbqno",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "par_4/odst_1/pism_b",
+   "citace": "§ 4 odst. 1 písm. b)",
+   "zneni": "2025-11-01",
+   "textUst": "Uživatel služby má právo činit digitální úkon vůči orgánu veřejné moci prostřednictvím kontaktního místa veřejné správy v případě digitálního úkonu, o kterém tak stanoví prováděcí právní předpis,",
+   "stitky": [
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "par_4/odst_6",
+   "citace": "§ 4 odst. 6",
+   "zneni": "2025-11-01",
+   "textUst": "Vyhodnotí-li orgán veřejné moci po posouzení podmínek podle odstavce 5, že by mu umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo nepřiměřenou zátěž, zašle Agentuře žádost o vyjádření k tomuto závěru. V případě souhlasného vyjádření Agentury orgán veřejné moci vyznačí závěr v katalogu služeb. V případě nesouhlasného vyjádření Agentury a pokud orgán veřejné moci na závěru trvá, rozhodne o tom, zda by umožnění učinění digitálního úkonu podle odstavce 1 písm. d) způsobilo orgánu veřejné moci nepřiměřenou zátěž, vláda.",
+   "stitky": [
+    "t-mvth7p1ivefa",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "predpis": "2026/60",
+   "klic": "par_8/odst_1",
+   "citace": "§ 8 odst. 1",
+   "zneni": "2026-05-27",
+   "textUst": "Správce dat, který je ohlašovatelem agendy podle zákona o základních registrech, vytváří jako součást svého lokálního katalogu dat datový slovník agendy s popisem dat vedených v rámci agendy.",
+   "stitky": [
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvth7p1ivefa",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  },
+  {
+   "predpis": "2020/12",
+   "klic": "par_4/odst_3",
+   "citace": "§ 4 odst. 3",
+   "zneni": "2025-11-01",
+   "textUst": "Orgány veřejné moci zveřejňují prostřednictvím Agentury elektronické formuláře, které po prokázání totožnosti uživatele služby s využitím elektronické identifikace zajistí automatizované doplnění údajů nezbytných pro poskytnutí digitální služby vedených v základním registru nebo agendovém informačním systému, které jsou orgánu veřejné moci zpřístupněné pro výkon agendy, nebo využívaných orgánem veřejné moci na základě souhlasu uživatele služby. Formát, strukturu a obsah formuláře stanoví orgán veřejné moci zveřejněním. Nezveřejní-li orgán veřejné moci elektronický formulář, má uživatel služby právo učinit digitální úkon podle své volby v jakémkoli výstupním datovém formátu podle zákona upravujícího archivnictví a spisovou službu6).",
+   "stitky": [
+    "t-mvi27i0vidi6",
+    "t-mvhxurfpbqno",
+    "t-mvth7p1ivefa",
+    "t-mvth5ciudw8q",
+    "t-mvi3x0b7x0t7"
+   ],
+   "upraveno": "2026-11-19T06:58:41.987Z"
+  }
+ ],
  "poradi": [
   "2011/372",
   "2021/325",
