@@ -1,4 +1,4 @@
-Zdravotnická dokumentace je znalostní páteří poskytování zdravotních služeb a péči o pacienty. V poslední době se výrazně změnil především [[diginemocnice:novy-ramec-vedeni-zdravotnicke-dokumentace]], tedy okolnosti a povinnosti vedení dokumentace v elektronické podobě, označované jako [[elektronická zdravotnická dokumentace]].
+Zdravotnická dokumentace je znalostní páteří poskytování zdravotních služeb a péči o pacienty. V poslední době se výrazně změnil především [[Nový rámec vedení zdravotnické dokumentace]], tedy okolnosti a povinnosti vedení dokumentace v elektronické podobě, označované jako [[elektronická zdravotnická dokumentace]].
 
 Definici zdravotnické dokumentace a základní rámec pro její vedení, správu a výměnu, udává zákon [[372/2011 Sb.]]:
 
@@ -13,5 +13,5 @@ Zákon č. 372/2011 v § 55 odst. 2 říká: Zdravotnická dokumentace musí bý
 To v praxi znamená, že se realizují takové procesy a opatření, díky kterým se obsahu dokumentace primárně věří. To je důležité zejména u EZD. Jsou využívány takové mechanismy, jako je [[autorizace zdravotnické dokumentace]] apod.
 
 
-Struktura zdravotnické dokumentace je díky nové vyhlášce [[predpis:444/2024]] výrazně přepracována a detailizována. Vyhláška dále udává některé technické aspekty pro [[diginemocnice:nove-povinnosti-k-vedeni-zdravotnicke-dokumentace]].
+Struktura zdravotnické dokumentace je díky nové vyhlášce [[predpis:444/2024]] výrazně přepracována a detailizována. Vyhláška dále udává některé technické aspekty pro [[Nové povinnosti k vedení zdravotnické dokumentace]].
 

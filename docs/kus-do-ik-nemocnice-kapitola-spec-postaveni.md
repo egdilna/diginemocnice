@@ -1,0 +1,7 @@
+Státní nemocnice je dle zákona o ISVS sice orgánem veřejné správy (jde o Státní právnickou osobu), ale fakticky nevykonává veřejnou správu a není orgánem veřejné moci podle zákona o základních registrech. Její hlavní úlohou je léčit pacienty a poskytovat jim zdravotní a další služby, i proto má velice specifické ICT prostředky a obdobně specifické potřeby řízení informatiky. Rámec informačních koncepcí v ČR je optimalizován především na úřady, které spravují informační systémy veřejné správy se všemi souvisejícími požadavky eGovernmentu, nemocnice ISFS nemá a proto je i přístup k IK odlišný od úřadů.
+
+{{Odlišnosti nemocnice oproti ostatním orgánům veřejné správy}}
+
+Z těchto důvodů je struktura i obsah IK přizpůsobena a doplněna o specifika digitalizace v oblasti zdravotnictví, zdravotnické dokumentace a sdílení elektronických zdravotních záznamů, což nahrazuje sdílení údajů a služby veřejné správy u úřadů. Dále se v IK klade důraz na zjednodušený popis současného stavu a potřeb změn u těch nejdůležitějších oblastech v nichž již nyní i SPO má určité digitalizační povinnosti.
+
+Cílem informační koncepce jako takové není bezezbytku naplnit veškeré kapitoly určené ve vvzorových osnovách pro úřady, ale splnit věcnou roli praktické a realizovatelné a vyhodnotitelné koncepce v orgánu veřejné správy. Je tedy důležité popsat zejména aspekty jež se týkají systémů pro fungování nemocnice jako poskytovatele zdravotních služeb, včetně budoucích povinností k elektronizaci zdravotnictví.
