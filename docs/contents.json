@@ -928,7 +928,8 @@
             ".migrace z dokuwiki"
           ]
         }
-      ]
+      ],
+      "draft": true
     },
     {
       "id": "aktuality",
