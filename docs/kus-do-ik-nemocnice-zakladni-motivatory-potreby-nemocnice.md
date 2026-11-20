@@ -1,0 +1,8 @@
+Nemocnice jako stakeholder má následující obecné potřeby jako motivátory:
+
+- Potřeba Poskytovat kvalitní zdravotní péči : Poskytovatel zdravotních služeb má hlavní úkol a to je poskytovat zdravotní služby, jeho to jeho primární potřeba to včetně sledování a zlepšování kvality služeb vůči pacientům.
+- Potřeba Rozvoj nemocnice : Díky digitalizaci se musí snižovat interní zátěž na zaméstnance nemocnice a tím může vzniknout personální, ekonomický a odborný prostor pro další rozvoj, třeba ke zlepšování jiných služeb a nebo v rámci výzkumu a vývoje.
+- Potřeba Zvýšení efektivity správnou digitalizací nemocnice : Digitalizace neslouží jen k modernizaci předávání údajů mezi poskytovateli a s dalšími účastníky elektronizace zdravotnictví, ale především pro zlepšení a zefektivnění fungování nemocnice, zlepšení péče o pacienty a také zjednodušení práve lékařů a zdravotnických pracovníků.
+- Potřeba Zajištění příjmů z vykázané péče : Nemocnice jako každý poskytovatel poskytuje také a především služby hrazené z veřejného zdravotního pojištění a za ně musí včas a   v plném rozsahu, je důležité zpracovat  podklady, předat pojišťovně a aktivně vynucovat plnění povinností ze strany pojišťovny.
+- Potřeba Přívětivé prostředí pro pacienty :  Pacientům neposkytujeme jen zdravotní služby, řada z nich tráví bohužel v nemocnici i dost svého času. Moderní ICT může přispět k pohodlí a lepšímu prostředí pro pacienty a k poskytování dalších nezbytných služeb.
+- Potřeba Podmínky a prostředí pro zaměstnance : Modernizace a efektivní využívání ICT musí vést ke zlepšení podmínek a snížení administrativní zátěže zaměstnanců.

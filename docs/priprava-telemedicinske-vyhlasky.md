@@ -1,0 +1,1 @@
+V rámci novelizace zákona o zdravotních službách [[:predpis:240-2024|]] se do zákona zavedly i první definice telemedicínských služeb. MZD k tomu připravuje [Návrh vyhlášky o telemedicínských zdravotních službách](https://www.odok.cz/portal/veklep/material/KORNDABAVWXJ)

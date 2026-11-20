@@ -14,5 +14,5 @@ Proto bylo dohodnuto, že do závazného pokynu [[odkaz:metodicky-pokyn-spo|]]
 
 ## Jak na tvorbu IK nemocnice
 
-- V září 2024 se uskutečnil [[Workshop pro nemocnice k IK|workshop pro státní nemocnice k IK]], ze kterého je publikována veřejná část záznamu
+- V září 2024 se uskutečnil [[Záznam z workshopu k IK pro státní nemocnice|workshop pro státní nemocnice k IK]], ze kterého je publikována veřejná část záznamu
 - K dispozici je [[Šablona: Informační koncepce (státní nemocnice)]], která spolu s dalšími nástroji může výrazně pomoci.

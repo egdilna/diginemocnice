@@ -1,5 +1,3 @@
-~~TASK:Michal Rada~~
-
 [[poskytovatel zdravotních služeb]] má jako povinný subjekt v rámci elektronizace zdravotnictví některé obecné povinnosti plynoucí ze zákona [[predpis:325/2021]] k výměně dat a sdílení zdravotnické dokumentace. To se dotýká jejich [[Informační systém poskytovatele zdravotních služeb|ISPZS]], kdy bude nezbytné jej na tyto věci připravit.
 
 Jde zejména o:

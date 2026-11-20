@@ -1,0 +1,1 @@
+To je zásadní, ale ne jednoduchá otázka. Pro některé nemocnice jde jen o přístup k informacím a jejich zhuštěné podobě, pro některé jde o platformu a prostor pro sdílení poznatků z praxe a některé zejména státní a veřejnoprávní nemocnice využívají všech výstupů projektu prostě pro to, že to za ně někdo připraví a oni tak mají méně práce.
