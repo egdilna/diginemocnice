@@ -440,15 +440,6 @@
           ]
         },
         {
-          "id": "tabulka-povinnosti-ez-poskytovatele-z-mapy-povinnosti",
-          "title": "Tabulka povinností EZ poskytovatele z mapy povinností",
-          "file": "tabulka-povinnosti-ez-poskytovatele-z-mapy-povinnosti.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ],
-          "hidden": true
-        },
-        {
           "id": "navrh-pozadavky-ispzs-interoperabilita",
           "title": "Rámcové požadavky pro ISPZS týkající se služeb EZ a interoperability",
           "file": "navrh-pozadavky-ispzs-interoperabilita.md",
@@ -498,15 +489,6 @@
             "diginemocnice ispzs",
             ".migrace z dokuwiki"
           ]
-        },
-        {
-          "id": "plantuml-kompozice-sluzeb-ispzs",
-          "title": "Diagram kompozice služeb ISPZS",
-          "file": "plantuml-kompozice-sluzeb-ispzs.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ],
-          "hidden": true
         }
       ],
       "type": "rozcestnik"
@@ -604,15 +586,6 @@
           ]
         },
         {
-          "id": "tabulka-souboru-digipovinnosti-nemocnice-krome-ez",
-          "title": "Tabulka souborů digipovinností nemocnice kromě EZ",
-          "file": "tabulka-souboru-digipovinnosti-nemocnice-krome-ez.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ],
-          "hidden": true
-        },
-        {
           "id": "ramcove-oblasti-cinnosti-nemocnice",
           "title": "Rámcové oblasti činností nemocnice",
           "file": "ramcove-oblasti-cinnosti-nemocnice.md",
@@ -636,16 +609,6 @@
             "pro manažery",
             ".migrace z dokuwiki"
           ]
-        },
-        {
-          "id": "plantuml-druhy-procesu-cinnosti-nemocnice",
-          "title": "Diagram druhů procesů a činností nemocnice",
-          "file": "plantuml-druhy-procesu-cinnosti-nemocnice.md",
-          "tags": [
-            "plantuml diagram",
-            ".migrace z dokuwiki"
-          ],
-          "hidden": true
         },
         {
           "id": "obecna-vzorova-struktura-procesu-a-cinnosti-klicovych-pro-nemocnici",
@@ -673,24 +636,6 @@
             "znalosti diginemocnice",
             ".migrace z dokuwiki"
           ]
-        },
-        {
-          "id": "plantuml-druhy-procesu-vazby-ramcove-oblasti-nemocnice",
-          "title": "Diagram vazeb rámcových oblastí na druhy procesů nemocnice",
-          "file": "plantuml-druhy-procesu-vazby-ramcove-oblasti-nemocnice.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ],
-          "hidden": true
-        },
-        {
-          "id": "tabulka-ramcove-cinnosti-nemocnice",
-          "title": "Tabulka rámcových činností nemocnice",
-          "file": "tabulka-ramcove-cinnosti-nemocnice.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ],
-          "hidden": true
         },
         {
           "id": "kus-do-ik-nemocnice-vnitrni-motivatory-interni-potreby-nemocnice",
@@ -824,114 +769,6 @@
       ]
     },
     {
-      "id": "workshopy-a-akce",
-      "title": "Akce a workshopy Diginemocnice.cz",
-      "file": "workshopy-a-akce.md",
-      "tags": [
-        ".migrace z dokuwiki"
-      ],
-      "type": "rozcestnik",
-      "children": [
-        {
-          "id": "2026-02-05-workshop-architektura-byznys-nemocnice",
-          "title": "5.2.2026: Náhradní Workshop diginemocnice.cz - Architektura a byznys nemocnice [7 - Proběhlo]",
-          "file": "2026-02-05-workshop-architektura-byznys-nemocnice.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "2026-02-26-online-workshop-fungovani-ispzs",
-          "title": "26.2.2026: Workshop diginemocnice.cz - Funkce a požadavky na ISPZS [7 - Proběhlo]",
-          "file": "2026-02-26-online-workshop-fungovani-ispzs.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "2026-06-18-konference-ncez-ikem-shrnuti",
-          "title": "Zhuštěné informace z konference MZ 18.6.2025",
-          "file": "2026-06-18-konference-ncez-ikem-shrnuti.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "2024-12-10-konference-ncez-projekty-ez",
-          "title": "📅 10.12.2024: konference Projekty digitalizace a interoperability rezortu zdravotnictví",
-          "file": "2024-12-10-konference-ncez-projekty-ez.md",
-          "tags": [
-            "uzavřené",
-            "jednání",
-            "proběhlo",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "akce-ui-duben",
-          "title": "Workshop Umělá inteligence v psychiatrické nemocnici (9.4.2025)",
-          "file": "akce-ui-duben.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "workshop-pro-nemocnice-k-ik",
-          "title": "Záznam z workshopu k IK pro státní nemocnice",
-          "file": "workshop-pro-nemocnice-k-ik.md",
-          "tags": [
-            "školení",
-            "pro nemocnice",
-            "znalosti diginemocnice",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "senohraby",
-          "title": "(nejen) eZdravotnictví z pohledu (nejen) nemocnice",
-          "file": "senohraby.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "prezentace-ispzs-jak-ma-fungovat-aplikacne",
-          "title": "Prezentace: ISPZS co to má být a jak to má fungovat podle EZ",
-          "file": "prezentace-ispzs-jak-ma-fungovat-aplikacne.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "prezentace-spoluprace-verejnopravnich-nemocnic-v-ict-a-digitalizaci",
-          "title": "Prezentace: Spolupráce veřejnoprávních nemocnic v ICT a digitalizaci",
-          "file": "prezentace-spoluprace-verejnopravnich-nemocnic-v-ict-a-digitalizaci.md",
-          "tags": [
-            "prezentace",
-            "pro nemocnice",
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "prezentace-workshop-leden-architektura-byznys-nemocnice",
-          "title": "Prezentace: Workshop Byznysová a další architektura nemocnice",
-          "file": "prezentace-workshop-leden-architektura-byznys-nemocnice.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        },
-        {
-          "id": "prezentace-workshop-prosinec-2025",
-          "title": "Prezentace: Co je nového a co nás čeká v eHealth?",
-          "file": "prezentace-workshop-prosinec-2025.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        }
-      ],
-      "draft": true
-    },
-    {
       "id": "aktuality",
       "title": "Aktuality z DigiNemocnice",
       "file": "aktuality.md",
@@ -997,91 +834,6 @@
       ]
     },
     {
-      "id": "kurzy",
-      "title": "Kurzy od DigiNemocnice",
-      "file": "kurzy.md",
-      "tags": [
-        "sekce",
-        "rozcestník",
-        "Naše kurzy",
-        ".migrace z dokuwiki"
-      ],
-      "perex": "Online kurzy k digitalizaci zdravotnictví, zdarma a pravidelně aktualizované",
-      "type": "rozcestnik",
-      "children": [
-        {
-          "id": "ezd-ramec-povinnosti",
-          "title": "Rychlokurz k novému pojetí elektronické zdravotnické dokumentace",
-          "file": "ezd-ramec-povinnosti.md",
-          "tags": [
-            "kurz",
-            "Zdravotnická dokumentace",
-            "eZdravotnictví",
-            ".migrace z dokuwiki"
-          ],
-          "perex": "Rychlé seznámení s novým pojetím zdravotnické dokumentace, elektronickou dokumentací a se základními povinnostmi jejího vedení a správy"
-        },
-        {
-          "id": "ezd-ramec-povinnosti-lekce-1",
-          "title": "Část 1: Zdravotnická dokumentace a Elektronická zdravotnická dokumentace",
-          "file": "ezd-ramec-povinnosti-lekce-1.md",
-          "tags": [
-            "lekce",
-            ".migrace z dokuwiki"
-          ],
-          "perex": "Nová definice zdravotnické dokumentace a její hlavní dopady"
-        },
-        {
-          "id": "ezd-ramec-povinnosti-lekce-2",
-          "title": "Část 2: Nový legislativní rámec k vedení zdravotnické dokumentace",
-          "file": "ezd-ramec-povinnosti-lekce-2.md",
-          "tags": [
-            "lekce",
-            ".migrace z dokuwiki"
-          ],
-          "perex": "Nový rámec pro zdravotnickou dokumentaci ve dvou klíčových zákonech"
-        },
-        {
-          "id": "ezd-ramec-povinnosti-lekce-3",
-          "title": "Část 3: Podrobně nová ustanovení v zákoně o zdravotních službách",
-          "file": "ezd-ramec-povinnosti-lekce-3.md",
-          "tags": [
-            "lekce",
-            ".migrace z dokuwiki"
-          ],
-          "perex": "Detailní rozbor a komentáře k novým ustanovením o vedení zdravotnické dokumentace v zákoně 372/2011"
-        },
-        {
-          "id": "ezd-ramec-povinnosti-lekce-4",
-          "title": "Část 4: Povinnosti k vedení zdravotnické dokumentace pro poskytovatele",
-          "file": "ezd-ramec-povinnosti-lekce-4.md",
-          "tags": [
-            "lekce",
-            ".migrace z dokuwiki"
-          ],
-          "perex": "Výpis konkrétních povinností pro poskytovatele"
-        },
-        {
-          "id": "ezd-ramec-povinnosti-lekce-5",
-          "title": "Část 5: Jak vést elektronickou zdravotnickou dokumentaci",
-          "file": "ezd-ramec-povinnosti-lekce-5.md",
-          "tags": [
-            "lekce",
-            ".migrace z dokuwiki"
-          ],
-          "perex": "Jak se s tím vypořádat v nemocnici či u jiného poskytovatele"
-        },
-        {
-          "id": "ezd-ramec-povinnosti-odpovedi-poradny",
-          "title": "Zajímavé odpovědi na otázky ke zdravotnické dokumentaci",
-          "file": "ezd-ramec-povinnosti-odpovedi-poradny.md",
-          "tags": [
-            ".migrace z dokuwiki"
-          ]
-        }
-      ]
-    },
-    {
       "id": "nastroje",
       "title": "Nástroje",
       "file": "nastroje.md",
@@ -1095,6 +847,279 @@
         }
       ],
       "type": "rozcestnik"
+    },
+    {
+      "id": "redakce",
+      "title": "Redakce",
+      "file": "redakce.md",
+      "type": "rozcestnik",
+      "emoji": "🛠️",
+      "children": [
+        {
+          "id": "drafts",
+          "title": "Drafts",
+          "file": "drafts.md",
+          "type": "rozcestnik",
+          "draft": true,
+          "children": [
+            {
+              "id": "workshopy-a-akce",
+              "title": "Akce a workshopy Diginemocnice.cz",
+              "file": "workshopy-a-akce.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "type": "rozcestnik",
+              "children": [
+                {
+                  "id": "2026-02-05-workshop-architektura-byznys-nemocnice",
+                  "title": "5.2.2026: Náhradní Workshop diginemocnice.cz - Architektura a byznys nemocnice [7 - Proběhlo]",
+                  "file": "2026-02-05-workshop-architektura-byznys-nemocnice.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "2026-02-26-online-workshop-fungovani-ispzs",
+                  "title": "26.2.2026: Workshop diginemocnice.cz - Funkce a požadavky na ISPZS [7 - Proběhlo]",
+                  "file": "2026-02-26-online-workshop-fungovani-ispzs.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "2026-06-18-konference-ncez-ikem-shrnuti",
+                  "title": "Zhuštěné informace z konference MZ 18.6.2025",
+                  "file": "2026-06-18-konference-ncez-ikem-shrnuti.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "2024-12-10-konference-ncez-projekty-ez",
+                  "title": "📅 10.12.2024: konference Projekty digitalizace a interoperability rezortu zdravotnictví",
+                  "file": "2024-12-10-konference-ncez-projekty-ez.md",
+                  "tags": [
+                    "uzavřené",
+                    "jednání",
+                    "proběhlo",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "akce-ui-duben",
+                  "title": "Workshop Umělá inteligence v psychiatrické nemocnici (9.4.2025)",
+                  "file": "akce-ui-duben.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "workshop-pro-nemocnice-k-ik",
+                  "title": "Záznam z workshopu k IK pro státní nemocnice",
+                  "file": "workshop-pro-nemocnice-k-ik.md",
+                  "tags": [
+                    "školení",
+                    "pro nemocnice",
+                    "znalosti diginemocnice",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "senohraby",
+                  "title": "(nejen) eZdravotnictví z pohledu (nejen) nemocnice",
+                  "file": "senohraby.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "prezentace-ispzs-jak-ma-fungovat-aplikacne",
+                  "title": "Prezentace: ISPZS co to má být a jak to má fungovat podle EZ",
+                  "file": "prezentace-ispzs-jak-ma-fungovat-aplikacne.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "prezentace-spoluprace-verejnopravnich-nemocnic-v-ict-a-digitalizaci",
+                  "title": "Prezentace: Spolupráce veřejnoprávních nemocnic v ICT a digitalizaci",
+                  "file": "prezentace-spoluprace-verejnopravnich-nemocnic-v-ict-a-digitalizaci.md",
+                  "tags": [
+                    "prezentace",
+                    "pro nemocnice",
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "prezentace-workshop-leden-architektura-byznys-nemocnice",
+                  "title": "Prezentace: Workshop Byznysová a další architektura nemocnice",
+                  "file": "prezentace-workshop-leden-architektura-byznys-nemocnice.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                },
+                {
+                  "id": "prezentace-workshop-prosinec-2025",
+                  "title": "Prezentace: Co je nového a co nás čeká v eHealth?",
+                  "file": "prezentace-workshop-prosinec-2025.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "kurzy",
+              "title": "Kurzy od DigiNemocnice",
+              "file": "kurzy.md",
+              "tags": [
+                "sekce",
+                "rozcestník",
+                "Naše kurzy",
+                ".migrace z dokuwiki"
+              ],
+              "perex": "Online kurzy k digitalizaci zdravotnictví, zdarma a pravidelně aktualizované",
+              "type": "rozcestnik",
+              "children": [
+                {
+                  "id": "ezd-ramec-povinnosti",
+                  "title": "Rychlokurz k novému pojetí elektronické zdravotnické dokumentace",
+                  "file": "ezd-ramec-povinnosti.md",
+                  "tags": [
+                    "kurz",
+                    "Zdravotnická dokumentace",
+                    "eZdravotnictví",
+                    ".migrace z dokuwiki"
+                  ],
+                  "perex": "Rychlé seznámení s novým pojetím zdravotnické dokumentace, elektronickou dokumentací a se základními povinnostmi jejího vedení a správy"
+                },
+                {
+                  "id": "ezd-ramec-povinnosti-lekce-1",
+                  "title": "Část 1: Zdravotnická dokumentace a Elektronická zdravotnická dokumentace",
+                  "file": "ezd-ramec-povinnosti-lekce-1.md",
+                  "tags": [
+                    "lekce",
+                    ".migrace z dokuwiki"
+                  ],
+                  "perex": "Nová definice zdravotnické dokumentace a její hlavní dopady"
+                },
+                {
+                  "id": "ezd-ramec-povinnosti-lekce-2",
+                  "title": "Část 2: Nový legislativní rámec k vedení zdravotnické dokumentace",
+                  "file": "ezd-ramec-povinnosti-lekce-2.md",
+                  "tags": [
+                    "lekce",
+                    ".migrace z dokuwiki"
+                  ],
+                  "perex": "Nový rámec pro zdravotnickou dokumentaci ve dvou klíčových zákonech"
+                },
+                {
+                  "id": "ezd-ramec-povinnosti-lekce-3",
+                  "title": "Část 3: Podrobně nová ustanovení v zákoně o zdravotních službách",
+                  "file": "ezd-ramec-povinnosti-lekce-3.md",
+                  "tags": [
+                    "lekce",
+                    ".migrace z dokuwiki"
+                  ],
+                  "perex": "Detailní rozbor a komentáře k novým ustanovením o vedení zdravotnické dokumentace v zákoně 372/2011"
+                },
+                {
+                  "id": "ezd-ramec-povinnosti-lekce-4",
+                  "title": "Část 4: Povinnosti k vedení zdravotnické dokumentace pro poskytovatele",
+                  "file": "ezd-ramec-povinnosti-lekce-4.md",
+                  "tags": [
+                    "lekce",
+                    ".migrace z dokuwiki"
+                  ],
+                  "perex": "Výpis konkrétních povinností pro poskytovatele"
+                },
+                {
+                  "id": "ezd-ramec-povinnosti-lekce-5",
+                  "title": "Část 5: Jak vést elektronickou zdravotnickou dokumentaci",
+                  "file": "ezd-ramec-povinnosti-lekce-5.md",
+                  "tags": [
+                    "lekce",
+                    ".migrace z dokuwiki"
+                  ],
+                  "perex": "Jak se s tím vypořádat v nemocnici či u jiného poskytovatele"
+                },
+                {
+                  "id": "ezd-ramec-povinnosti-odpovedi-poradny",
+                  "title": "Zajímavé odpovědi na otázky ke zdravotnické dokumentaci",
+                  "file": "ezd-ramec-povinnosti-odpovedi-poradny.md",
+                  "tags": [
+                    ".migrace z dokuwiki"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "include",
+          "title": "Include",
+          "file": "include.md",
+          "hidden": true,
+          "children": [
+            {
+              "id": "tabulka-povinnosti-ez-poskytovatele-z-mapy-povinnosti",
+              "title": "Tabulka povinností EZ poskytovatele z mapy povinností",
+              "file": "tabulka-povinnosti-ez-poskytovatele-z-mapy-povinnosti.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "plantuml-kompozice-sluzeb-ispzs",
+              "title": "Diagram kompozice služeb ISPZS",
+              "file": "plantuml-kompozice-sluzeb-ispzs.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "tabulka-souboru-digipovinnosti-nemocnice-krome-ez",
+              "title": "Tabulka souborů digipovinností nemocnice kromě EZ",
+              "file": "tabulka-souboru-digipovinnosti-nemocnice-krome-ez.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "plantuml-druhy-procesu-cinnosti-nemocnice",
+              "title": "Diagram druhů procesů a činností nemocnice",
+              "file": "plantuml-druhy-procesu-cinnosti-nemocnice.md",
+              "tags": [
+                "plantuml diagram",
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "plantuml-druhy-procesu-vazby-ramcove-oblasti-nemocnice",
+              "title": "Diagram vazeb rámcových oblastí na druhy procesů nemocnice",
+              "file": "plantuml-druhy-procesu-vazby-ramcove-oblasti-nemocnice.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            },
+            {
+              "id": "tabulka-ramcove-cinnosti-nemocnice",
+              "title": "Tabulka rámcových činností nemocnice",
+              "file": "tabulka-ramcove-cinnosti-nemocnice.md",
+              "tags": [
+                ".migrace z dokuwiki"
+              ],
+              "hidden": true
+            }
+          ]
+        }
+      ]
     }
   ]
 }
