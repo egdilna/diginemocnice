@@ -18,4 +18,4 @@ Dvěma hlavními předpisy jsou:
 Kromě samotných zákonů jsou závazné i další předpisy jako
 
 - [Vyhláška č. 444/2024 Sb., o zdravotnické dokumentaci](https://nastroje.egdilna.cz/leg/?repo=egdilna/diginemocnice&slozka=legislativni-knihovna-diginemocnice&pohled=predpis&predpis=2024/444)
-- [[Standardy elektronického zdravotnictví]] vydané - Požadavky na druhy a kategorie elektronických zdravotních záznamů (EHR) vyhlášené NCEZ
+- [[Standardy EZ|Standardy elektronického zdravotnictví]] vydané - Požadavky na druhy a kategorie elektronických zdravotních záznamů (EHR) vyhlášené NCEZ

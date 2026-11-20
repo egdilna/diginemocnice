@@ -1,0 +1,6 @@
+Základními odlišnostmi nemocnic, které se promítají i do IK jsou:
+
+* nejsou primárně orgány veřejné moci a nemají povinnosti související s výkonem agend, poskytováním digitálních služeb a propojeným datovým fondem - tedy jejich systémy nemají plnit související technické požadavky a nelze se z jejich plnění v IK zodpovídat
+* nespravují a neprovozují informační systémy veřejné správy - nemohou tedy řešit soulad s povinnostmi týkajícími se ISVS včetně využívání sdílených služeb pro ISVS, jako je propojení přes EGSB, apod. Přesto mohou s přizpůsobením adoptovat principy pořízení a správy systémů z dlouhodobého řízení na svoje klíčové systémy
+* Jejich hlavní oblasti činnosti se týkají jejich role poskytovatelů zdravotních služeb, mají velice specifické druhy klíčových systémů (souhrnně nazývané nemocniční informační systémy) a na tyto systémy se musí primárně vztahovat požadavky dlouhodobého řízení, proto je struktura IK tomuto specificky přizpůsobena
+* Nemají takové personální, ekonomické a znalostní prostředky pro tak komplexní řízení ICT jako třeba u ministerstva a tedy i požadavky na řídící procesy se musí zjednodušit a přizpůsobit jejim možnostem, zároveň by se neměla uměle snižovat jejich kvalita a neúměrně se zvyšovat související administrativa

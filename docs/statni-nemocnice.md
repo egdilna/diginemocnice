@@ -1,0 +1,1 @@
+Státní nemocnice jsou nemocnice, jejichž zřizovatelem je stát nebo ministerstvo, či jiný státní orgán. Jde především tedy o nemocnice, které zřizuje [[subjekt:mzd]]. Státní nemocnice jsou [[veřejnoprávní nemocnice]], jsou [[poskytovatel zdravotních služeb]] a mimo jiné pro účely řízení ICT jsou také [[egdilna:orgán veřejné správy]] protože jsou [[egdilna:státní právnická osoba]].
